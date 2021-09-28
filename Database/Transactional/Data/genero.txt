@@ -1,0 +1,475 @@
+Id	Gênero	Gênero Pai	Id Gênero Pai	Id Usuário Inclusão
+1	Blues			1
+2	Classical			1
+3	Country			1
+4	Dance / EDM (Electronic Dance Music)			1
+5	Easy Listening			1
+6	Folk / Acoustic			1
+7	Hip-hop and Rap			1
+8	Jazz			1
+9	Latin			1
+10	Metal			1
+11	New Age			1
+12	Pop			1
+13	R&B			1
+14	Rock			1
+15	World / Traditional Folk			1
+16	Acoustic Blues	Blues	1	1
+17	Blues	Blues	1	1
+18	Blues Rock	Blues	1	1
+19	British Blues	Blues	1	1
+20	Canadian Blues	Blues	1	1
+21	Chicago Blues	Blues	1	1
+22	Country Blues	Blues	1	1
+23	Delta Blues	Blues	1	1
+24	Electric Blues	Blues	1	1
+25	Gospel Blues	Blues	1	1
+26	Harmonica Blues	Blues	1	1
+27	Jazz Blues	Blues	1	1
+28	Jump Blues	Blues	1	1
+29	Louisiana Blues	Blues	1	1
+30	Memphis Blues	Blues	1	1
+31	Modern Blues	Blues	1	1
+32	New Orleans Blues	Blues	1	1
+33	Piano Blues	Blues	1	1
+34	Piedmont Blues	Blues	1	1
+35	Power Blues-Rock	Blues	1	1
+36	Pre-War Blues	Blues	1	1
+37	Punk Blues	Blues	1	1
+38	Rhythm And Blues	Blues	1	1
+39	Soul Blues	Blues	1	1
+40	Swamp Blues	Blues	1	1
+41	Texas Blues	Blues	1	1
+42	Traditional Blues	Blues	1	1
+43	Avant-Garde	Classical	2	1
+44	Baroque	Classical	2	1
+45	Chamber Ensemble	Classical	2	1
+46	Chamber Orchestra	Classical	2	1
+47	Choral	Classical	2	1
+48	Classical	Classical	2	1
+49	Classical Cello	Classical	2	1
+50	Classical Era	Classical	2	1
+51	Classical Guitar	Classical	2	1
+52	Classical Piano	Classical	2	1
+53	Classical Soprano	Classical	2	1
+54	Compositional Ambient	Classical	2	1
+55	Contemporary Classical	Classical	2	1
+56	Early Modern Classical	Classical	2	1
+57	Early Music	Classical	2	1
+58	Early Music Choir	Classical	2	1
+59	Early Music Ensemble	Classical	2	1
+60	Early Romantic Era	Classical	2	1
+61	Historically Informed Performance	Classical	2	1
+62	Impressionism	Classical	2	1
+63	Italian Baroque	Classical	2	1
+64	Late Romantic Era	Classical	2	1
+65	Medieval	Classical	2	1
+66	Minimalism	Classical	2	1
+67	Neoclassicism	Classical	2	1
+68	Opera	Classical	2	1
+69	Orchestra	Classical	2	1
+70	Polyphony	Classical	2	1
+71	Post-Romantic Era	Classical	2	1
+72	Renaissance	Classical	2	1
+73	Serialism	Classical	2	1
+74	String Quartet	Classical	2	1
+75	Violin	Classical	2	1
+76	Alberta Country	Country	3	1
+77	Alternative Country	Country	3	1
+78	Australian Country	Country	3	1
+79	Bakersfield Sound	Country	3	1
+80	Bluegrass	Country	3	1
+81	Bluegrass Gospel	Country	3	1
+82	Cajun	Country	3	1
+83	Classic Country Pop	Country	3	1
+84	Contemporary Country	Country	3	1
+85	Country	Country	3	1
+86	Country Dawn	Country	3	1
+87	Country Gospel	Country	3	1
+88	Country Pop	Country	3	1
+89	Country Rap	Country	3	1
+90	Country Road	Country	3	1
+91	Country Rock	Country	3	1
+92	Cowboy Western	Country	3	1
+93	Cowpunk	Country	3	1
+94	Dansband	Country	3	1
+95	Honky Tonk	Country	3	1
+96	Kentucky Roots	Country	3	1
+97	Modern Country Rock	Country	3	1
+98	Nashville Sound	Country	3	1
+99	Neo-Traditional Bluegrass	Country	3	1
+100	Neo-Traditional Country	Country	3	1
+101	New Americana	Country	3	1
+102	Oklahoma Country	Country	3	1
+103	Outlaw Country	Country	3	1
+104	Progressive Bluegrass	Country	3	1
+105	Queer Country	Country	3	1
+106	Red Dirt	Country	3	1
+107	Sertanejo	Country	3	1
+108	Texas Country	Country	3	1
+109	Traditional Bluegrass	Country	3	1
+110	Traditional Country	Country	3	1
+111	Truck-Driving Country	Country	3	1
+112	Western Swing	Country	3	1
+113	Wyoming Roots	Country	3	1
+114	Bass House	Dance / EDM (Electronic Dance Music)	4	1
+115	Bass Trap	Dance / EDM (Electronic Dance Music)	4	1
+116	Big Room	Dance / EDM (Electronic Dance Music)	4	1
+117	Breakbeat	Dance / EDM (Electronic Dance Music)	4	1
+118	Breakcore	Dance / EDM (Electronic Dance Music)	4	1
+119	Brostep	Dance / EDM (Electronic Dance Music)	4	1
+120	Chillstep	Dance / EDM (Electronic Dance Music)	4	1
+121	Complextro	Dance / EDM (Electronic Dance Music)	4	1
+122	Deep Big Room	Dance / EDM (Electronic Dance Music)	4	1
+123	Deep Groove House	Dance / EDM (Electronic Dance Music)	4	1
+124	Deep House	Dance / EDM (Electronic Dance Music)	4	1
+125	Deep Tropical House	Dance / EDM (Electronic Dance Music)	4	1
+126	Disco House	Dance / EDM (Electronic Dance Music)	4	1
+127	Dubstep	Dance / EDM (Electronic Dance Music)	4	1
+128	Edm	Dance / EDM (Electronic Dance Music)	4	1
+129	Electro House	Dance / EDM (Electronic Dance Music)	4	1
+130	Electro Swing	Dance / EDM (Electronic Dance Music)	4	1
+131	Electronic Trap	Dance / EDM (Electronic Dance Music)	4	1
+132	Electropop	Dance / EDM (Electronic Dance Music)	4	1
+133	Filthstep	Dance / EDM (Electronic Dance Music)	4	1
+134	Future Bass	Dance / EDM (Electronic Dance Music)	4	1
+135	Future Garage	Dance / EDM (Electronic Dance Music)	4	1
+136	Future House	Dance / EDM (Electronic Dance Music)	4	1
+137	Gaming Dubstep	Dance / EDM (Electronic Dance Music)	4	1
+138	Gaming Edm	Dance / EDM (Electronic Dance Music)	4	1
+139	Glitch Hop	Dance / EDM (Electronic Dance Music)	4	1
+140	House	Dance / EDM (Electronic Dance Music)	4	1
+141	Indie Electropop	Dance / EDM (Electronic Dance Music)	4	1
+142	Melodic Dubstep	Dance / EDM (Electronic Dance Music)	4	1
+143	Pop Dance	Dance / EDM (Electronic Dance Music)	4	1
+144	Pop Edm	Dance / EDM (Electronic Dance Music)	4	1
+145	Progressive Electro House	Dance / EDM (Electronic Dance Music)	4	1
+146	Progressive House	Dance / EDM (Electronic Dance Music)	4	1
+147	Progressive Trance	Dance / EDM (Electronic Dance Music)	4	1
+148	Sky Room	Dance / EDM (Electronic Dance Music)	4	1
+149	Tech House	Dance / EDM (Electronic Dance Music)	4	1
+150	Trance	Dance / EDM (Electronic Dance Music)	4	1
+151	Tropical House	Dance / EDM (Electronic Dance Music)	4	1
+152	Uplifting Trance	Dance / EDM (Electronic Dance Music)	4	1
+153	Vapor Soul	Dance / EDM (Electronic Dance Music)	4	1
+154	Vapor Twitch	Dance / EDM (Electronic Dance Music)	4	1
+155	Vocal House	Dance / EDM (Electronic Dance Music)	4	1
+156	Adult Standards	Easy Listening	5	1
+157	Ballroom	Easy Listening	5	1
+158	Big Band	Easy Listening	5	1
+159	Brill Building Pop	Easy Listening	5	1
+160	Classic Soundtrack	Easy Listening	5	1
+161	Deep Adult Standards	Easy Listening	5	1
+162	Easy Listening	Easy Listening	5	1
+163	Exotica	Easy Listening	5	1
+164	Hollywood	Easy Listening	5	1
+165	Light Music	Easy Listening	5	1
+166	Lounge	Easy Listening	5	1
+167	Movie Tunes	Easy Listening	5	1
+168	Romantico	Easy Listening	5	1
+169	Soundtrack	Easy Listening	5	1
+170	Space Age Pop	Easy Listening	5	1
+171	Swing	Easy Listening	5	1
+172	Torch Song	Easy Listening	5	1
+173	Vocal Jazz	Easy Listening	5	1
+174	Acoustic Pop	Folk / Acoustic	6	1
+175	American Folk Revival	Folk / Acoustic	6	1
+176	Anti-Folk	Folk / Acoustic	6	1
+177	Appalachian Folk	Folk / Acoustic	6	1
+178	Contemporary Folk	Folk / Acoustic	6	1
+179	Ectofolk	Folk / Acoustic	6	1
+180	Folk	Folk / Acoustic	6	1
+181	Folk Rock	Folk / Acoustic	6	1
+182	Freak Folk	Folk / Acoustic	6	1
+183	Indie Folk	Folk / Acoustic	6	1
+184	Lilith	Folk / Acoustic	6	1
+185	Medieval Folk	Folk / Acoustic	6	1
+186	Melancholia	Folk / Acoustic	6	1
+187	Mellow Gold	Folk / Acoustic	6	1
+188	Modern Folk Rock	Folk / Acoustic	6	1
+189	New Americana	Folk / Acoustic	6	1
+190	Psychedelic Folk	Folk / Acoustic	6	1
+191	Roots Rock	Folk / Acoustic	6	1
+192	Singer-Songwriter	Folk / Acoustic	6	1
+193	Stomp And Holler	Folk / Acoustic	6	1
+194	Traditional Folk	Folk / Acoustic	6	1
+195	Alternative Hip Hop	Hip-hop and Rap	7	1
+196	Atl Hip Hop	Hip-hop and Rap	7	1
+197	Atl Trap	Hip-hop and Rap	7	1
+198	Bounce	Hip-hop and Rap	7	1
+199	Chicago Rap	Hip-hop and Rap	7	1
+200	Christian Hip Hop	Hip-hop and Rap	7	1
+201	Conscious Hip Hop	Hip-hop and Rap	7	1
+202	Country Rap	Hip-hop and Rap	7	1
+203	Crunk	Hip-hop and Rap	7	1
+204	Dirty South Rap	Hip-hop and Rap	7	1
+205	East Coast Hip Hop	Hip-hop and Rap	7	1
+206	Electro	Hip-hop and Rap	7	1
+207	G Funk	Hip-hop and Rap	7	1
+208	Gangster Rap	Hip-hop and Rap	7	1
+209	Hardcore Hip Hop	Hip-hop and Rap	7	1
+210	Hip Hop	Hip-hop and Rap	7	1
+211	Hyphy	Hip-hop and Rap	7	1
+212	Industrial Hip Hop	Hip-hop and Rap	7	1
+213	Jazz Rap	Hip-hop and Rap	7	1
+214	Melodic Rap	Hip-hop and Rap	7	1
+215	Nerdcore	Hip-hop and Rap	7	1
+216	Old School Hip Hop	Hip-hop and Rap	7	1
+217	Pop Rap	Hip-hop and Rap	7	1
+218	Queens Hip Hop	Hip-hop and Rap	7	1
+219	Rap	Hip-hop and Rap	7	1
+220	Southern Hip Hop	Hip-hop and Rap	7	1
+221	Trap	Hip-hop and Rap	7	1
+222	Underground Hip Hop	Hip-hop and Rap	7	1
+223	Vapor Trap	Hip-hop and Rap	7	1
+224	West Coast Rap	Hip-hop and Rap	7	1
+225	Acid Jazz	Jazz	8	1
+226	Avant-Garde Jazz	Jazz	8	1
+227	Bebop	Jazz	8	1
+228	Bossa Nova	Jazz	8	1
+229	Classical Jazz Fusion	Jazz	8	1
+230	Contemporary Jazz	Jazz	8	1
+231	Contemporary Post-Bop	Jazz	8	1
+232	Cool Jazz	Jazz	8	1
+233	Dixieland	Jazz	8	1
+234	Ecm-Style Jazz	Jazz	8	1
+235	Ethio-Jazz	Jazz	8	1
+236	Free Improvisation	Jazz	8	1
+237	Free Jazz	Jazz	8	1
+238	Gypsy Jazz	Jazz	8	1
+239	Hard Bop	Jazz	8	1
+240	Harlem Renaissance	Jazz	8	1
+241	Indie Jazz	Jazz	8	1
+242	Jazz	Jazz	8	1
+243	Jazz Clarinet	Jazz	8	1
+244	Jazz Double Bass	Jazz	8	1
+245	Jazz Drums	Jazz	8	1
+246	Jazz Funk	Jazz	8	1
+247	Jazz Fusion	Jazz	8	1
+248	Jazz Guitar	Jazz	8	1
+249	Jazz Piano	Jazz	8	1
+250	Jazz Quartet	Jazz	8	1
+251	Jazz Saxophone	Jazz	8	1
+252	Jazz Trio	Jazz	8	1
+253	Jazz Trumpet	Jazz	8	1
+254	Jazz Vibraphone	Jazz	8	1
+255	Latin Jazz	Jazz	8	1
+256	Modern Jazz Piano	Jazz	8	1
+257	Ragtime	Jazz	8	1
+258	Samba-Jazz	Jazz	8	1
+259	Smooth Jazz	Jazz	8	1
+260	Soul Jazz	Jazz	8	1
+261	Spiritual Jazz	Jazz	8	1
+262	Straight-Ahead Jazz	Jazz	8	1
+263	Stride	Jazz	8	1
+264	Vintage Jazz	Jazz	8	1
+265	Vocal Jazz	Jazz	8	1
+266	Bachata	Latin	9	1
+267	Bachata Dominicana	Latin	9	1
+268	Bolero	Latin	9	1
+269	Bossa Nova	Latin	9	1
+270	Chicha	Latin	9	1
+271	Colombian Pop	Latin	9	1
+272	Cumbia	Latin	9	1
+273	Dominican Pop	Latin	9	1
+274	Flamenco	Latin	9	1
+275	Huayno	Latin	9	1
+276	Latin	Latin	9	1
+277	Latin Alternative	Latin	9	1
+278	Latin Arena Pop	Latin	9	1
+279	Latin Hip Hop	Latin	9	1
+280	Latin Jazz	Latin	9	1
+281	Latin Pop	Latin	9	1
+282	Latin Rock	Latin	9	1
+283	Mariachi	Latin	9	1
+284	Merengue	Latin	9	1
+285	Mexican Pop	Latin	9	1
+286	Neotango	Latin	9	1
+287	Nuevo Flamenco	Latin	9	1
+288	Perreo	Latin	9	1
+289	Pop Reggaeton	Latin	9	1
+290	Puerto Rican Pop	Latin	9	1
+291	Ranchera	Latin	9	1
+292	Reggaeton	Latin	9	1
+293	Reggaeton Colombiano	Latin	9	1
+294	Reggaeton Flow	Latin	9	1
+295	Rock En Espanol	Latin	9	1
+296	Salsa	Latin	9	1
+297	Spanish Pop	Latin	9	1
+298	Spanish Pop Rock	Latin	9	1
+299	Tango	Latin	9	1
+300	Tejano	Latin	9	1
+301	Timba	Latin	9	1
+302	Trap Latino	Latin	9	1
+303	Tropical	Latin	9	1
+304	Twoubadou	Latin	9	1
+305	Zouk	Latin	9	1
+306	Alternative Metal	Metal	10	1
+307	Black Metal	Metal	10	1
+308	Brutal Death Metal	Metal	10	1
+309	Crossover Thrash	Metal	10	1
+310	Dark Black Metal	Metal	10	1
+311	Death Metal	Metal	10	1
+312	Doom Metal	Metal	10	1
+313	Folk Metal	Metal	10	1
+314	German Metal	Metal	10	1
+315	German Power Metal	Metal	10	1
+316	Glam Metal	Metal	10	1
+317	Gothic Metal	Metal	10	1
+318	Groove Metal	Metal	10	1
+319	Hard Rock	Metal	10	1
+320	Melodic Death Metal	Metal	10	1
+321	Melodic Metal	Metal	10	1
+322	Metal	Metal	10	1
+323	Neo Classical Metal	Metal	10	1
+324	Neo-Trad Metal	Metal	10	1
+325	Nu Metal	Metal	10	1
+326	Nwothm	Metal	10	1
+327	Old School Thrash	Metal	10	1
+328	Power Metal	Metal	10	1
+329	Progressive Metal	Metal	10	1
+330	Speed Metal	Metal	10	1
+331	Swedish Metal	Metal	10	1
+332	Symphonic Black Metal	Metal	10	1
+333	Symphonic Metal	Metal	10	1
+334	Technical Death Metal	Metal	10	1
+335	Thrash Metal	Metal	10	1
+336	Us Power Metal	Metal	10	1
+337	Ambient	New Age	11	1
+338	Background Music	New Age	11	1
+339	Background Piano	New Age	11	1
+340	Bow Pop	New Age	11	1
+341	Calming Instrumental	New Age	11	1
+342	Classify	New Age	11	1
+343	Fourth World	New Age	11	1
+344	Healing	New Age	11	1
+345	Meditation	New Age	11	1
+346	Neo-Classical	New Age	11	1
+347	Neoclassical Darkwave	New Age	11	1
+348	New Age	New Age	11	1
+349	New Age Piano	New Age	11	1
+350	Operatic Pop	New Age	11	1
+351	Relaxative	New Age	11	1
+352	Sleep	New Age	11	1
+353	World Meditation	New Age	11	1
+354	Acoustic Pop	Pop	12	1
+355	Arab Pop	Pop	12	1
+356	Art Pop	Pop	12	1
+357	C-Pop	Pop	12	1
+358	Classify	Pop	12	1
+359	Dance Pop	Pop	12	1
+360	Electropop	Pop	12	1
+361	Escape Room	Pop	12	1
+362	Europop	Pop	12	1
+363	Hip Pop	Pop	12	1
+364	Hyperpop	Pop	12	1
+365	Indie Cafe Pop	Pop	12	1
+366	Indie Electropop	Pop	12	1
+367	Indie Pop	Pop	12	1
+368	Indie Poptimism	Pop	12	1
+369	J-Pop	Pop	12	1
+370	K-Pop	Pop	12	1
+371	Latin Pop	Pop	12	1
+372	Levenslied	Pop	12	1
+373	Metropopolis	Pop	12	1
+374	Mexican Pop	Pop	12	1
+375	Neo Mellow	Pop	12	1
+376	New Romantic	Pop	12	1
+377	New Wave Pop	Pop	12	1
+378	Pop	Pop	12	1
+379	Pop Dance	Pop	12	1
+380	Pop Edm	Pop	12	1
+381	Pop R&B	Pop	12	1
+382	Pop Rap	Pop	12	1
+383	Pop Rock	Pop	12	1
+384	Post-Teen Pop	Pop	12	1
+385	Social Media Pop	Pop	12	1
+386	Soft Rock	Pop	12	1
+387	Sophisti-Pop	Pop	12	1
+388	Talent Show	Pop	12	1
+389	Teen Pop	Pop	12	1
+390	Turkish Pop	Pop	12	1
+391	Vapor Soul	Pop	12	1
+392	Viral Pop	Pop	12	1
+393	Vispop	Pop	12	1
+394	Alternative R&B	R&B	13	1
+395	Disco	R&B	13	1
+396	Funk	R&B	13	1
+397	Gospel R&B	R&B	13	1
+398	Indie R&B	R&B	13	1
+399	Indie Soul	R&B	13	1
+400	Motown	R&B	13	1
+401	Neo R&B	R&B	13	1
+402	Neo Soul	R&B	13	1
+403	New Jack Swing	R&B	13	1
+404	Pop R&B	R&B	13	1
+405	Pop Soul	R&B	13	1
+406	Quiet Storm	R&B	13	1
+407	R&B	R&B	13	1
+408	Soul	R&B	13	1
+409	Trap Soul	R&B	13	1
+410	Urban Contemporary	R&B	13	1
+411	Acid Rock	Rock	14	1
+412	Album Rock	Rock	14	1
+413	Alternative Rock	Rock	14	1
+414	Art Rock	Rock	14	1
+415	Blues Rock	Rock	14	1
+416	British Invasion	Rock	14	1
+417	Britpop	Rock	14	1
+418	Classic Rock	Rock	14	1
+419	Dance Rock	Rock	14	1
+420	Dance-Punk	Rock	14	1
+421	Garage Rock	Rock	14	1
+422	Glam Rock	Rock	14	1
+423	Grunge	Rock	14	1
+424	Heartland Rock	Rock	14	1
+425	Indie Rock	Rock	14	1
+426	Math Rock	Rock	14	1
+427	Mellow Gold	Rock	14	1
+428	Metal	Rock	14	1
+429	Modern Alternative Rock	Rock	14	1
+430	Modern Blues Rock	Rock	14	1
+431	Modern Rock	Rock	14	1
+432	New Romantic	Rock	14	1
+433	New Wave	Rock	14	1
+434	Noise Rock	Rock	14	1
+435	Permanent Wave	Rock	14	1
+436	Post-Grunge	Rock	14	1
+437	Psychedelic Rock	Rock	14	1
+438	Rock	Rock	14	1
+439	Rock-And-Roll	Rock	14	1
+440	Rockabilly	Rock	14	1
+441	Roots Rock	Rock	14	1
+442	Soft Rock	Rock	14	1
+443	Southern Rock	Rock	14	1
+444	Symphonic Rock	Rock	14	1
+445	Afropop	World / Traditional Folk	15	1
+446	Arab Folk	World / Traditional Folk	15	1
+447	Canzone Genovese	World / Traditional Folk	15	1
+448	Celtic	World / Traditional Folk	15	1
+449	Celtic Harp	World / Traditional Folk	15	1
+450	Corsican Folk	World / Traditional Folk	15	1
+451	Desert Blues	World / Traditional Folk	15	1
+452	Finnish Folk	World / Traditional Folk	15	1
+453	Folkmusik	World / Traditional Folk	15	1
+454	Greek Folk	World / Traditional Folk	15	1
+455	Greek Guitar	World / Traditional Folk	15	1
+456	Griot	World / Traditional Folk	15	1
+457	Irish Folk	World / Traditional Folk	15	1
+458	Kundiman	World / Traditional Folk	15	1
+459	Malian Blues	World / Traditional Folk	15	1
+460	Mande Pop	World / Traditional Folk	15	1
+461	Min'yo	World / Traditional Folk	15	1
+462	Native American	World / Traditional Folk	15	1
+463	Neo Kyma	World / Traditional Folk	15	1
+464	Nordic Folk	World / Traditional Folk	15	1
+465	Norwegian Folk	World / Traditional Folk	15	1
+466	Rabindra Sangeet	World / Traditional Folk	15	1
+467	Russian Folk	World / Traditional Folk	15	1
+468	Scottish Folk	World / Traditional Folk	15	1
+469	Shamanic	World / Traditional Folk	15	1
+470	Sufi Chant	World / Traditional Folk	15	1
+471	Swedish Fiddle	World / Traditional Folk	15	1
+472	Tatar Folk	World / Traditional Folk	15	1
+473	World	World / Traditional Folk	15	1
+474	Yoik	World / Traditional Folk	15	1

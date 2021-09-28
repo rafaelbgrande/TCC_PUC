@@ -1,0 +1,64 @@
+Id	Nome	Email	Id Perfil	Id Usuário Inclusão
+1	Administrador	admin@music.com	1	1
+2	Adriano Monteiro Águas	adriano.aguas@music.com	5	1
+3	Agostinho Faria Bettencourt	agostinho.bettencourt@music.com	3	1
+4	Agostinho Semedo Gouveia	agostinho.gouveia@music.com	3	1
+5	Alexandre Pinto Lobo	alexandre.lobo@music.com	3	1
+6	Alfredo Góes Leite	alfredo.leite@music.com	2	1
+7	Arsénio Goulart Vidal de Saldanha	arsenio.saldanha@music.com	3	1
+8	Bartolomeu Fátima Modesto Coimbra	bartolomeu.coimbra@music.com	2	1
+9	Bruno de Castro de Almeida	bruno.almeida@music.com	4	1
+10	Caio Carvalho Veiga	caio.veiga@music.com	3	1
+11	Damião Torres Cruz	damiao.cruz@music.com	5	1
+12	Danilo Neves Madruga da Câmara	danilo.camara@music.com	4	1
+13	Eduardo Felipe Peres Gomes	eduardo.gomes@music.com	3	1
+14	Guilherme Miranda Mascarenhas	guilherme.mascarenhas@music.com	3	1
+15	Guilherme Pimentel Álvares	guilherme.alvares@music.com	4	1
+16	Henrique Mourinho Leite	henrique.leite@music.com	2	1
+17	Hélder Gonçalves Sousa	helder.sousa@music.com	1	1
+18	Hélder de Alencar Torres	helder.torres@music.com	5	1
+19	Ilídio de Andrade Pilar	ilidio.pilar@music.com	5	1
+20	Jaime Batista Rego	jaime.rego@music.com	4	17
+21	Jardel Cunha Góes	jardel.goes@music.com	5	1
+22	Joaquim Oliva Conceição	joaquim.conceicao@music.com	3	1
+23	José Sabrina Moreno de Vasconcelos	jose.vasconcelos@music.com	5	17
+24	João de Abrantes Texeira	joao.texeira@music.com	3	1
+25	Luis Leitão Paredes	luis.paredes@music.com	5	17
+26	Marco Nicolau Coutinho	marco.coutinho@music.com	2	1
+27	Nicolau Freitas Marins	nicolau.marins@music.com	5	1
+28	Nuno Nádia Campos Fernandes	nuno.fernandes@music.com	2	17
+29	Omar Braga Silvestre	omar.silvestre@music.com	4	17
+30	Otávio da Fonseca de Almeida	otavio.almeida@music.com	3	17
+31	Rodolfo de Gusmão Saldanha	rodolfo.saldanha@music.com	5	17
+32	Rogério de Lima Guardado	rogerio.guardado@music.com	5	17
+33	Samuel Gadelha Sá	samuel.sa@music.com	3	1
+34	Ulisses Arnaldo Abreu da Assunção	ulisses.assuncao@music.com	1	1
+35	Victorino Branco Alves	victorino.alves@music.com	3	17
+36	Victorino Coutinho Caló	victorino.calo@music.com	2	17
+37	Alexandra Pinheiro Costa	alexandra.costa@music.com	1	34
+38	Amara Leite Gonsalves	amara.gonsalves@music.com	3	34
+39	Amália Gadelha Carneiro	amalia.carneiro@music.com	2	34
+40	Andréia Baptista da Cruz	andreia.cruz@music.com	1	34
+41	Antonina de Saldanha Machado	antonina.machado@music.com	3	34
+42	Astride Demoliner Machuca	astride.machuca@music.com	3	34
+43	Bárbara Lobo Sarmento	barbara.sarmento@music.com	1	34
+44	Bárbara Sarmento Henriques	barbara.henriques@music.com	5	1
+45	Dorotéia Seixas Proença	doroteia.proenca@music.com	2	17
+46	Débora Nápoles Chão	debora.chao@music.com	2	34
+47	Eugénia Costa Barros	eugenia.barros@music.com	1	40
+48	Fausta Alencar Vidal	fausta.vidal@music.com	4	40
+49	Flávia Ferreira Peres	flavia.peres@music.com	1	47
+50	Geórgia Guardado Antunes	georgia.antunes@music.com	3	1
+51	Gisela da Moura Gouveia	gisela.gouveia@music.com	4	1
+52	Juliana Lopes Gonsalves	juliana.gonsalves@music.com	5	1
+53	Luísa Moreno Santos	luisa.santos@music.com	1	1
+54	Maria Proença Peres	maria.peres@music.com	4	1
+55	Marina Galaz Bettencourt	marina.bettencourt@music.com	1	1
+56	Noemi Jussim Pereira Cavaco	noemi.cavaco@music.com	5	17
+57	Olga Vidal Falcao	olga.falcao@music.com	2	40
+58	Patrícia Jardel de Noronha de Góes	patricia.goes@music.com	1	34
+59	Rebeca Mendes Rangel Albuquerque	rebeca.albuquerque@music.com	4	58
+60	Rosa Augusta de Aguiar da Cruz	rosa.cruz@music.com	3	1
+61	Sabrina Alcântara Pimenta	sabrina.pimenta@music.com	2	1
+62	Tatiana Lima Vasconcelos	tatiana.vasconcelos@music.com	2	1
+63	Íris Rebelo Vale Cordeiro	iris.cordeiro@music.com	4	58

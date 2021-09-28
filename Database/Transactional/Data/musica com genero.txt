@@ -1,0 +1,3086 @@
+Id	Id Gravadora	Nome	Intérpretes	Ano	Id Usuário Inclusão	Id Gênero 1	Id Gênero 2	Id Gênero 3
+1	5	Sweet Child O' Mine	Guns N' Roses	1987	5	224		
+2	6	Welcome To The Jungle	Guns N' Roses	1987	7	351	425	
+3	19	Paradise City	Guns N' Roses	1987	47	406		
+4	5	November Rain	Guns N' Roses	1991	37	332		
+5	8	Knockin' On Heaven's Door	Guns N' Roses	1991	56	27		
+6	12	Better	Guns N' Roses	2008	45	211		
+7	22	This I Love	Guns N' Roses	2008	18	170	116	
+8	7	Since I Don't Have You	Guns N' Roses	1993	5	448	465	
+9	18	Attitude	Guns N' Roses	1993	38	177	81	375
+10	3	Ain't It Fun	Guns N' Roses	1993	62	193	125	
+11	2	Live And Let Die	Guns N' Roses	1991	60	374	197	
+12	9	Don't Cry (Original)	Guns N' Roses	1991	12	158		
+13	19	Coma	Guns N' Roses	1991	40	357	45	
+14	3	Civil War	Guns N' Roses	1991	58	377	39	108
+15	19	Yesterdays	Guns N' Roses	1991	18	149		
+16	23	Estranged	Guns N' Roses	1991	19	300	68	
+17	16	You Could Be Mine	Guns N' Roses	1991	18	451	201	302
+18	21	Patience	Guns N' Roses	1988	15	412		
+19	17	Used To Love Her	Guns N' Roses	1988	5	24	150	
+20	20	Mr. Brownstone	Guns N' Roses	1987	50	389		
+21	7	My Michelle	Guns N' Roses	1987	39	334		
+22	12	Rock or Bust	AC/DC	2014	45	408	404	
+23	3	Play Ball	AC/DC	2014	59	135		
+24	10	Rock the Blues Away	AC/DC	2014	48	66	214	
+25	20	Nightrain	Guns N' Roses	1987	53	76	203	
+26	14	Rock N Roll Train	AC/DC	2008	39	354	199	
+27	13	Skies on Fire	AC/DC	2008	31	144	38	
+28	2	Big Jack	AC/DC	2008	44	73		
+29	15	Anything Goes	AC/DC	2008	49	369		
+30	19	War Machine	AC/DC	2008	28	398		
+31	15	She Likes Rock N Roll	AC/DC	2008	22	168	360	399
+32	22	Black Ice	AC/DC	2008	5	355	223	
+33	20	Hard as a Rock	AC/DC	1995	57	136		
+34	9	Back In Black	AC/DC	1980	36	401	332	358
+35	9	Highway to Hell	AC/DC	1979	54	425	339	124
+36	8	Thunderstruck	AC/DC	1990	38	426		
+37	16	T.N.T.	AC/DC	1976	58	331	271	37
+38	5	You Shook Me All Night Long	AC/DC	1980	25	282		
+39	8	Jailbreak	AC/DC	1984	22	84		
+40	2	Shoot to Thrill	AC/DC	2010	32	297	230	471
+41	3	Let There Be Rock	AC/DC	2010	38	76	58	290
+42	19	It's a Long Way to the Top (If You Wanna Rock 'N' Roll) - Original Australian Release	AC/DC	2009	27	121	87	
+43	22	Dirty Deeds Done Dirt Cheap	AC/DC	1976	8	248	429	434
+44	11	Rock and Roll Ain't Noise Pollution	AC/DC	1980	45	95		
+45	9	High Voltage	AC/DC	1976	23	105	236	213
+46	16	For Those About to Rock (We Salute You)	AC/DC	1981	29	46	138	
+47	20	Hells Bells	AC/DC	1980	48	32		
+48	15	Love Me Do - Mono / Remastered	The Beatles	2000	22	307	467	391
+49	3	From Me To You - Mono / Remastered	The Beatles	2000	55	67		
+50	7	She Loves You - Mono / Remastered	The Beatles	2000	60	366		
+51	7	I Want To Hold Your Hand - Remastered 2015	The Beatles	2000	31	435	408	399
+52	8	Can't Buy Me Love - Remastered 2015	The Beatles	2000	2	56		
+53	22	A Hard Day's Night - Remastered 2015	The Beatles	2000	33	54	222	
+54	22	I Feel Fine - Remastered 2015	The Beatles	2000	59	284	351	
+55	15	Eight Days A Week - Remastered 2015	The Beatles	2000	18	225		
+56	8	Help! - Remastered 2015	The Beatles	2000	15	98		
+57	9	Yesterday - Remastered 2015	The Beatles	2000	24	238		
+58	13	Day Tripper - Remastered 2015	The Beatles	2000	41	167	79	364
+59	5	We Can Work It Out - Remastered 2015	The Beatles	2000	18	347		
+60	10	Eleanor Rigby - Remastered 2015	The Beatles	2000	21	386	105	214
+61	12	Penny Lane - Remastered 2015	The Beatles	2000	54	258	315	226
+62	14	All You Need Is Love - Remastered 2015	The Beatles	2000	31	456		
+63	9	Hello, Goodbye - Remastered 2015	The Beatles	2000	57	435	29	
+64	17	Lady Madonna - Remastered 2015	The Beatles	2000	6	194		
+65	13	Hey Jude - Remastered 2015	The Beatles	2000	61	296	96	283
+66	12	Get Back - Remastered 2015	The Beatles, Billy Preston	2000	38	17	63	
+67	16	Something - Remastered 2015	The Beatles	2000	39	223		
+68	6	Come Together - Remastered 2015	The Beatles	2000	6	103		
+69	16	Let It Be - Remastered 2015	The Beatles	2000	7	93		
+70	18	Oh! Darling - Remastered	The Beatles	1969	9	258	235	
+71	14	Octopus's Garden - Remastered	The Beatles	1969	57	52	274	
+72	16	Here Comes The Sun - Remastered	The Beatles	1969	29	51		
+73	11	Across The Universe - Remastered	The Beatles	1970	35	111		
+74	1	Dear Prudence - Remastered	The Beatles	1968	42	251		
+75	18	While My Guitar Gently Weeps - Remastered	The Beatles	1968	43	385	196	
+76	13	Blackbird - Remastered	The Beatles	1968	55	135		
+77	3	Helter Skelter - Remastered	The Beatles	1968	44	255		
+78	20	Sgt. Pepper's Lonely Hearts Club Band - Remastered	The Beatles	1967	51	206		
+79	2	With A Little Help From My Friends - Remastered	The Beatles	1967	49	469	358	32
+80	21	Lucy In The Sky With Diamonds - Remastered	The Beatles	1967	22	440		
+81	8	A Day In The Life - Remastered	The Beatles	1967	9	448	160	330
+82	13	Drive My Car - Remastered	The Beatles	1965	12	407		
+83	15	Norwegian Wood (This Bird Has Flown) - Remastered	The Beatles	1965	34	312		
+84	22	In My Life - Remastered	The Beatles	1965	49	243		
+85	14	Ticket To Ride - Remastered	The Beatles	1965	47	247	251	422
+86	8	I've Just Seen A Face - Remastered	The Beatles	1965	14	166	16	407
+87	5	It Won't Be Long - Remastered	The Beatles	1963	17	288	272	
+88	2	Please Mister Postman - Remastered	The Beatles	1963	52	262		
+89	12	Hold Me Tight - Remastered	The Beatles	1963	34	379	95	132
+90	12	I Saw Her Standing There - Remastered	The Beatles	1963	42	301	356	
+91	11	Please Please Me - Remastered	The Beatles	1963	45	121	371	443
+92	5	Do You Want To Know A Secret - Remastered	The Beatles	1963	62	71		
+93	7	Twist And Shout - Remastered	The Beatles	1963	42	472	126	
+94	19	Everlong	Foo Fighters	1997	53	461	175	42
+95	4	The Pretender	Foo Fighters	2007	26	349		
+96	18	The Sky Is A Neighborhood	Foo Fighters	2017	13	404	390	261
+97	6	Best of You	Foo Fighters	2005	60	179	128	
+98	18	Learn to Fly	Foo Fighters	1999	42	233	472	
+99	5	Run	Foo Fighters	2017	27	91	328	146
+100	2	Dear Rosemary	Foo Fighters	2011	57	97	159	
+101	16	These Days	Foo Fighters	2011	14	369		
+102	5	Walk	Foo Fighters	2011	44	282	370	167
+103	7	Rope	Foo Fighters	2011	30	464	252	173
+104	22	This Is a Call	Foo Fighters	1995	61	53		
+105	14	Big Me	Foo Fighters	1995	44	298	218	173
+106	23	All My Life	Foo Fighters	2009	60	357	132	131
+107	14	My Hero	Foo Fighters	2009	49	346	292	
+108	4	Monkey Wrench	Foo Fighters	2009	50	37		
+109	1	Times Like These	Foo Fighters	2009	34	388		
+110	22	Breakout	Foo Fighters	2009	7	389		
+111	22	Wheels	Foo Fighters	2009	59	181	283	
+112	17	Jump - 2015 Remaster	Van Halen	1984	16	369	111	80
+113	3	Panama - 2015 Remaster	Van Halen	1984	63	241	37	
+114	23	Runnin' with the Devil - 2015 Remaster	Van Halen	1978	53	264		
+115	19	Hot for Teacher - 2015 Remaster	Van Halen	1984	17	253		
+116	10	You Really Got Me - 2015 Remaster	Van Halen	1978	20	74	388	
+117	14	Ain't Talkin' 'Bout Love	Van Halen	1996	60	302	137	354
+118	19	Dance the Night Away	Van Halen	1996	46	328	473	
+119	6	Eruption	Van Halen	1996	43	383	62	256
+120	5	Why Can't This Be Love	Van Halen	1996	46	422		
+121	4	Can't Stop Lovin' You	Van Halen	1996	41	440	119	369
+122	2	316	Van Halen	1991	37	60		
+123	16	Top of the World	Van Halen	1991	32	52		
+124	7	Love Walks In - 2004 Remaster	Van Halen	2004	37	138	23	399
+125	8	Right Now - 2004 Remaster	Van Halen	2004	37	55	287	471
+126	22	Everybody Wants Some!! - 2004 Remaster	Van Halen	2004	51	351	250	
+127	12	Wish You Were Here	Pink Floyd	1975	21	77	271	338
+128	22	Comfortably Numb	Pink Floyd	1979	41	466	180	
+129	20	Money	Pink Floyd	1973	15	161	22	
+130	15	Time	Pink Floyd	1973	53	128	107	
+131	20	Speak to Me	Pink Floyd	1973	40	206		
+132	10	Breathe (In the Air)	Pink Floyd	1973	3	287	205	
+133	16	On the Run	Pink Floyd	1973	8	141		
+134	12	The Great Gig in the Sky	Pink Floyd	1973	20	66	20	
+135	11	Us and Them	Pink Floyd	1973	18	390		
+136	20	Any Colour You Like	Pink Floyd	1973	32	275	462	363
+137	5	Brain Damage	Pink Floyd	1973	50	324		
+138	23	Eclipse	Pink Floyd	1973	10	233	130	
+139	9	Another Brick in the Wall, Pt. 1	Pink Floyd	1979	11	130		
+140	21	Another Brick in the Wall, Pt. 2	Pink Floyd	1979	50	345		
+141	16	Mother	Pink Floyd	1979	50	183	474	
+142	11	Goodbye Blue Sky	Pink Floyd	1979	30	135	261	149
+143	5	Another Brick in the Wall, Pt. 3	Pink Floyd	1979	45	97	188	41
+144	17	Hey You	Pink Floyd	1979	52	332		
+145	22	Waiting for the Worms	Pink Floyd	1979	7	106	219	317
+146	2	High Hopes	Pink Floyd	1994	9	231		
+147	19	Shine On You Crazy Diamond (Pts. 1-5)	Pink Floyd	1975	45	52	348	411
+148	12	Shine On You Crazy Diamond (Pts. 6-9)	Pink Floyd	1975	59	211		
+149	15	What Do You Want from Me	Pink Floyd	1994	56	163	51	
+150	11	Keep Talking	Pink Floyd	1994	22	170	331	67
+151	1	I Was Made For Lovin' You	KISS	1979	62	241	391	33
+152	22	Rock And Roll All Nite	KISS	1975	2	108	433	
+153	8	Heaven's On Fire	KISS	1984	63	442	202	
+154	9	Detroit Rock City	KISS	1978	55	447	55	221
+155	11	Crazy Crazy Nights	KISS	1987	18	217	199	
+156	12	Forever	KISS	2014	21	19	125	192
+157	8	Every Rose Has Its Thorn - Remastered 2003	Poison	1988	36	185		
+158	7	Nothin' But A Good Time - Remastered 2006	Poison	1988	62	264	354	136
+159	15	Talk Dirty To Me	Poison	1986	3	383		
+160	10	Is This Love - 2017 Remaster	Whitesnake	1987	46	447	416	
+161	3	Here I Go Again - 2011 Remaster	Whitesnake	1982	4	241	166	
+162	16	Love Ain't No Stranger	Whitesnake	1994	23	289	113	
+163	14	Fool for Your Loving	Whitesnake	1994	43	299		
+164	17	Forevermore	Whitesnake	2011	39	467		
+165	17	Dream On	Aerosmith	1973	18	445	410	215
+166	16	I Don't Want to Miss a Thing - From the Touchstone film, "Armageddon"	Aerosmith	1998	56	368		
+167	16	Sweet Emotion	Aerosmith	1975	54	333	389	404
+168	15	Walk This Way	Aerosmith	1975	52	110	418	
+169	20	Crazy	Aerosmith	1993	44	97		
+170	19	Angel	Aerosmith	2011	58	438		
+171	7	Janie's Got a Gun	Aerosmith	2011	25	461	141	
+172	17	Love in an Elevator	Aerosmith	2011	58	281		
+173	14	What It Takes	Aerosmith	2011	47	292	187	
+174	21	Cryin'	Aerosmith	2011	2	204	248	173
+175	15	Amazing	Aerosmith	2011	39	472		
+176	4	Jaded	Aerosmith	2011	10	100	473	
+177	20	Pink - The South Beach Mix	Aerosmith	2011	16	28		
+178	10	Dude (Looks Like A Lady)	Aerosmith	1994	8	86		
+179	9	What Could Have Been Love	Aerosmith	2012	45	345	433	
+180	16	Fly Away From Here	Aerosmith	2001	22	317	367	
+181	22	Sultans Of Swing	Dire Straits	1978	60	357		
+182	5	Walk Of Life	Dire Straits	1985	55	105	204	
+183	18	Money For Nothing	Dire Straits	1985	12	371	264	27
+184	17	Brothers In Arms	Dire Straits	1985	55	461	327	449
+185	9	Romeo And Juliet	Dire Straits	1980	38	329		
+186	14	So Far Away - Full Version	Dire Straits	1985	41	158	157	
+187	9	Riders on the Storm	The Doors	1971	55	433	136	467
+188	2	Break on Through (To the Other Side)	The Doors	1967	9	105	301	
+189	19	Light My Fire	The Doors	1967	35	130	441	267
+190	8	People Are Strange	The Doors	1967	18	358	184	53
+191	7	Love Her Madly	The Doors	1971	51	366	392	357
+192	11	Touch Me - 2017 Remaster	The Doors	2017	18	63		
+193	8	Roadhouse Blues - 2017 Remaster	The Doors	2017	38	416	128	
+194	20	Baba O'Riley	The Who	1971	25	299	330	55
+195	9	Behind Blue Eyes	The Who	1971	13	347	268	52
+196	16	My Generation - Stereo Version	The Who	1965	53	327	61	468
+197	4	Who Are You	The Who	1978	31	143		
+198	12	Pinball Wizard	The Who	1969	56	360	363	290
+199	7	Substitute - Single Version	The Who	2014	12	151	28	53
+200	17	The Seeker - Edit	The Who	2014	38	160	39	
+201	13	Happy Jack - Single Version / Mono Version	The Who	2014	10	419	363	
+202	3	Won't Get Fooled Again - Single Edit	The Who	2014	33	342		
+203	9	The Kids Are Alright - Mono Version	The Who	2014	5	197	48	
+204	6	You Better You Bet	The Who	2014	17	166	199	194
+205	6	Wonderwall - Remastered	Oasis	1995	40	41	205	
+206	23	Don't Look Back in Anger - Remastered	Oasis	1995	61	411		
+207	8	Stand by Me	Oasis	1997	27	174	24	
+208	10	Champagne Supernova - Remastered	Oasis	1995	24	259	18	314
+209	22	Live Forever - Remastered	Oasis	1994	34	355	256	212
+210	17	Supersonic	Oasis	2010	32	139	267	
+211	19	All Around the World	Oasis	2010	20	53	101	252
+212	10	Whatever	Oasis	2010	32	235	471	
+213	16	Don't Go Away	Oasis	1997	36	363	147	302
+214	3	Sunday Morning Call	Oasis	2000	33	244	263	
+215	15	Stairway to Heaven - Remaster	Led Zeppelin	1971	14	411	416	
+216	6	Immigrant Song - Remaster	Led Zeppelin	1970	33	234		
+217	21	Whole Lotta Love - 1990 Remaster	Led Zeppelin	1969	11	93	462	352
+218	17	Rock and Roll - Remaster	Led Zeppelin	2007	57	436	92	244
+219	22	Black Dog - Remaster	Led Zeppelin	2007	61	390	62	117
+220	13	D'yer Mak'er - Remaster	Led Zeppelin	2007	47	398	242	413
+221	11	Kashmir - Remaster	Led Zeppelin	2007	24	143	222	353
+222	23	All My Love - Remaster	Led Zeppelin	2007	2	395	201	45
+223	18	Going to California - Remaster	Led Zeppelin	1971	21	246		
+224	8	Basket Case	Green Day	1994	13	469	90	114
+225	18	Wake Me up When September Ends	Green Day	2004	12	54		
+226	9	American Idiot	Green Day	2004	14	388	280	
+227	10	Good Riddance (Time of Your Life)	Green Day	1997	40	196	298	
+228	5	21 Guns	Green Day	2009	3	284	165	432
+229	3	Welcome to Paradise	Green Day	2017	12	401	404	233
+230	21	When I Come Around	Green Day	2017	6	466	270	
+231	2	She	Green Day	2017	39	49	124	280
+232	16	Minority	Green Day	2017	59	317	209	
+233	22	Holiday	Green Day	2017	47	411	28	
+234	9	Boulevard of Broken Dreams	Green Day	2017	2	387	358	
+235	2	Know Your Enemy	Green Day	2017	26	119	45	
+236	22	Oh Love	Green Day	2017	24	168		
+237	9	Bang Bang	Green Day	2017	11	447	323	457
+238	3	Still Breathing	Green Day	2017	42	244		
+239	20	Revolution Radio	Green Day	2016	47	180		
+240	12	X-Kid	Green Day	2012	15	123	211	337
+241	21	Jesus of Suburbia	Green Day	2004	47	133	467	201
+242	19	Bohemian Rhapsody - Remastered 2011	Queen	1975	34	296	449	
+243	20	Don't Stop Me Now - Remastered 2011	Queen	1978	35	270		
+244	1	We Will Rock You - Remastered 2011	Queen	1977	56	26	362	
+245	6	Somebody To Love - 2014 Remaster	Queen	2014	24	53		
+246	11	Crazy Little Thing Called Love - Remastered 2011	Queen	2014	50	442	58	
+247	4	Another One Bites The Dust - Remastered 2011	Queen	1981	58	464		
+248	16	Fat Bottomed Girls - Remastered 2011	Queen	1981	55	445	309	
+249	8	You're My Best Friend - Remastered 2011	Queen	1981	58	394	106	
+250	1	We Are The Champions - Remastered 2011	Queen	1981	28	248	212	310
+251	11	A Kind Of Magic - Remastered 2011	Queen	1991	13	180	280	310
+252	16	Under Pressure - Remastered 2011	Queen, David Bowie	1991	56	196	165	
+253	12	Radio Ga Ga - Remastered 2011	Queen	1991	35	346	108	
+254	17	I Want To Break Free - Remastered 2011	Queen	1991	49	321	214	
+255	5	The Show Must Go On - Remastered 2011	Queen	1991	6	340	409	377
+256	23	Nothing Else Matters	Metallica	1991	39	220		
+257	22	Enter Sandman	Metallica	1991	27	126	215	404
+258	18	Master Of Puppets	Metallica	1986	31	335	28	
+259	11	The Unforgiven	Metallica	1991	9	145		
+260	23	One	Metallica	1988	26	73	36	
+261	12	Whiskey In The Jar	Metallica	1998	57	251	166	
+262	15	Sad But True	Metallica	1991	42	244		
+263	1	Fade To Black - Remastered	Metallica	1984	24	113		
+264	22	The Trooper - 1998 Remastered Version	Iron Maiden	1983	6	183	41	474
+265	8	Run to the Hills - 1998 Remastered Version	Iron Maiden	1982	59	458	245	
+266	18	Fear Of The Dark - 1998 Remastered Version	Iron Maiden	1992	12	236	398	
+267	20	The Number Of The Beast - 1998 Remastered Version	Iron Maiden	1982	18	405		
+268	8	Hallowed Be Thy Name - 1998 Remastered Version	Iron Maiden	1982	41	287	201	
+269	21	Wasting Love - 1998 Remastered Version	Iron Maiden	1992	45	412	49	191
+270	20	Can I Play with Madness - 1998 Remaster	Iron Maiden	1988	33	195	28	
+271	19	Smells Like Teen Spirit	Nirvana	1991	7	443		
+272	16	Come As You Are	Nirvana	1991	25	208	209	27
+273	20	Lithium	Nirvana	1991	10	208	464	394
+274	17	About A Girl - Remastered	Nirvana	1989	19	227	72	
+275	8	All Apologies	Nirvana	1993	35	410		
+276	5	In Bloom - Nevermind Version	Nirvana	2002	41	82	367	16
+277	19	Can't Help Falling in Love	Elvis Presley	1961	38	120	447	
+278	8	Jailhouse Rock	Elvis Presley	1958	47	112	333	
+279	12	Suspicious Minds	Elvis Presley	1969	36	336		
+280	6	Hound Dog	Elvis Presley	1958	5	134		
+281	8	Love Me Tender	Elvis Presley	2002	62	158	412	
+282	4	Stuck On You	Elvis Presley	2002	27	195	307	209
+283	13	It's Now or Never	Elvis Presley	2002	59	357	160	255
+284	10	(You're The) Devil in Disguise	Elvis Presley	2002	20	233		
+285	15	Burning Love	Elvis Presley	2002	61	133		
+286	9	Every Breath You Take - Remastered 2003	The Police	1983	12	432	22	
+287	20	Roxanne - Remastered 2003	The Police	1978	15	22	129	
+288	17	Message In A Bottle - Remastered 2003	The Police	1979	8	26		
+289	13	Every Little Thing She Does Is Magic - Remastered 2003	The Police	1981	43	129	387	
+290	16	So Lonely - Remastered 2003	The Police	1978	33	308		
+291	19	Can't Stand Losing You	The Police	1992	26	294	367	360
+292	2	Don't Stand So Close To Me	The Police	1992	30	382	366	312
+293	6	King Of Pain	The Police	1992	25	106		
+294	15	Poison	Alice Cooper	1989	25	289	461	
+295	10	School's Out	Alice Cooper	1972	6	449		
+296	9	I'm Eighteen	Alice Cooper	1971	20	239		
+297	14	House of Fire	Alice Cooper	2007	40	41	147	149
+298	4	Under My Wheels	Alice Cooper	1971	16	428	215	
+299	7	Crazy Train	Ozzy Osbourne	1980	52	355	179	
+300	19	Mama, I'm Coming Home	Ozzy Osbourne	1991	48	384		
+301	7	No More Tears	Ozzy Osbourne	1991	45	125	212	37
+302	15	Mr. Crowley - 2002 Version	Ozzy Osbourne	2003	41	154	450	
+303	15	Time After Time	Ozzy Osbourne	2003	40	141		
+304	23	Paranoid	Black Sabbath	1970	30	337		
+305	16	Iron Man	Black Sabbath	1970	11	268	121	
+306	19	War Pigs	Black Sabbath	1970	22	440		
+307	16	Dancing In the Dark	Bruce Springsteen	1984	8	410	316	392
+308	9	I'm On Fire	Bruce Springsteen	1984	61	144		
+309	7	Born to Run	Bruce Springsteen	1975	50	104		
+310	14	Born in the U.S.A.	Bruce Springsteen	1984	41	156		
+311	13	No Surrender	Bruce Springsteen	1984	21	241		
+312	1	Glory Days	Bruce Springsteen	1984	44	32	420	457
+313	11	The Ghost of Tom Joad	Bruce Springsteen	2016	24	302	20	130
+314	2	Streets of Philadelphia - Single Edit	Bruce Springsteen	1995	56	88		
+315	22	Alive	Pearl Jam	1991	32	109	462	
+316	14	Even Flow	Pearl Jam	1991	2	297	447	194
+317	7	Black	Pearl Jam	1991	5	120		
+318	4	Jeremy	Pearl Jam	1991	27	128	231	
+319	2	Last Kiss	Pearl Jam	1999	59	94		
+320	8	Better Man	Pearl Jam	2004	57	100	305	
+321	18	Yellow Ledbetter	Pearl Jam	2004	20	358	81	338
+322	6	Wishlist	Pearl Jam	2004	9	440		
+323	8	State of Love and Trust	Pearl Jam	2004	61	360	470	337
+324	17	Just Breathe	Pearl Jam	2009	21	177		
+325	9	Soldier of Love	Pearl Jam	1999	54	38		
+326	3	Porch	Pearl Jam	1991	35	296	213	207
+327	16	Oceans	Pearl Jam	1991	12	428	216	
+328	13	Canon Rock	Jerry C.	2009	8	402	420	380
+329	14	Always with Me, Always with You	Joe Satriani	1987	4	172	263	316
+330	21	Surfing with the Alien	Joe Satriani	1987	3	447	55	355
+331	16	Unstoppable Momentum	Joe Satriani	2013	30	381	360	332
+332	18	Somebody Told Me	The Killers	2004	55	362		
+333	11	When You Were Young	The Killers	2006	36	470		
+334	6	Human	The Killers	2013	31	70	239	
+335	20	Runaways	The Killers	2013	43	327	176	
+336	1	Miss Atomic Bomb	The Killers	2013	49	78	24	362
+337	12	Here Without You	3 Doors Down	2002	4	55		
+338	20	Here With Me	The Killers	2012	3	192		
+339	19	Sex on Fire	Kings of Leon	2008	15	232	144	200
+340	4	Use Somebody	Kings of Leon	2008	52	128	120	
+341	4	Californication	Red Hot Chili Peppers	1999	16	150		
+342	3	Under the Bridge	Red Hot Chili Peppers	1991	43	194	161	244
+343	6	Can't Stop	Red Hot Chili Peppers	2002	58	289	101	396
+344	1	Snow (Hey Oh)	Red Hot Chili Peppers	2006	48	106	385	108
+345	14	Otherside	Red Hot Chili Peppers	1999	5	136	366	322
+346	16	Brendan's Death Song	Red Hot Chili Peppers	2011	14	88		
+347	21	The Adventures of Rain Dance Maggie	Red Hot Chili Peppers	2011	6	284	430	417
+348	9	Dani California	Red Hot Chili Peppers	2006	25	197	269	438
+349	4	By the Way	Red Hot Chili Peppers	2002	4	148	295	
+350	2	Dark Necessities	Red Hot Chili Peppers	2016	14	384	303	
+351	12	Scar Tissue	Red Hot Chili Peppers	2003	58	34	350	21
+352	19	Pink as Floyd	Red Hot Chili Peppers	2013	17	353	357	112
+353	18	With Or Without You - Remastered	U2	1987	23	132	280	
+354	21	One	U2	1991	62	369		
+355	23	Beautiful Day	U2	2000	39	430	161	174
+356	9	I Still Haven't Found What I'm Looking For	U2	2006	17	252		
+357	15	Pride (In The Name Of Love)	U2	2006	39	76		
+358	20	Sunday Bloody Sunday	U2	2006	46	341		
+359	16	Elevation	U2	2006	59	76		
+360	5	Youre The Best Thing About Me	U2	2017	55	410		
+361	13	I'll Go Crazy If I Don't Go Crazy Tonight	U2	2009	45	308	382	374
+362	10	VI. Solitary Shell	Dream Theater	2002	63	359		
+363	14	To Live Forever	Dream Theater	2008	20	435	367	
+364	22	I Walk Beside You	Dream Theater	2008	36	249	151	
+365	6	Take the Time	Dream Theater	1992	56	203	362	
+366	19	All Along the Watchtower	Jimi Hendrix	1968	37	358	298	309
+367	16	Purple Haze	Jimi Hendrix	1967	13	86	213	
+368	6	Hey Joe	Jimi Hendrix	1967	22	24		
+369	16	Voodoo Child (Slight Return)	Jimi Hendrix	1968	55	215		
+370	15	The Wind Cries Mary	Jimi Hendrix	1997	11	20		
+371	13	Castles Made of Sand	Jimi Hendrix	1997	37	84	189	
+372	18	Bold as Love	Jimi Hendrix	1997	55	201	471	220
+373	20	Take on Me	a-ha	1985	7	203		
+374	23	Our House	Madness	1982	58	370	82	
+375	8	Save Tonight	Eagle-Eye Cherry	1997	27	205	84	
+376	2	Reptilia	The Strokes	2003	45	409	313	
+377	20	Last Nite	The Strokes	2001	3	340	297	
+378	1	Someday	The Strokes	2001	40	77	412	357
+379	16	You Only Live Once	The Strokes	2006	20	331	81	
+380	14	Celebrity Skin	Hole	1998	50	278	141	164
+381	4	Should I Stay or Should I Go - Remastered	The Clash	1982	23	385		
+382	7	Rock the Casbah - Remastered	The Clash	1982	47	382	396	195
+383	5	London Calling - Remastered	The Clash	1979	16	370		
+384	22	I Fought the Law	The Clash	2013	27	360	432	289
+385	3	Train in Vain (Stand by Me) - Remastered	The Clash	1979	3	170	119	330
+386	17	All The Small Things	blink-182	1999	43	180	359	
+387	14	What's My Age Again?	blink-182	1999	56	177		
+388	13	I Miss You	blink-182	2003	42	182		
+389	10	Have You Ever Seen The Rain	Creedence Clearwater Revival	1970	42	279	286	18
+390	1	Fortunate Son	Creedence Clearwater Revival	1969	27	395	376	82
+391	2	Bad Moon Rising	Creedence Clearwater Revival	1969	55	269	151	
+392	9	My Sacrifice	Creed	2001	20	299	446	
+393	3	One Last Breath	Creed	2001	50	379	463	89
+394	18	Higher	Creed	1999	34	286		
+395	10	Don't Stop Dancing	Creed	2001	5	164	119	
+396	21	With Arms Wide Open - New Version With Strings	Creed	1999	43	285	357	
+397	7	Away In Silence	Creed	2009	57	364	329	
+398	8	My Girl	The Temptations	1965	27	322	164	
+399	14	Footloose - From "Footloose" Soundtrack	Kenny Loggins	1984	44	414	64	257
+400	5	Do I Wanna Know?	Arctic Monkeys	2013	57	424	201	
+401	18	R U Mine?	Arctic Monkeys	2013	31	328		
+402	10	Why'd You Only Call Me When You're High?	Arctic Monkeys	2013	12	173		
+403	22	Suck It and See	Arctic Monkeys	2011	8	272		
+404	4	Dancing Shoes	Arctic Monkeys	2006	41	270	144	243
+405	7	Take Me Out	Franz Ferdinand	2004	52	98	367	
+406	1	Katherine Kiss Me	Franz Ferdinand	2009	7	312	31	
+407	1	Carry on Wayward Son	Kansas	1976	44	450	167	
+408	7	Dust in the Wind	Kansas	1977	10	151	354	298
+409	9	Are You Gonna Be My Girl	Jet	2003	31	421	366	178
+410	13	Last Resort	Papa Roach	2000	56	343		
+411	23	Like a Stone	Audioslave	2002	6	150	42	
+412	1	I Am the Highway	Audioslave	2002	29	466	308	256
+413	6	Be Yourself	Audioslave	2005	25	90	331	
+414	12	Losing My Religion	R.E.M.	1991	56	267	63	
+415	5	Everybody Hurts	R.E.M.	1992	62	374	60	234
+416	3	Shiny Happy People	R.E.M.	1991	29	183		
+417	5	It's The End Of The World As We Know It (And I Feel Fine)	R.E.M.	1987	55	414	195	253
+418	11	Stand	R.E.M.	2011	9	431		
+419	23	Imitation Of Life	R.E.M.	2011	13	250	235	
+420	6	Livin' On A Prayer	Bon Jovi	1986	41	423	443	
+421	11	You Give Love A Bad Name	Bon Jovi	1986	63	109		
+422	15	It's My Life	Bon Jovi	2000	15	115	334	388
+423	7	Always	Bon Jovi	1994	59	359	346	444
+424	7	Wanted Dead Or Alive	Bon Jovi	1986	30	419		
+425	22	Bed Of Roses	Bon Jovi	1992	19	136	220	346
+426	3	I'll Be There For You	Bon Jovi	1988	52	472		
+427	2	Have A Nice Day	Bon Jovi	2005	26	208	382	59
+428	14	Because We Can	Bon Jovi	2013	24	111		
+429	12	That's What The Water Made Me	Bon Jovi	2013	9	206	279	192
+430	2	Superman Tonight	Bon Jovi	2009	36	197	408	
+431	23	All About Lovin' You	Bon Jovi	2002	49	58		
+432	17	Misunderstood	Bon Jovi	2002	41	297		
+433	14	Keep The Faith	Bon Jovi	1992	49	23	448	467
+434	15	In These Arms	Bon Jovi	1992	63	357	160	
+435	14	Born To Be My Baby	Bon Jovi	1988	38	450		
+436	19	Someday I'll Be Saturday Night	Bon Jovi	1994	7	232	305	164
+437	6	Amen	Bon Jovi	2013	43	95		
+438	17	This House Is Not For Sale	Bon Jovi	2018	9	77	46	225
+439	19	I Wanna Be Sedated - 2002 Remaster	Ramones	1978	46	380		
+440	22	Blitzkrieg Bop - 2016 Remaster	Ramones	1976	26	113	118	
+441	2	Pet Sematary	Ramones	1989	11	344	399	
+442	1	Sheena Is a Punk Rocker - 2017 Remaster	Ramones	1977	32	365	112	
+443	13	Poison Heart	Ramones	1992	52	111	123	
+444	4	I Believe in a Thing Called Love	The Darkness	2003	37	117		
+445	12	I Believe in Miracles	Ramones	1989	17	443	151	
+446	21	Push	Matchbox Twenty	1996	33	281	294	
+447	5	3AM	Matchbox Twenty	1996	47	172		
+448	5	Unwell - 2007 Remaster	Matchbox Twenty	2007	57	337		
+449	20	Bent	Matchbox Twenty	2000	2	473	391	357
+450	22	She's so Mean	Matchbox Twenty	2012	61	229	456	
+451	21	Summer Of '69	Bryan Adams	1984	2	281		
+452	1	Heaven	Bryan Adams	1984	4	144	258	54
+453	12	(Everything I Do) I Do It For You	Bryan Adams	1991	19	363		
+454	16	Chop Suey!	System Of A Down	2001	58	94	112	
+455	5	Toxicity	System Of A Down	2001	57	458	201	275
+456	16	Lonely Day	System Of A Down	2005	41	103	194	
+457	22	Numb	Linkin Park	2003	60	205	87	
+458	14	In the End	Linkin Park	2000	43	49		
+459	13	CASTLE OF GLASS	Linkin Park	2012	17	287	146	355
+460	4	The Anthem	Good Charlotte	2002	61	431	233	311
+461	7	I Think We're Alone Now - Single Version	Tommy James & The Shondells	1967	29	76		
+462	10	The Kids Aren't Alright	The Offspring	1998	4	353	322	301
+463	13	Come Out And Play (Keep Em Separated)	The Offspring	2005	10	35	152	58
+464	16	Self Esteem	The Offspring	2005	49	350	465	
+465	12	Pretty Fly (For A White Guy)	The Offspring	1998	34	369	104	81
+466	9	You're Gonna Go Far, Kid	The Offspring	2008	4	458	414	370
+467	18	Why Don't You Get A Job	The Offspring	1998	56	313	292	403
+468	23	Want You Bad	The Offspring	2000	9	190	145	
+469	23	Staring At The Sun	The Offspring	1998	20	172	210	165
+470	23	She's Got Issues	The Offspring	1998	15	175	210	464
+471	20	Days Go By	The Offspring	2012	60	63		
+472	13	What Happened to You?	The Offspring	1994	31	365	43	406
+473	9	We're Not Gonna Take It	Twisted Sister	1984	13	209	371	450
+474	20	I Wanna Rock	Twisted Sister	1984	12	239	400	186
+475	6	We Built This City	Starship	1985	19	362	463	
+476	19	Pour Some Sugar on Me	Def Leppard	2013	29	423		
+477	20	Photograph	Def Leppard	2013	28	201	474	
+478	16	Animal	Def Leppard	2013	60	174	167	407
+479	5	This Is War	Thirty Seconds To Mars	2009	61	309	55	
+480	4	Kings And Queens	Thirty Seconds To Mars	2009	51	305	299	32
+481	1	Closer To The Edge	Thirty Seconds To Mars	2009	50	428	391	351
+482	12	Feels like the First Time	Foreigner	1977	48	278	345	
+483	23	I Would Walk 500 Miles	Kenny And The Scots	2012	61	113	215	
+484	16	Africa	TOTO	1982	57	205		
+485	16	Hold the Line	TOTO	1978	4	187	201	121
+486	17	Rosanna	TOTO	1982	32	423	163	454
+487	14	I'll Be Over You	TOTO	1986	23	414	326	
+488	16	More Than a Feeling	Boston	1976	37	137		
+489	16	Rock & Roll Band	Boston	1976	22	184	368	
+490	9	Peace of Mind	Boston	1976	4	165		
+491	6	Any Way You Want It - Live at Cobo Hall in Detroit, Michigan, August 1980	Journey	1980	6	247		
+492	9	Faithfully	Journey	1983	44	423	39	116
+493	2	Don't Stop Believin'	Journey	1981	55	146	131	
+494	23	Cum on Feel the Noize	Quiet Riot	1996	55	467	18	
+495	23	You Got It	Roy Orbison	1989	29	329	224	
+496	4	Fall Back Down	Rancid	2003	61	419		
+497	9	American Pie	Don McLean	1971	28	368	369	416
+498	23	Save Me	Remy Zero	2001	53	52	22	175
+499	13	Bad Reputation	Joan Jett & The Blackhearts	2006	16	33	293	
+500	3	Mr. Jones	Counting Crows	1993	2	32	196	135
+501	17	Listen to the Music	The Doobie Brothers	1972	37	150		
+502	6	Wild World	Yusuf / Cat Stevens	1970	26	373	165	427
+503	16	To Be With You - 2010 Remastered Version	Mr. Big	1991	22	180	315	
+504	20	Green-Tinted Sixties Mind - 2010 Remastered Version	Mr. Big	1991	9	296	110	
+505	16	Sweet Home Alabama	Lynyrd Skynyrd	1974	61	243		
+506	14	Free Bird	Lynyrd Skynyrd	1973	31	158		
+507	8	Simple Man	Lynyrd Skynyrd	1973	62	341	445	99
+508	1	What's Up?	4 Non Blondes	1992	11	197	310	308
+509	22	Uptown Girl	Billy Joel	2001	21	464		
+510	8	Tubthumping	Chumbawamba	1997	38	262		
+511	16	Kickstart My Heart	Mtley Cre	1989	57	410	325	
+512	15	Home Sweet Home	Mtley Cre	1985	12	444		
+513	17	Wind Of Change	Scorpions	1990	10	288	457	
+514	21	Rock You Like a Hurricane	Scorpions	2011	56	216	184	
+515	7	Still Loving You	Scorpions	2011	36	106		
+516	15	Beds Are Burning	Midnight Oil	1987	34	389	356	352
+517	7	Dressed For Success	Roxette	1988	52	315	392	226
+518	4	Foreplay / Long Time	Boston	1976	58	239	281	
+519	21	Disappear	INXS	2011	48	421	247	
+520	7	More Than Words	Extreme	1998	19	62		
+521	16	The Best	Tina Turner	2004	22	335	326	
+522	6	Born To Be Wild	Steppenwolf	1968	25	240	470	59
+523	22	Psycho Killer	Talking Heads	1992	51	374	254	
+524	11	Funk #49	James Gang	1997	5	65		
+525	20	Stand by Me	Ben E. King	1962	51	66	344	334
+526	17	Are You Gonna Go My Way	Lenny Kravitz	1993	20	55	316	
+527	1	Ironic - 2015 Remaster	Alanis Morissette	1995	45	303	65	
+528	17	You Oughta Know - 2015 Remaster	Alanis Morissette	1995	29	458	27	390
+529	6	Head over Feet - 2015 Remaster	Alanis Morissette	1995	47	292		
+530	15	(Don't Fear) The Reaper	Blue yster Cult	1976	50	164	431	
+531	21	Burnin' for You	Blue yster Cult	1981	20	444	179	133
+532	5	Living After Midnight	Judas Priest	1980	61	118	404	
+533	3	Let's Twist Again	Chubby Checker	1961	28	299		
+534	13	La Bamba	Los Lobos	1993	53	359	151	257
+535	16	Seven Nation Army	The White Stripes	2003	4	206	244	
+536	17	Smoke On The Water - Remastered 2012	Deep Purple	1972	11	116	375	51
+537	2	Burn - Remastered 2004	Deep Purple	1974	54	371	40	462
+538	18	Perfect Strangers	Deep Purple	1984	26	323	444	312
+539	20	Imagine - Remastered 2010	John Lennon	1971	56	291	187	143
+540	17	Down Under	Men At Work	1996	12	196		
+541	6	Bitter Sweet Symphony	The Verve	1997	17	28	437	432
+542	18	Don't You (Forget About Me) - Remastered	Simple Minds	2013	60	171	322	
+543	8	Karma Chameleon - Remastered 2002	Culture Club	1983	14	412	75	
+544	15	Blue Monday - 2016 Remaster	New Order	2005	15	111	342	114
+545	5	Just Like Heaven	The Cure	1987	11	182	273	
+546	20	Smokin'	Boston	1976	28	336	43	322
+547	22	Just Like Paradise	David Lee Roth	1988	22	151	28	
+548	10	Boys Don't Cry	The Cure	1979	34	402		
+549	4	Hotel California - 2013 Remaster	Eagles	1976	17	42	106	
+550	18	Epic	Faith No More	1989	15	320		
+551	13	Sunshine Of Your Love	Cream	1967	32	224		
+552	6	Anarchy In The UK	Sex Pistols	1977	31	289	258	331
+553	7	Mississippi Queen	Mountain	1970	61	135	447	40
+554	6	Cult of Personality	Living Colour	1988	5	22	27	
+555	21	Slow Ride	Foghat	1975	37	134		
+556	15	Hit Me With Your Best Shot	Pat Benatar	1980	36	358	92	365
+557	3	Story of My Life	Social Distortion	1990	15	145		
+558	5	Killing In The Name	Rage Against The Machine	1992	63	307	386	
+559	13	Black Hole Sun	Soundgarden	1994	63	142		
+560	10	Two Princes	Spin Doctors	1991	63	332	114	128
+561	7	Plush	Stone Temple Pilots	1992	63	119	259	
+562	14	Interstate Love Song	Stone Temple Pilots	1994	35	436		
+563	22	Sympathy For The Devil	The Rolling Stones	1968	58	457	362	
+564	16	Paint It Black	The Rolling Stones	1966	13	60		
+565	21	(I Can't Get No) Satisfaction - Mono Version / Remastered 2002	The Rolling Stones	1965	53	419	134	302
+566	20	Start Me Up - 2009 Re-Mastered Digital Version	The Rolling Stones	1981	18	249	308	
+567	6	Gimme Shelter	The Rolling Stones	1969	11	236		
+568	21	You Can't Always Get What You Want	The Rolling Stones	1969	36	268		
+569	22	You Really Got Me - Remastered	The Kinks	2014	33	63		
+570	14	Johnny B. Goode	Chuck Berry	1959	47	285	104	189
+571	4	Tush - 2006 Remaster	ZZ Top	1975	5	227	172	202
+572	23	Barracuda	Heart	1977	21	469	355	164
+573	6	Rock Around The Clock	Bill Haley & His Comets	1968	63	429	42	253
+574	17	Eye of the Tiger	Survivor	1985	10	144	126	
+575	2	The Final Countdown	Europe	1986	4	323	17	276
+576	6	Carrie	Europe	1986	39	80		
+577	13	Hitch a Ride	Boston	1976	33	77	222	
+578	7	Cocaine	Eric Clapton	1977	18	377	307	84
+579	8	Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster	Eric Clapton	1992	58	139		
+580	9	Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster	Eric Clapton	1992	6	254		
+581	3	Go Your Own Way	Fleetwood Mac	1988	47	259	70	
+582	13	Show Me The Way	Peter Frampton	1975	7	176		
+583	15	Let My Love Open The Door	Pete Townshend	1980	62	62	118	
+584	11	House of the Rising Sun	The Animals	1987	10	331	333	
+585	17	Forever Young	Alphaville	1984	63	472	216	
+586	19	Mrs. Robinson - From "The Graduate" Soundtrack	Simon & Garfunkel	1968	18	79		
+587	11	The Boxer	Simon & Garfunkel	1970	40	290	371	
+588	9	The Sound of Silence	Simon & Garfunkel	1968	24	228		
+589	6	Kayleigh	Marillion	1992	55	35	194	
+590	9	Everybody Wants To Rule The World	Tears For Fears	1985	63	449		
+591	22	I Should Have Known Better - Remastered	The Beatles	1964	7	260		
+592	11	How You Remind Me	Nickelback	2001	50	161	122	
+593	19	Rockstar	Nickelback	2005	14	44		
+594	16	Photograph	Nickelback	2005	5	33	456	315
+595	16	Gotta Be Somebody	Nickelback	2008	45	128	137	37
+596	17	Your Love	The Outfield	1985	61	41	234	37
+597	6	Photograph	Weezer	2001	6	166		
+598	6	Island In The Sun	Weezer	2001	37	167	346	
+599	11	I'll Be There for You (Theme from "Friends')	The Rembrandts	1995	12	127	425	
+600	12	Shine On	The Kooks	2008	13	122	297	
+601	4	Why Can't We Be Friends	Smash Mouth	2005	14	153		
+602	12	18 and Life	Skid Row	1989	49	270	84	424
+603	23	In a Darkened Room	Skid Row	1991	34	146		
+604	20	I Remember You	Skid Row	1989	56	26	408	364
+605	16	All Right Now	Free	2008	48	254		
+606	10	Heartache Tonight - 2013 Remaster	Eagles	1979	34	241		
+607	19	Hold On Loosely	38 Special	1980	33	320	202	453
+608	13	Magic Carpet Ride	Steppenwolf	1968	41	356	453	375
+609	21	Tom Sawyer	Rush	1981	32	442	470	120
+610	4	Day After Day	Badfinger	2017	27	138		
+611	13	Fat Lip	Sum 41	2001	39	84	112	
+612	3	Gives You Hell	The All-American Rejects	2008	9	255		
+613	17	The Middle	Jimmy Eat World	2001	28	245		
+614	10	Ocean Avenue	Yellowcard	2003	48	269	408	170
+615	15	Sweet Caroline	Neil Diamond	1969	22	386	27	
+616	16	School Days	The Runaways	2010	27	81	264	
+617	7	Modern Love - 1999 Remaster	David Bowie	1983	59	49		
+618	14	Every Road Leads Home To You	Richie Sambora	2012	16	201	142	
+619	20	Free Fallin'	Tom Petty	1989	17	67		
+620	11	Don't Stop - 2004 Remaster	Fleetwood Mac	1977	50	191	69	
+621	12	Never Gonna Give You Up	Rick Astley	1987	34	59	345	
+622	13	I Live My Life for You	Firehouse	1996	7	32	460	
+623	4	For the Love of God	Steve Vai	1990	5	16	35	288
+624	9	Tender Surrender	Steve Vai	1995	29	300	399	433
+625	3	Rainbow In The Dark	Dio	1983	32	218		
+626	4	Tainted Love	Soft Cell	1981	63	224	111	
+627	8	That's What I Like	Jive Bunny and the Mastermixers	2010	60	365		
+628	2	Chelsea Dagger	The Fratellis	2006	6	244		
+629	17	Great Balls of Fire - Live	Jerry Lee Lewis	2007	17	112		
+630	22	Crash into Me	Dave Matthews Band	1994	52	262		
+631	17	The Stone	Dave Matthews Band	1998	6	48	439	
+632	5	Steady, As She Goes	The Raconteurs	2006	11	87		
+633	20	Friday I'm In Love	The Cure	1992	45	371	129	
+634	11	Zombie	The Cranberries	1994	16	440	196	
+635	6	Alone	Heart	1987	30	69	78	319
+636	23	Linger	The Cranberries	1993	15	86		
+637	19	Chloe Dancer/Crown Of Thorns	Mother Love Bone	1992	10	71		
+638	9	Bulls On Parade	Rage Against The Machine	1996	48	210	224	104
+639	11	My Name Is Jonas	Weezer	1994	12	113	358	
+640	23	There Is a Light That Never Goes Out - 2011 Remaster	The Smiths	1986	3	263	77	
+641	6	Panic - 2011 Remaster	The Smiths	1987	37	416	446	
+642	2	Suedehead	Morrissey	1997	62	150	299	
+643	16	Hurt	Johnny Cash	2003	38	142	53	
+644	15	Dear God	Avenged Sevenfold	2007	62	190	324	80
+645	5	California Dreamin'	The Mamas & The Papas	1966	18	449	57	
+646	17	I Got You (I Feel Good)	James Brown	2014	16	416	283	
+647	5	Time for Me to Fly	REO Speedwagon	1978	15	217		
+648	12	Owner of a Lonely Heart	Yes	1983	50	391		
+649	22	Wouldn't It Be Nice - Stereo / Remastered	The Beach Boys	1966	31	463	350	69
+650	15	Dead As Yesterday	Zakk Wylde	1999	32	313	121	150
+651	14	Kiss You All Over - Rerecorded	Exile	2016	35	413		
+652	2	Cliffs Of Dover - Instrumental	Eric Johnson	1990	28	36	432	400
+653	14	Time Stand Still	Rush, Aimee Mann	1987	20	456		
+654	13	Kiss Me	Sixpence None The Richer	1997	16	176	70	
+655	19	Nothing Compares 2 U (feat. Rosie Gaines) - Live	Prince, Rosie Gaines	1993	6	445	141	
+656	20	Purple Rain	Prince	1984	24	347		
+657	4	Closing Time	Semisonic	1998	30	354	49	
+658	11	The Reason	Hoobastank	2004	18	189	234	
+659	20	Cold Hard Bitch	Jet	2003	4	327		
+660	1	Santeria	Sublime	1996	53	382	315	
+661	4	What I Got	Sublime	1996	19	142	37	293
+662	11	Oh, Pretty Woman	Roy Orbison	1962	31	286	428	
+663	19	Jumping Someone Else's Train	The Cure	1979	21	234		
+664	13	A Horse with No Name	America, George Martin	1972	60	256		
+665	14	Sirens	Pearl Jam	2013	36	145	270	167
+666	23	Bad Medicine	Bon Jovi	2010	16	394	346	
+667	22	For What It's Worth	Liam Gallagher	2017	8	355		
+668	18	Hysteria	Def Leppard	2013	5	253	442	
+669	4	Breaking the Law	Judas Priest	1980	54	186	253	113
+670	20	Rocket Queen	Guns N' Roses	1987	50	124	95	
+671	11	Arlandria	Foo Fighters	2011	54	331	341	
+672	9	The End - Remastered	The Beatles	1969	4	38	80	
+673	4	Shout, Pts. 1 & 2	The Isley Brothers	1999	5	288		
+674	14	Say It Ain't So	Weezer	1994	28	290		
+675	15	With Me	Sum 41	2007	28	34	18	238
+676	7	What Makes You Think You're the One - 2015 Remaster	Fleetwood Mac	1979	38	400	133	
+677	10	Cherry Bomb	The Runaways	1976	49	228	116	
+678	12	Smile Like You Mean It	The Killers	2004	11	178	145	110
+679	19	Spaceman	The Killers	2008	27	442		
+680	12	Read My Mind	The Killers	2006	48	43		
+681	16	Shot At The Night	The Killers	2013	13	412	142	201
+682	13	Blaze Of Glory	Jon Bon Jovi	1994	10	126	330	
+683	11	(Oh) Pretty Woman - 2015 Remaster	Van Halen	1982	11	211		
+684	7	Strawberry Fields Forever - Remastered	The Beatles	1967	45	464	125	230
+685	23	All Summer Long	Kid Rock	2008	42	118	187	
+686	21	Runnin' Down A Dream	Tom Petty	2008	17	273		
+687	23	Running on Empty	Jackson Browne	1977	41	199	349	371
+688	10	All Day and All of the Night	The Kinks	1964	55	43	192	
+689	3	La Grange - 2005 Remaster	ZZ Top	1973	34	411		
+690	9	One Way Or Another	Blondie	1981	10	97	428	
+691	12	Tuolumne	Eddie Vedder	2007	26	269		
+692	21	Unskinny Bop	Poison	1990	34	28	329	276
+693	14	Society	Eddie Vedder	2007	42	172	385	
+694	15	Hard Sun	Eddie Vedder	2007	31	208	18	
+695	14	Rise	Eddie Vedder	2007	2	411	433	250
+696	13	Bark at the Moon	Ozzy Osbourne	1983	41	21	473	
+697	16	Burden In My Hand	Soundgarden	1996	25	47		
+698	7	I Am Mine	Pearl Jam	2002	56	392	458	324
+699	15	No Rain	Blind Melon	1992	30	468		
+700	17	Just Take My Heart - 2010 Remastered Version	Mr. Big	1991	38	397	452	330
+701	22	Defying Gravity	Mr. Big	2017	34	153		
+702	16	Colorado Bulldog - 2009 Remastered Version	Mr. Big	1993	23	147	62	
+703	21	It's a Heartache	Bonnie Tyler	2006	58	155	268	
+704	19	Who'll Stop The Rain	Creedence Clearwater Revival	1970	11	146	370	54
+705	13	Sweet Hitch-Hiker	Creedence Clearwater Revival	1972	3	278		
+706	15	Dancing With Myself	Billy Idol	1985	14	78	331	
+707	17	Proud Mary	Creedence Clearwater Revival	1969	15	404		
+708	7	Gimme Three Steps	Lynyrd Skynyrd	1973	38	169		
+709	6	In Your Atmosphere - Live at the Nokia Theatre, Los Angeles, CA - December 2007	John Mayer	2008	19	240	441	
+710	13	Gimme All Your Lovin'	ZZ Top	1983	18	424		
+711	16	Change	Tears For Fears	1983	25	275	166	
+712	4	The Boys Are Back In Town	Thin Lizzy	1976	17	206		
+713	10	Rockin' in the Free World	Neil Young	1989	34	125	46	269
+714	6	Mister Sandman	Chet Atkins	1996	34	46	21	
+715	10	Folsom Prison Blues	Johnny Cash	1957	28	254		
+716	8	Words Of Love - Single Version	Buddy Holly	1958	11	139	200	
+717	4	Summertime Blues	Eddie Cochran	1996	55	171		
+718	1	Wipeout	The Surfaris	2013	61	303	364	
+719	21	I Can't Explain - Mono Version	The Who	2016	16	354	19	335
+720	10	Scarlet Begonias - 2013 Remaster	Grateful Dead	1974	17	462	373	
+721	8	What Difference Does It Make? - 2011 Remaster	The Smiths	1984	59	385		
+722	15	Possum Kingdom	Toadies	2017	60	140		
+723	10	Sex & Candy	Marcy Playground	1997	9	281	93	
+724	23	Turn A Square	The Shins	2003	31	438		
+725	9	Black or White - Single Version	Michael Jackson	2005	3	446		
+726	14	This Charming Man - 2011 Remaster	The Smiths	1984	32	84		
+727	14	Dream Lover	Bobby Darin	2004	31	449	264	227
+728	15	You Get What You Give	New Radicals	1998	9	249		
+729	9	Whole Lotta Rosie	AC/DC	1977	21	151	321	
+730	18	Pigs (Three Different Ones)	Pink Floyd	1977	36	152		
+731	14	Don't Dream It's Over	Crowded House	2010	7	123	307	
+732	8	Jessie's Girl	Rick Springfield	1981	8	239	157	
+733	20	Wake Me Up Before You Go-Go	Wham!	1984	35	367	37	
+734	5	Heart of Gold - 2017 Remaster	Neil Young	1977	19	177	442	255
+735	1	Who Made Who	AC/DC	1986	17	53	118	
+736	15	Stiff Competition	Cheap Trick	1978	7	453		
+737	18	Dr. Feelgood	Mtley Cre	1989	59	282		
+738	21	You'll Be In My Heart	Phil Collins	1999	56	436		
+739	23	Broken Wings	Mr. Mister	2010	58	227	449	
+740	6	In The Clear	Foo Fighters	2014	53	38		
+741	5	Song 2 - 2012 Remaster	Blur	1997	56	393	446	412
+742	8	Judgement Day	Van Halen	1991	52	206	283	333
+743	8	Lost Highway	Bon Jovi	2007	11	64	404	
+744	1	Baby, I Love Your Way - Surround Sound Mix	Peter Frampton	2006	46	246		
+745	21	Love Of My Life - Remastered 2011	Queen	1975	54	22	413	312
+746	13	Limelight	Rush	1981	37	369		
+747	23	Closer To The Heart	Rush	1977	4	34	310	162
+748	2	The Spirit Of Radio	Rush	1980	29	280		
+749	3	Green Eyes	Coldplay	2002	45	336		
+750	1	Unchained Melody	The Righteous Brothers	2008	34	129		
+751	22	Billie Jean	Michael Jackson	1982	52	76	300	213
+752	9	Beast Of Burden - Remastered	The Rolling Stones	1978	14	231	377	
+753	14	Enjoy the Silence	Depeche Mode	2006	56	175	187	361
+754	19	(Get Your Kicks On) Route 66	The Rolling Stones	1964	9	148		
+755	10	How Deep Is Your Love (2007 Remastered Saturday Night Fever LP Version)	Bee Gees	1978	22	340	390	243
+756	14	Girls Just Want to Have Fun	Cyndi Lauper	2014	18	186		
+757	7	The Chain - 2004 Remaster	Fleetwood Mac	1977	44	84	113	349
+758	20	My Sweet Lord	George Harrison	1970	14	263	338	141
+759	20	Hell Ain't a Bad Place to Be - Live at the Apollo Theatre, Glasgow, Scotland - April 1978	AC/DC	1978	39	52	165	144
+760	23	Heartbreak Hotel	Elvis Presley	1958	62	39	343	84
+761	6	Curse The Weather	Mo Lowda & the Humble	2015	4	298	457	
+762	6	Straight to Hell - Remastered	The Clash	1982	13	336	76	22
+763	2	Schema	Circa Survive	2014	24	60	186	438
+764	17	Fly Away	Lenny Kravitz	1998	28	187	448	
+765	14	How Bizarre	OMC	1996	40	201		
+766	9	Just Can't Get Enough	Depeche Mode	1981	32	169	232	
+767	18	What Do You Want From Me?	Monaco	2012	38	429	233	
+768	18	I Want To Break Free - Single Remix	Queen	1984	49	326		
+769	10	Heart-Shaped Box	Nirvana	1993	9	371		
+770	18	Gotten	Slash, Adam Levine	2010	48	95		
+771	17	Good Times Bad Times - 1993 Remaster	Led Zeppelin	1969	32	240	390	
+772	23	Communication Breakdown - Live on Tasty Pop Sundae from BBC Sessions;Remaster	Led Zeppelin	2016	54	225	470	72
+773	19	Ramble On - 1990 Remaster	Led Zeppelin	1969	9	278	224	211
+774	11	Moby Dick	Led Zeppelin	1969	17	404		
+775	22	Bring It on Home - 1993 Remaster	Led Zeppelin	1969	33	309	376	278
+776	22	Love Stinks	The J. Geils Band	1980	23	179	52	
+777	9	Friends - Remaster	Led Zeppelin	1970	38	183		
+778	4	Straight On	Heart	2002	26	239		
+779	19	Rock the Night	Europe	1986	18	334	473	282
+780	23	Alabama Getaway - 2013 Remaster	Grateful Dead	1980	18	383		
+781	23	Surfin' Bird - 2002 Remaster	Ramones	1977	11	362	298	
+782	16	The KKK Took My Baby Away - 2002 Remaster	Ramones	1981	23	236		
+783	23	Do You Remember Rock 'n' Roll Radio? - 2002 Remaster	Ramones	1980	59	317	176	87
+784	11	Runaway	Bon Jovi	1984	15	249	451	245
+785	17	The Man Who Sold The World - Live & Loud	Nirvana	1993	22	166		
+786	12	Heart Of Glass - Special Mix	Blondie	1981	10	159		
+787	2	The Tide Is High	Blondie	1999	28	323	332	234
+788	3	Chinese Rock	Ramones	1988	31	377	180	200
+789	7	Dogs	Pink Floyd	1977	43	270		
+790	9	Crazy	Seal	2004	9	354	56	
+791	16	No More Mr. Nice Guy	Alice Cooper	1973	18	220	112	327
+792	19	Strangers Like Me	Phil Collins	1999	57	165		
+793	23	Let's Dance - 2001 Remastered Version	Ramones	1976	56	140	442	
+794	8	Rock 'n' Roll High School - 2002 Remaster	Ramones	1980	28	329	173	407
+795	5	Five Years - 2012 Remaster	David Bowie	1972	10	106	415	269
+796	19	Starman - 2012 Remaster	David Bowie	1972	15	152	342	
+797	15	Heroes - 2017 Remaster	David Bowie	1977	22	443	61	
+798	3	Let's Dance - 1999 Remaster	David Bowie	1983	10	417	473	409
+799	11	Rebel Rebel - 2016 Remaster	David Bowie	1974	59	471	236	
+800	8	Start Me Up - Remastered 2009	The Rolling Stones	1981	31	151	334	
+801	23	Angie	The Rolling Stones	1973	12	214	30	
+802	14	Brown Sugar - 2009 Mix	The Rolling Stones	1971	35	301	40	388
+803	14	Wild Horses - 2009 Mix	The Rolling Stones	1971	55	425	136	101
+804	19	It's Only Rock'n'Roll (But I Like It) - Remastered 2009	The Rolling Stones	1974	21	61	374	
+805	5	Hey, Hey, What Can I Do - Remaster	Led Zeppelin	1982	21	242	195	
+806	14	I Want It All - Single Version	Queen	1989	11	249		
+807	7	Breakthru - Remastered 2011	Queen	1989	19	26		
+808	8	Tears of the Dragon - 2001 Remastered Version	Bruce Dickinson	1994	6	151		
+809	20	Under Cover of Darkness	The Strokes	2011	32	77	468	379
+810	21	Judy Is a Punk - 2016 Remaster	Ramones	1976	22	60		
+811	2	I Love Rock 'N Roll	Joan Jett & The Blackhearts	1981	54	114		
+812	5	Safari Song	Greta Van Fleet	2017	32	291	155	432
+813	16	Flower Power	Greta Van Fleet	2017	11	386		
+814	12	Highway Tune	Greta Van Fleet	2017	30	393		
+815	12	Rock And Roll Never Forgets	Bob Seger	1976	47	335	177	442
+816	22	American Girl	Tom Petty and the Heartbreakers	1976	61	443		
+817	7	Back In The U.S.S.R. - 2018 Mix	The Beatles	2018	60	453		
+818	11	Louie Louie	The Kingsmen	2006	30	439		
+819	12	Today - Remastered	The Smashing Pumpkins	1993	56	230	141	
+820	3	I Want You to Want Me	Cheap Trick	1977	14	472	226	
+821	4	I Hate Myself for Loving You	Joan Jett & The Blackhearts	1988	22	407	121	217
+822	2	Long Cool Woman (In a Black Dress) - 1999 Remaster	The Hollies	1971	26	130	215	
+823	23	Stranglehold	Ted Nugent	1975	58	276	95	400
+824	13	Once in a Lifetime - 2005 Remaster	Talking Heads	1980	22	449	445	74
+825	1	Mary Jane's Last Dance	Tom Petty and the Heartbreakers	2000	29	267	139	188
+826	6	Down On The Corner	Creedence Clearwater Revival	1969	63	146	260	47
+827	2	Heat Of The Moment	Asia	1982	51	57	149	130
+828	6	The Cold Wind	Greta Van Fleet	2018	51	353	18	
+829	5	I Don't Want to Talk About It - 2008 Remaster	Rod Stewart	1975	10	356		
+830	5	Naive	The Kooks	2006	20	339	40	460
+831	7	Home	Edward Sharpe & The Magnetic Zeros	2009	7	151	254	
+832	18	Fat Old Sun	Pink Floyd	1970	19	17	363	109
+833	4	Street Of Dreams	Rainbow	1983	38	273	430	127
+834	12	God Save The Queen	Sex Pistols	1977	30	295	35	52
+835	18	Pretty Vacant - Remastered	Sex Pistols	1977	21	191	268	260
+836	2	You're The One	Greta Van Fleet	2018	42	396		
+837	4	Anthem	Greta Van Fleet	2018	38	323	326	
+838	13	Bigmouth Strikes Again - 2011 Remaster	The Smiths	1986	28	214		
+839	3	Come and Get Your Love - Single Version	Redbone	1973	20	170	133	327
+840	22	I'm so Bored with the U.S.A. - Remastered	The Clash	1977	23	310	42	56
+841	14	Complete Control	The Clash	1977	14	448	468	
+842	5	Hey Ya!	Outkast	2003	9	117		
+843	7	A Little Respect - 2009 - Remaster	Erasure	1988	31	130	64	
+844	1	Wasted Years - 1998 Remaster	Iron Maiden	1986	19	470	448	225
+845	4	We Weren't Born To Follow	Bon Jovi	2009	31	301	240	28
+846	9	Still of the Night - 2018 Remaster	Whitesnake	1987	57	39	49	
+847	5	Live to Rise	Soundgarden	2012	35	444		
+848	13	Call Me The Breeze	Lynyrd Skynyrd	1974	25	34		
+849	4	Untraveled Road	Thousand Foot Krutch	2014	11	165	95	90
+850	23	Please, Please, Please, Let Me Get What I Want - 2011 Remaster	The Smiths	1984	31	323		
+851	7	A Matter of Feeling - 2010 Remaster	Duran Duran	1986	25	443		
+852	7	Ordinary World	Duran Duran	1993	32	216	259	
+853	2	Little Darlin'	The Diamonds	1996	23	272	466	239
+854	17	Blue Suede Shoes	Elvis Presley	1956	29	119	348	
+855	21	Mr Bojangles	Robbie Williams	2001	8	115	72	
+856	23	Creep	Radiohead	1993	15	260	72	127
+857	7	Youngblood	Green Day	2016	39	456		
+858	2	By My Side	The Interrupters	2016	60	142		
+859	4	Love Is Blind - 2018 Remaster	Whitesnake	2018	14	106	427	253
+860	13	Now You're Gone - 2009 Remaster	Whitesnake	1989	27	20	105	
+861	9	Burning Bridges - 2016 Remix	Pink Floyd	2016	14	113		
+862	12	We Didn't Start the Fire	Billy Joel	1989	33	463	162	
+863	19	School of Rock (Teacher's Pet)	The Original Broadway Cast Of School Of Rock	2015	59	254	355	
+864	15	After All	Whitesnake	2019	7	36	75	306
+865	11	Kittens Got Claws - 2009 Remaster	Whitesnake	1989	42	201	191	
+866	1	Lunatic Fringe	Red Rider	1981	35	113	363	133
+867	9	M.E.	Gary Numan	1979	42	304	163	170
+868	7	Killer Queen	Queen	2018	42	309		
+869	7	Believe In Love	Scorpions	1988	8	217		
+870	23	Days of Rock n Roll	Europe	2015	63	431		
+871	18	Sharp Dressed Man - 2008 Remaster	ZZ Top	1983	36	95		
+872	9	I Want Out	Helloween	1988	43	428	387	354
+873	23	Eagle Fly Free	Helloween	1988	11	445	124	16
+874	11	Summer '68 - 2011 Remastered Version	Pink Floyd	1970	8	187		
+875	5	Same Old Song And Dance	Aerosmith	2002	46	453	85	369
+876	12	I Love It Loud	KISS	1982	42	78	209	365
+877	2	Black Smoke Rising	Greta Van Fleet	2017	7	352		
+878	6	Peggy Sue	Buddy Holly	1958	17	287		
+879	18	Tutti Frutti	Little Richard	1957	38	81	227	68
+880	1	Starlight	Muse	2006	21	223	473	237
+881	19	It's So Easy	Guns N' Roses	1987	8	346		
+882	15	Breadfan	Metallica	1998	56	191	34	76
+883	17	Take on Me	Weezer	2019	40	166		
+884	18	You Won't See Me - Remastered	The Beatles	1965	41	202	155	
+885	3	Lovin', Touchin', Squeezin'	Journey	1979	15	404		
+886	3	Mama Kin - 1986 Sound City Session	Guns N' Roses	1987	24	470	216	
+887	21	Out Ta Get Me	Guns N' Roses	1987	62	289	297	
+888	17	Double Talkin' Jive	Guns N' Roses	1991	35	450		
+889	22	The Passenger	Iggy Pop	1977	23	298		
+890	1	All the Young Punks (New Boots and Contracts) - Remastered	The Clash	1978	40	374		
+891	12	Blister in the Sun - 2002 Remastered Version	Violent Femmes	1983	6	231		
+892	11	Remote Control - Remastered	The Clash	1977	11	188	74	457
+893	10	Safe European Home - Remastered	The Clash	2013	51	35	394	16
+894	13	Don't Go Away Mad (Just Go Away)	Mtley Cre	1989	36	113	96	399
+895	13	On the Other Side	The Strokes	2005	54	250	127	
+896	12	Think About You	Guns N' Roses	1987	45	109	139	
+897	2	Take It Back	Pink Floyd	1994	56	450	83	318
+898	6	Coming Back to Life	Pink Floyd	1994	32	216		
+899	20	Beth	KISS	1976	15	59	362	
+900	20	Here I Am - End Title	Bryan Adams	2002	63	244		
+901	20	Here Comes Your Man	Pixies	1989	24	214		
+902	13	Major Tom - Coming Home	Peter Schilling	1989	38	390	250	115
+903	9	Shadow of the Day	Linkin Park	2007	40	375	464	311
+904	10	Forever Now	Green Day	2016	28	130		
+905	7	She's A Beauty - Remastered 1991	The Tubes	1983	25	359	408	97
+906	10	Take The Money And Run	Steve Miller Band	1976	44	69	225	121
+907	2	Separate Ways (Worlds Apart)	Journey	1983	5	234	421	
+908	2	Only the Young	Journey	2001	12	328	124	
+909	17	Hard Times	Paramore	2017	39	224		
+910	12	Learning to Fly - Remix 2019	Pink Floyd	2019	15	129	462	
+911	7	Hungry Like the Wolf - 2009 Remaster	Duran Duran	1982	19	63		
+912	9	On the Turning Away - Remix 2019	Pink Floyd	2019	21	167	164	
+913	14	Just Tonight	The Pretty Reckless	2010	6	167	253	
+914	11	The Wicker Man - 2015 Remaster	Iron Maiden	2000	56	204	207	
+915	18	Hot Potatoes	The Kinks	2016	11	451	270	
+916	13	Lean on Me	Bill Withers	1972	56	196	363	
+917	3	Need You Tonight	INXS	1987	23	181	301	
+918	23	Caution	The Killers	2020	3	355		
+919	17	Romeo And Juliet	The Killers	2007	49	397		
+920	14	Buddy Holly	Weezer	1994	60	32	106	
+921	19	Time After Time	Cyndi Lauper	1983	56	135	269	
+922	1	Break My Stride	Matthew Wilder	1983	5	380		
+923	19	Shout At The Devil	Mtley Cre	1983	4	327	276	200
+924	7	Kids in America	The Muffs	2012	37	333		
+925	20	You Make My Dreams (Come True)	Daryl Hall & John Oates	1980	42	351	19	464
+926	3	She Drives Me Crazy	Fine Young Cannibals	1988	40	406		
+927	10	Hello, I Love You - 2017 Remaster	The Doors	2017	30	115	118	56
+928	2	Everywhere - 2017 Remaster	Fleetwood Mac	1987	17	79	307	
+929	19	Strange Brew	Cream	1967	49	170	225	
+930	23	Money (That's What I Want) - Remastered 2009	The Beatles	1963	30	55	190	
+931	7	Miserlou	Dick Dale and his Del-Tones	2006	10	351		
+932	7	I'm a Believer - 2006 Remaster	The Monkees	1967	10	246		
+933	8	You're Gonna Miss Me (2008 Remastered Original Mono LP Version)	13th Floor Elevators	2010	37	183	88	377
+934	6	Brown Eyed Girl	Van Morrison	1967	12	368		
+935	12	Houses of the Holy - 1990 Remaster	Led Zeppelin	1975	57	71	473	318
+936	1	Beat on the Brat - 2016 Remaster	Ramones	1976	49	391		
+937	17	The Ocean - 1990 Remaster	Led Zeppelin	1973	37	164		
+938	7	Travelin' Band	Creedence Clearwater Revival	1970	4	30	409	267
+939	4	Long Train Runnin'	The Doobie Brothers	1973	25	34		
+940	15	Peace Frog	The Doors	1970	48	17		
+941	16	Soul Kitchen	The Doors	1967	63	68	256	141
+942	23	Misty Mountain Hop - Remaster	Led Zeppelin	1971	49	20	298	256
+943	1	Feel like Makin' Love - 2015 Remaster	Bad Company	1975	16	162		
+944	12	Surrender	Cheap Trick	1978	18	179		
+945	10	Go All The Way	Raspberries	1972	32	321	375	175
+946	14	Jumpin' Jack Flash - Mono	The Rolling Stones	1966	38	323		
+947	19	Reelin' In The Years	Steely Dan	1972	24	365	466	189
+948	17	In The City	The Jam	1977	12	303	269	
+949	7	What I Like About You	The Romantics	1990	47	241		
+950	21	Do You Believe in Magic?	The Lovin' Spoonful	1965	2	324	288	401
+951	2	Piece Of My Heart	Janis Joplin	2007	22	188	229	470
+952	14	Band On The Run - Remastered 2010	Wings	1973	13	66	254	
+953	14	Jet Airliner	Steve Miller Band	1978	50	396		
+954	21	My Sharona	The Knack	1979	16	234	51	63
+955	3	Keep Yourself Alive	Queen	1973	25	191		
+956	17	Queen of the Highway	The Doors	1970	28	182	150	
+957	22	Blue Sunday	The Doors	1970	42	226	234	321
+958	3	Waiting for the Sun	The Doors	1970	60	323	370	233
+959	18	Peaches	The Presidents Of The United States Of America	1995	45	374	208	458
+960	22	Brain Stew	Green Day	1995	16	256	187	
+961	22	Who Wants To Live Forever - Remastered 2011	Queen	1991	20	376	381	
+962	10	Remedy	The Black Crowes	1992	59	103	335	93
+963	14	Loser	Beck	1994	37	387		
+964	13	Magic	Pilot	1974	16	283	255	376
+965	19	Right Back Where We Started From	Maxine Nightingale	2019	12	442	378	67
+966	13	Rio - 2009 Remaster	Duran Duran	1982	21	256	364	142
+967	12	Girls, Girls, Girls	Mtley Cre	1987	49	104	451	
+968	22	Wild Side	Mtley Cre	1987	6	57	374	258
+969	1	Surfin' Safari - Mono/Remastered 2012	The Beach Boys	2012	63	306	301	327
+970	15	Listen to My Heart - 2016 Remaster	Ramones	1976	11	28	18	468
+971	18	Barbara Ann	The Beach Boys	1975	23	108	259	
+972	8	Standing Outside the Fire	The Country Gentlemen	2015	52	472		
+973	14	I Want You Back	The Jackson 5	1969	25	155	262	
+974	19	Truly Madly Deeply	Savage Garden	1997	28	430		
+975	4	Rock in the U.S.A.	KnightsBridge	2020	44	142		
+976	11	Maggie May	Rod Stewart	1971	51	113	354	208
+977	8	Dammit, I Changed Again	The Offspring	2000	35	449	113	
+978	1	(Can't Get My) Head Around You	The Offspring	2003	10	47	16	
+979	18	Give A Little Bit	Supertramp	1977	16	411	44	241
+980	16	My Way	Elvis Presley	2014	61	118	332	55
+981	11	Tutti Frutti	Elvis Presley	1956	51	339	155	
+982	21	A Little Less Conversation - JXL Radio Edit Remix	Elvis Presley, JXL	2009	20	95	223	
+983	14	Total Eclipse of the Heart	Bonnie Tyler	2009	62	119	69	326
+984	6	Hooked on a Feeling	Blue Swede, Bjrn Skifs	1973	47	187		
+985	18	I've Had The Time Of My Life - Dirty Dancing	The Oscar Hollywood Musicals	2009	41	53	334	298
+986	7	Stayin' Alive - Remastered Version	Bee Gees	2004	56	245	67	
+987	18	Dancing Queen	ABBA	1976	6	437	116	
+988	23	Send Me An Angel	Scorpions	1990	61	331	216	
+989	4	No One Like You	Scorpions	2011	57	304	181	
+990	22	I Wanna Be Your Boyfriend - 2016 Remaster	Ramones	1976	21	108		
+991	15	Take Me To The Top	Mtley Cre	2019	52	166		
+992	5	Easy	Faith No More	1992	21	296	183	
+993	17	Sunday Rain	Foo Fighters	2017	7	167	433	
+994	7	Cold Day In The Sun	Foo Fighters	2005	59	225	114	
+995	15	Black Betty	Ram Jam	1977	41	176	189	
+996	2	I Heard It Through The Grapevine	Creedence Clearwater Revival	1976	16	118	105	
+997	11	Still Ill - 2011 Remaster	The Smiths	1984	30	82	142	
+998	15	Territorial Pissings	Nirvana	1991	2	296		
+999	9	Walk Like an Egyptian	The Bangles	2004	4	370		
+1000	3	Magic Dance	David Bowie	1986	37	308		
+1001	11	California Girls	David Lee Roth	1985	60	346	226	275
+1002	22	Bad Decisions	Two Door Cinema Club	2016	35	25	242	
+1003	9	Lick It Up	KISS	1983	30	426	198	52
+1004	23	Cemetry Gates - 2011 Remaster	The Smiths	1986	19	131	139	220
+1005	20	Rocket Man (I Think It's Going To Be A Long, Long Time)	Elton John	1972	29	173	37	
+1006	22	Fire and Rain	James Taylor	1976	49	346	300	
+1007	14	Don't Be Cruel	Elvis Presley	2002	3	186	422	115
+1008	8	Crying In the Chapel	Elvis Presley	2002	60	39	338	
+1009	2	Sweet Virginia	The Rolling Stones	1972	29	326	444	
+1010	3	Moonage Daydream - 2012 Remaster	David Bowie	1972	44	97	229	48
+1011	15	Send Me on My Way	Rusted Root	1996	38	146	25	372
+1012	17	Don't Stop 'Til You Get Enough	Michael Jackson	1979	23	391	56	
+1013	21	Can't Take My Eyes off You	Frankie Valli	1967	22	448		
+1014	10	Ants Marching	Dave Matthews Band	1994	36	178	470	
+1015	4	Shut Up and Dance	WALK THE MOON	2014	45	63	174	
+1016	16	Hard to Say I'm Sorry	Chicago	2012	58	392		
+1017	5	Save a Prayer	Duran Duran	2003	19	457	387	
+1018	3	It's Late - Remastered 2011	Queen	1977	49	199		
+1019	6	Fuck Authority	Pennywise	2001	9	310	237	37
+1020	9	Good Day Sunshine - Remastered 2009	The Beatles	1966	30	251	179	342
+1021	6	California Sun - Remastered Version	Ramones	1977	27	50	130	172
+1022	2	Teenage Lobotomy	Ramones	1988	42	320		
+1023	6	The Invisible Man - Remastered 2011	Queen	1989	52	295	381	
+1024	8	Crimson & Clover	Tommy James & The Shondells	1989	59	365	457	
+1025	17	I'm Against It - 2005 Remaster	Ramones	1978	37	411	267	
+1026	9	Needles and Pins - 2002 Remaster	Ramones	1978	23	280	379	
+1027	11	Burnout	Green Day	1994	4	328		
+1028	2	Don't Go Breaking My Heart	Elton John, Kiki Dee	1975	15	23		
+1029	3	Ghostbusters	WALK THE MOON	2016	53	40	100	
+1030	16	This Magic Moment	Ben E. King	2012	48	275		
+1031	5	Ordinary Man (feat. Elton John)	Ozzy Osbourne, Elton John	2020	17	69	358	468
+1032	3	All I Want	A Day To Remember	2010	22	340	405	
+1033	3	Love Is for Suckers	Twisted Sister	1987	43	437	231	
+1034	17	The End	The Doors	1967	31	462	474	183
+1035	7	Alabama Song (Whiskey Bar) - Live at the Hollywood Bowl, 1968	The Doors	2013	60	311		
+1036	16	Lovesong - Remastered	The Cure	1989	60	455		
+1037	1	Just What I Needed	The Cars	1978	14	156	466	
+1038	5	I Got You Babe	Sonny & Cher	1965	11	343	67	303
+1039	18	Alright	Supergrass	1995	3	185		
+1040	19	Somebody Got Murdered - Remastered	The Clash	1980	12	122		
+1041	17	Home	Foo Fighters	2007	41	382	385	
+1042	6	Bankrobber - Remastered	The Clash	1988	7	56	240	64
+1043	23	Happy Together	The Turtles	1967	63	262	335	
+1044	10	Old Time Rock & Roll	Bob Seger	1978	44	313	19	
+1045	5	There She Goes	The La's	1990	3	80		
+1046	8	Stop The World I Wanna Get Off With You	Arctic Monkeys	2013	10	72	49	
+1047	20	Monster Mash	Bobby "Boris" Pickett	1962	58	176	112	400
+1048	13	Cities On Flame with Rock and Roll	Blue yster Cult	1972	22	272	45	
+1049	21	Pride and Joy	Stevie Ray Vaughan	1983	27	223		
+1050	20	Revolution - Remastered 2009	The Beatles	1973	22	368	303	
+1051	22	Over the Hills and Far Away - 1990 Remaster	Led Zeppelin	1973	43	144	334	
+1052	17	Machine Gun Man	Black Label Society	2019	37	99		
+1053	1	Take Me Home Tonight	Eddie Money	1986	10	162	351	446
+1054	19	I'm Gonna Be (500 Miles)	The Proclaimers	2003	62	73		
+1055	1	I Wanna Dance with Somebody (Who Loves Me)	Whitney Houston	1987	28	93		
+1056	19	It's a Long Way to the Top (If You Wanna Rock 'N' Roll)	AC/DC	1976	20	203		
+1057	15	And She Was - 2005 Remaster	Talking Heads	1985	55	30		
+1058	1	Don't Look Back	Boston	1978	43	79	345	39
+1059	7	Piano Man	Billy Joel	1973	43	142		
+1060	8	Zanzibar	Billy Joel	1978	36	246	266	
+1061	8	To Live Is To Die	Metallica	1988	37	471		
+1062	12	Rise To It	KISS	1989	41	325		
+1063	11	My Own Souls Warning	The Killers	2021	4	309		
+1064	15	Man Overboard	blink-182	2000	44	122	412	
+1065	11	Demon Fire	AC/DC	2020	33	422	49	
+1066	14	Broken Wings	Alter Bridge	2004	55	26		
+1067	22	Cigarette Daydreams	Cage The Elephant	2013	58	419		
+1068	21	Head Games	Foreigner	1979	3	134	415	380
+1069	18	Roadhouse Blues	The Doors	1970	8	176	282	210
+1070	13	Take My Breath Away - Love Theme from "Top Gun"	Berlin	1999	2	171	466	306
+1071	4	The Man Who Sold The World	Nirvana	1994	53	325	271	238
+1072	18	Superman	Goldfinger	1998	29	289		
+1073	4	99 Red Balloons	Goldfinger	2000	34	357	450	159
+1074	6	Halfway There	Soundgarden	2012	18	177	371	300
+1075	4	Good Old-Fashioned Lover Boy - Remastered 2011	Queen	1976	15	169	304	
+1076	12	Back on the Chain Gang	Morrissey	2017	7	114	428	307
+1077	18	Perfect	Simple Plan	2018	30	47		
+1078	11	Welcome to My Life	Simple Plan	2004	57	169	466	
+1079	14	Save You	Simple Plan	2008	12	289	437	
+1080	6	Scars	Papa Roach	2004	63	114	317	282
+1081	15	Iris	The Goo Goo Dolls	1998	15	288	116	
+1082	6	Through The Fire And Flames	DragonForce	2006	25	387	60	215
+1083	12	Can't Take My Eyes off You	Muse	2002	32	442	137	179
+1084	5	Madness	Muse	2012	57	48	427	61
+1085	17	bloody valentine	Machine Gun Kelly	2020	31	328		
+1086	4	Leash (Remastered)	Pearl Jam	1993	12	292		
+1087	21	You And Me	Lifehouse	2005	47	168	218	
+1088	9	Freaks	Surf Curse	2015	36	330	282	
+1089	13	Last Train Home	John Mayer	2021	42	93	321	29
+1090	20	I Can See Clearly Now	Johnny Nash	1996	36	384	66	
+1091	2	Hello, Dolly!	Louis Armstrong	1964	33	209	303	337
+1092	6	My Way	Frank Sinatra	2015	15	150		
+1093	2	Mack the Knife	Bobby Darin	2004	20	220	274	
+1094	5	Beyond the Sea	Bobby Darin	2004	23	48	278	
+1095	1	Fly Me To The Moon - Remastered	Frank Sinatra, Count Basie	2008	36	82	349	
+1096	18	Singin' in the Rain	Gene Kelly	2006	52	102	206	
+1097	13	Rhythm of the Rain	The Cascades	1963	43	317		
+1098	18	Raindrops Keep Falling on My Head - Rerecorded	B.J. Thomas	2011	4	258		
+1099	8	Look On The Bright Side Of Life (All Things Dull And Ugly) - From "Life Of Brian" Original Motion Picture Soundtrack	Monty Python	2006	25	47		
+1100	15	Jump in the Line	Harry Belafonte	1961	62	47	396	152
+1101	19	Banana Boat (Day-O)	Harry Belafonte	2011	42	375		
+1102	10	Don't Worry Be Happy	Bobby McFerrin	1988	52	248	374	474
+1103	23	Somewhere Over The Rainbow_What A Wonderful World	Israel Kamakawiwo'ole	1993	60	232	21	92
+1104	6	(What A) Wonderful World	Sam Cooke	2000	18	276		
+1105	2	What A Wonderful World - Single Version	Louis Armstrong	1968	43	86	402	
+1106	11	Desiderata	Les Crane	2017	45	397		
+1107	5	Mr. Monday	The Original Caste	2008	7	269	97	313
+1108	16	One Tin Soldier - Theme from Billy Jack	The Original Caste	2013	36	66	291	
+1109	9	O-o-h Child	The Five Stairsteps	2014	57	30		
+1110	11	Put A Little Love In Your Heart	Jackie DeShannon	1996	8	98	233	63
+1111	19	(You're My) Soul And Inspiration	The Righteous Brothers	1990	16	188		
+1112	15	Come A Little Bit Closer	Jay & The Americans	1964	37	435		
+1113	19	Dancing in the Moonlight	King Harvest	1973	42	292		
+1114	4	Under the Boardwalk	The Drifters	1964	56	158		
+1115	2	I Can't Help Myself (Sugar Pie, Honey Bunch)	Four Tops	2008	57	472	438	274
+1116	1	Baby, Now That I Found You	The Foundations	1968	51	197	372	224
+1117	19	Build Me Up Buttercup - Mono	The Foundations	1968	23	419	169	272
+1118	13	Beauty Is Only Skin Deep	The Temptations	1997	42	416	248	
+1119	1	If You Wanna Be Happy	Jimmy Soul	2012	50	448	84	118
+1120	20	(Sittin' On) the Dock of the Bay	Otis Redding	1968	5	43	244	256
+1121	1	Everyday People	Sly & The Family Stone	1999	53	183	142	139
+1122	11	The Night Chicago Died	Paper Lace	2008	39	406	397	
+1123	10	Put the Message In the Box	World Party	1990	44	340	50	
+1124	7	Way Down Now	World Party	1990	12	266		
+1125	3	An Old Fashioned Love Song	Paul Williams	1971	60	122	221	165
+1126	9	Crackerbox Palace - Remastered 2004	George Harrison	1976	63	423		
+1127	10	Hit the Road Jack	Ray Charles	2018	48	472	263	446
+1128	21	The Tracks Of My Tears	Smokey Robinson & The Miracles	1965	8	343	203	
+1129	11	The Tears Of A Clown	Smokey Robinson & The Miracles	1967	55	416	276	
+1130	13	I Only Wanna Be with You	Bay City Rollers	1976	35	28	79	
+1131	17	God Only Knows - Remastered 1997 / Mono	The Beach Boys	1966	17	148		
+1132	22	I Get Around (Stereo) - Remastered	The Beach Boys	1964	5	19		
+1133	16	Barbara Ann - Remastered	The Beach Boys	2012	60	237	429	
+1134	8	Kokomo	The Beach Boys	2012	46	144		
+1135	14	Good Vibrations - Remastered 2001	The Beach Boys	1967	37	61	331	
+1136	2	Surfin' U.S.A. - Remastered 2001	The Beach Boys	1963	16	153		
+1137	4	Chattanooga Choo Choo - Remastered Version	Harpers Bizarre	1967	50	464	391	286
+1138	22	Summer in the City - Remastered	The Lovin' Spoonful	1966	48	55	317	411
+1139	6	Strawberry Fields Forever - Remastered 2009	The Beatles	1967	45	223	138	125
+1140	2	A Beautiful Morning - Single Version	The Rascals	2002	9	189	337	201
+1141	17	59th Street Bridge Song (Feelin' Groovy) - Remastered Version	Harpers Bizarre	1967	41	381	401	
+1142	4	I'm Into Something Good	Herman's Hermits	1966	43	197	270	
+1143	6	The Game Of Love	Wayne Fontana & The Mindbenders	1964	23	371	82	290
+1144	2	Daydream Believer	The Monkees	1968	26	364		
+1145	15	When I'm Sixty Four - Remastered 2009	The Beatles	1967	14	450	121	58
+1146	17	Octopus's Garden - Remastered 2009	The Beatles	1969	46	36	30	
+1147	18	Eight Days A Week - Remastered 2009	The Beatles	1964	52	200	367	241
+1148	23	Hello, Goodbye - Remastered 2009	The Beatles	1967	61	118	280	306
+1149	2	Good Lovin' - Single Version	The Young Rascals	1966	46	135		
+1150	14	People Got to Be Free - Single Version	The Rascals	2002	17	325		
+1151	10	Hang On Sloopy	The McCoys	1995	34	396	352	32
+1152	3	I Wanna Be Your Boyfriend	The Rubinoos	1979	41	265	151	23
+1153	2	I Love the Flower Girl	The Butterhills	2014	39	103	399	435
+1154	11	Come On Get Happy - The Partridge Family Theme	David Cassidy	2005	62	28		
+1155	3	(Theme From) The Monkees	The Monkees	2003	56	147		
+1156	4	Nobody But Me	The Human Beinz	1968	55	47	103	
+1157	13	Do Wah Diddy Diddy	Manfred Mann	1964	28	376		
+1158	22	Return to Sender - From "Girls! Girls! Girls!"	Elvis Presley	1962	9	245		
+1159	23	Goodnight, Sweetheart, Goodnight	The Spaniels	2012	11	305	166	47
+1160	9	Get a Job	The Silhouettes	1996	17	81	357	
+1161	7	Sixty Minute Man	Billy Ward & The Dominoes	1975	46	168		
+1162	9	Silhouettes	The Rays	2013	38	422	465	
+1163	10	Sh-Boom - Single Version	The Chords	2003	31	169		
+1164	15	Everyday - Single Version	Buddy Holly	1958	56	68	204	
+1165	16	Peggy Sue - Single Version	Buddy Holly	1958	22	307		
+1166	4	That'll Be The Day	Buddy Holly & The Crickets	1957	50	403		
+1167	22	San Francisco (Be Sure to Wear Flowers In Your Hair)	Scott McKenzie	2001	61	242	93	225
+1168	6	Itsy Bitsy Teenie Weenie Yellow Polka-Dot Bikini	Brian Hyland	1994	59	296	435	411
+1169	8	Little Star	The Elegants	2005	49	35	278	181
+1170	6	The Great Pretender	The Platters	1986	5	357		
+1171	21	Earth Angel (Will You Be Mine)	The Penguins	1996	6	22		
+1172	14	Only You (And You Alone)	The Platters	1986	9	129		
+1173	18	Put Your Head On My Shoulder	Paul Anka	2000	18	137	205	
+1174	8	A Teenager In Love	Dion & The Belmonts	2005	24	161	253	202
+1175	12	Will You Love Me Tomorrow	The Shirelles	2005	25	374	252	79
+1176	17	Hey Paula	Paul & Paula	2015	9	359		
+1177	7	Diana	Paul Anka	1966	13	367	363	206
+1178	16	Oh! Carol	Neil Sedaka	1983	36	105	144	454
+1179	14	I Wanna Be With You	Raspberries	1972	12	459		
+1180	13	Another Saturday Night	Sam Cooke	1964	7	60	424	40
+1181	7	Travelin' Man - Remastered	Ricky Nelson, Robert Norberg	1991	45	263		
+1182	13	The Candy Man	Sammy Davis Jr.	2002	41	202	432	472
+1183	11	Mr. Sandman	The Chordettes	2010	34	222	95	25
+1184	14	Lollipop	The Chordettes	2010	23	301		
+1185	7	Sunshine, Lollipops And Rainbows - Single Version	Lesley Gore	2000	49	300	429	
+1186	15	It's My Party	Lesley Gore	1963	30	53		
+1187	14	I've Told Every Little Star	Linda Scott	2005	23	429	463	420
+1188	18	We'll Sing in the Sunshine	Gale Garnett	1964	43	259	163	
+1189	18	Be My Baby	The Ronettes	2011	3	459		
+1190	16	Baby Love	The Supremes	1964	22	472		
+1191	9	A Lover's Concerto	The Supremes	1966	45	326		
+1192	7	Da Doo Ron Ron (When He Walked Me Home)	The Crystals	2011	21	126	118	147
+1193	5	Different Drum	Stone Poneys, Linda Ronstadt	1967	25	319	237	
+1194	14	Downtown	Petula Clark	2006	50	368		
+1195	15	Please Mr. Postman	Carpenters	1975	63	24		
+1196	21	Everything I Own	Bread	1972	23	234	72	394
+1197	20	I'll Be There	The Jackson 5	1970	13	355		
+1198	21	Let It Be Me	The Everly Brothers	2020	5	268		
+1199	21	Are You Lonesome Tonight	Elvis Presley	1963	57	182	321	234
+1200	23	All I Have to Do Is Dream (Single Version)	The Everly Brothers	2019	23	104		
+1201	21	A Summer Song	Chad & Jeremy	1965	14	352	288	
+1202	7	Sugar, Sugar	The Archies	2007	24	144	87	
+1203	18	Twist And Shout	The Isley Brothers	1962	34	176	240	104
+1204	6	Sherry	Frankie Valli & The Four Seasons	2003	42	457	466	
+1205	17	December, 1963 (Oh What a Night!)	Frankie Valli & The Four Seasons	2018	26	194		
+1206	10	It's Not Unusual	Tom Jones	1965	52	346	435	
+1207	22	Save your Kisses for Me	Brotherhood of Man	2007	47	403	404	
+1208	4	Keep On	The Brady Bunch	1993	9	32	472	
+1209	19	Holiday Road - National Lampoon's Vacation	Lindsey Buckingham	1983	4	209	313	106
+1210	8	Tossin' And Turnin'	Bobby Lewis	2005	27	360		
+1211	15	Witch Doctor - Classic Version	David Seville	2007	12	122	115	25
+1212	7	The Purple People Eater	Sheb Wooley	2003	57	471		
+1213	17	Monster Mash	Bobby "Boris" Pickett, The Crypt-Kickers	1962	56	352	327	
+1214	10	Hocus Pocus - Original Single Version	Focus	1971	11	170	367	
+1215	17	Along Came Jones	The Coasters	2006	55	189	143	378
+1216	4	That Is Rock and Roll - 2007 Remaster; Remastered	The Coasters	2007	24	76	442	
+1217	20	Yakety Yak	The Coasters	2005	36	243	391	445
+1218	23	The Streak	Ray Stevens	2014	37	105	335	324
+1219	17	Bad, Bad Leroy Brown	Jim Croce	1974	11	253	273	
+1220	10	Old Time Rock And Roll - Remastered	Bob Seger	2011	6	176	210	268
+1221	22	(We're Gonna) Rock Around The Clock - Single Version	Bill Haley & His Comets	1985	26	271	409	285
+1222	7	Do You Love Me - Mono	The Contours	1982	33	94	313	
+1223	11	Pony Time	Chubby Checker	2014	59	86	375	43
+1224	6	The Fly	Chubby Checker	1962	34	418		
+1225	12	The Twist	Chubby Checker	1962	23	23	213	256
+1226	17	Up Around The Bend	Creedence Clearwater Revival	1970	19	28		
+1227	4	Lookin' Out My Back Door	Creedence Clearwater Revival	1970	27	139	332	271
+1228	3	Dead Ringer for Love (with Cher)	Meat Loaf, Cher	1981	32	334	243	139
+1229	20	All Shook Up	Elvis Presley	1958	11	23	408	
+1230	16	Oh Boy!	Buddy Holly	2009	14	253		
+1231	18	Rave On	Buddy Holly	1958	29	325	468	
+1232	21	Good Golly Miss Molly	Little Richard	1991	25	378		
+1233	14	I Got You (I Feel Good)	James Brown & The Famous Flames	1966	35	250	203	382
+1234	21	Reet Petite	Jackie Wilson	2006	2	154	449	
+1235	16	(Let Me Be Your) Teddy Bear	Elvis Presley	2002	35	169	35	
+1236	23	A Little Less Conversation	Elvis Presley	2007	31	110		
+1237	10	Bossa Nova Baby - Viva Mix	Elvis Presley	2014	3	101	454	
+1238	11	Rock-A-Hula Baby	Elvis Presley	1961	10	120		
+1239	17	Rock This Town	Stray Cats	1982	19	171	153	331
+1240	1	Crocodile Rock	Elton John	1973	3	238	332	
+1241	15	Hallelujah	Leonard Cohen	1984	32	302		
+1242	15	Vincent	Don McLean	1971	10	155		
+1243	16	Danny's Song	Loggins & Messina	1972	20	283	324	296
+1244	3	Bridge Over Troubled Water	Simon & Garfunkel	1970	51	327	407	
+1245	17	Uncle John's Band - 2001 Remaster	Grateful Dead	2003	56	30	156	236
+1246	2	Here Comes The Sun - Remastered 2009	The Beatles	1969	50	331	469	
+1247	6	When I'm Dead And Gone - Remastered	McGuinness Flint	2009	49	219	18	
+1248	16	Ooh La La	Faces	1973	13	396	380	
+1249	13	Don't Cross the River	America, George Martin	1972	23	43	166	414
+1250	6	Homeward Bound	Simon & Garfunkel	1966	61	187		
+1251	17	Signs	Five Man Electrical Band	2009	59	402	317	434
+1252	11	Two Hangmen	Mason Proffit	2006	24	138	83	
+1253	3	Abraham, Martin And John	Dion	2007	42	292	265	69
+1254	4	All the Little Lights	Passenger	2012	40	337	32	
+1255	1	Let Her Go	Passenger	2012	61	271	350	
+1256	19	Baby Can I Hold You	Tracy Chapman	1988	39	322	303	249
+1257	14	Fast Car	Tracy Chapman	1988	3	128	72	
+1258	15	Landslide	Fleetwood Mac	1975	59	339	437	
+1259	13	You Were Meant For Me	Jewel	1995	27	263	413	
+1260	6	Chiquitita	ABBA	1979	50	425	50	133
+1261	19	I Am a Rock	Simon & Garfunkel	1966	54	46	403	
+1262	3	I Got A Name	Jim Croce	1973	63	364	291	311
+1263	15	Blowin' in the Wind	Bob Dylan	1963	40	100		
+1264	20	The Times They Are A-Changin'	Bob Dylan	1964	61	358	192	
+1265	18	Tangled up in Blue	Bob Dylan	1975	41	144	133	
+1266	21	Like a Rolling Stone	Bob Dylan	1965	28	455		
+1267	16	Cat's in the Cradle	Harry Chapin	1974	51	154		
+1268	15	Someday Never Comes	Creedence Clearwater Revival	1972	33	342		
+1269	11	Have You Ever Seen The Rain?	Creedence Clearwater Revival	1970	29	64	366	
+1270	1	Long As I Can See The Light	Creedence Clearwater Revival	1970	52	82	180	220
+1271	21	And If Venice Is Sinking	Spirit Of The West	1993	10	310	111	
+1272	22	Mr. Tambourine Man	The Byrds	1965	27	171	317	463
+1273	13	Space Oddity - 2015 Remaster	David Bowie	1969	39	191		
+1274	7	Big Yellow Taxi	Joni Mitchell	1970	13	459		
+1275	1	Animal Zoo	Spirit	1970	30	160		
+1276	21	Home	Phillip Phillips	2012	59	232	385	235
+1277	17	Scar That Never Heals	Jeremy Fisher	2007	11	248	345	222
+1278	8	Get Out the Map	Indigo Girls	2013	27	342	52	92
+1279	2	The World Ain't Slowin' Down	Ellis Paul	2009	34	232	401	373
+1280	14	Ho Hey	The Lumineers	2012	55	59		
+1281	14	Scalliwag	Gaelic Storm	2006	31	221	306	64
+1282	2	Drink The Night Away	Gaelic Storm	1999	40	261	68	407
+1283	12	The Boxer	Carbon Leaf	2001	28	345	352	144
+1284	19	Life Less Ordinary	Carbon Leaf	2004	21	58	160	
+1285	14	Slim Jim And The Seven Eleven Girl	Gaelic Storm	2008	36	32	235	268
+1286	8	Ain't No Sunshine	Bill Withers	1971	63	253	460	226
+1287	16	All of Me	John Legend	2013	10	40	30	
+1288	14	Stay With Me	Sam Smith	2015	43	474	229	373
+1289	6	Thinking out Loud	Ed Sheeran	2014	3	107	348	
+1290	23	War	Edwin Starr	1970	25	422	146	393
+1291	9	The Love You Save	The Jackson 5	1970	58	420		
+1292	8	Soul Man - Live	The Blues Brothers	1978	55	389		
+1293	13	What'd I Say, Pt. 1 & 2	Ray Charles	2005	26	238		
+1294	19	The Rubberband Man	The Spinners	1993	21	415	466	
+1295	14	Signed, Sealed, Delivered (I'm Yours)	Stevie Wonder	1970	33	377	99	
+1296	6	(Your Love Keeps Lifting Me) Higher & Higher	Jackie Wilson	2006	33	284		
+1297	9	Get Up (I Feel Like Being A) Sex Machine - Pt. 1 & 2	James Brown	1991	17	309	463	
+1298	8	(Shake, Shake, Shake) Shake Your Booty	KC & The Sunshine Band	2004	42	30	138	
+1299	19	That's the Way (I Like It) - 2004 Remaster	KC & The Sunshine Band	1975	24	98	143	
+1300	23	Ease On Down The Road #1 - From "The Wiz" Soundtrack	Diana Ross, Michael Jackson	1978	57	466	142	155
+1301	21	Rasputin	Boney M.	1998	17	135	41	
+1302	3	Kung Fu Fighting	Carl Douglas	2001	57	434	30	236
+1303	16	September	Earth\, Wind & Fire	1992	61	433	125	
+1304	21	Born to Be Alive	Patrick Hernandez	1978	5	345		
+1305	8	Y.M.C.A.	Village People	1978	51	309	402	
+1306	6	Macho Man	Village People	2014	19	195	144	
+1307	8	I'm in the Mood for Dancing	The Nolans	1982	49	105	124	
+1308	22	Sir Duke	Stevie Wonder	1976	61	367		
+1309	15	Everlasting Love	Carl Carlton	2009	41	160	329	
+1310	10	ABC	The Jackson 5	1970	31	402		
+1311	9	Want Ads	Honey Cone	2010	45	174		
+1312	9	Hot Stuff	Donna Summer	1979	48	378	396	
+1313	3	Bad Girls - 12" Version	Donna Summer	1979	22	335	458	
+1314	13	Good Times	CHIC	1979	9	160		
+1315	4	Uptown Funk (feat. Bruno Mars)	Mark Ronson, Bruno Mars	2015	19	190	264	350
+1316	5	Blurred Lines	Robin Thicke, T.I., Pharrell Williams	2013	4	385		
+1317	8	Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit	Daft Punk, Pharrell Williams, Nile Rodgers	2013	35	76		
+1318	8	Le Freak	CHIC	1978	11	329	25	275
+1319	10	Take A Chance On Me	ABBA	1977	19	146	424	
+1320	23	Heart Of Glass	Blondie	1978	7	189	338	293
+1321	21	Lovefool	The Cardigans	1996	35	147	116	
+1322	17	Turn the Beat Around - Single Version	Vicki Sue Robinson	1972	4	300	260	113
+1323	4	I'm Coming Out	Diana Ross	1980	6	48	192	309
+1324	9	I Will Survive - Single Version	Gloria Gaynor	2000	24	319		
+1325	22	Last Dance - Single Version	Donna Summer	1980	8	83	149	223
+1326	15	More Than A Woman - From "Saturday Night Fever" Soundtrack	Bee Gees	1979	50	258	238	269
+1327	2	Stayin' Alive	Bee Gees	1977	56	243	241	
+1328	5	Night Fever - From "Saturday Night Fever" Soundtrack	Bee Gees	1977	26	350		
+1329	6	Tragedy	Bee Gees	1979	37	461	462	
+1330	21	Tempted	Squeeze	1981	32	191	30	351
+1331	1	Higher Ground	Stevie Wonder	1973	52	24	312	396
+1332	8	Superstition	Stevie Wonder	2007	28	301	211	
+1333	1	Boogie On Reggae Woman	Stevie Wonder	1999	33	93	291	30
+1334	5	Funkytown	Lipps Inc.	2003	7	454		
+1335	18	Celebration - Single Version	Kool & The Gang	2009	44	138	202	
+1336	5	Play That Funky Music	Wild Cherry	1976	10	208	126	
+1337	12	Treasure	Bruno Mars	2012	46	211	441	31
+1338	9	You Sexy Thing	Hot Chocolate	1975	30	214		
+1339	22	Sexual Healing	Marvin Gaye	1982	36	171	219	
+1340	6	Thriller	Michael Jackson	1982	24	424		
+1341	8	4 Chords	The Axis of Awesome	2011	25	158	327	
+1342	3	Something in the Air	Thunderclap Newman	2007	39	320		
+1343	17	We Just Disagree	Dave Mason	1974	56	53	308	299
+1344	22	Romeo's Tune	Steve Forbert	1979	57	202	347	399
+1345	20	Take a Letter, Maria	R.B. Greaves	1969	20	428	373	
+1346	13	Baby Come Back	Player	1998	38	289		
+1347	17	Escape (The Pina Colada Song)	Rupert Holmes	1979	24	206	340	138
+1348	9	Smoke from a Distant Fire	Sanford Townsend Band	1976	41	42		
+1349	4	Still the One	Orleans	1990	17	83		
+1350	21	Brandy (You're a Fine Girl)	Looking Glass	1972	24	339		
+1351	9	Joey	Concrete Blonde	1990	6	206	295	238
+1352	1	Maria	Blondie	2013	52	343	379	
+1353	21	All I Wanna Do Is Make Love To You	Heart	1990	54	422	100	
+1354	16	Your Daddy Don't Know	Toronto	1982	51	307	386	
+1355	17	Fire	The Pointer Sisters	1978	20	88	347	218
+1356	16	Boy Inside The Man	Tom Cochrane, Red Rider	1986	11	82		
+1357	5	Rain in the Summertime - Remastered	The Alarm	1987	16	86	389	
+1358	4	The Boys Of Summer	Don Henley	1984	31	344	70	
+1359	5	Walking in Memphis	Marc Cohn	1991	22	441	384	310
+1360	2	The Way It Is	Bruce Hornsby, The Range	1986	44	201	133	469
+1361	5	Mandolin Rain	Bruce Hornsby, The Range	1986	58	237	270	87
+1362	15	Every Little Kiss	Bruce Hornsby, The Range	1986	4	117	369	42
+1363	11	Someday Out Of The Blue - Radio Version	Done Again	2006	9	91		
+1364	3	I Guess That's Why They Call It The Blues	Elton John	1983	9	149	284	
+1365	5	Tiny Dancer	Elton John	1971	25	233	294	116
+1366	10	Thank You for Being a Friend	Andrew Gold	2005	45	325		
+1367	19	Come To My Window	Melissa Etheridge	1993	55	197	466	
+1368	7	Stuck With You	Huey Lewis & The News	1986	59	294		
+1369	2	Back In Time	Huey Lewis & The News	2006	38	168	238	182
+1370	7	I Want A New Drug	Huey Lewis & The News	2006	11	20		
+1371	7	Jacob's Ladder	Huey Lewis & The News	1986	8	111	98	
+1372	19	No Alibis	Eric Clapton	1989	33	24	424	144
+1373	21	Sunshine (Go Away Today)	Jonathan Edwards	1971	40	91		
+1374	12	Everybody Knows Her	Jonathan Edwards	1971	34	391	200	
+1375	14	I Melt With You - Rerecorded	Modern English	1990	4	315	398	
+1376	5	I'm Alright - Theme from "Caddyshack"	Kenny Loggins	1997	13	170		
+1377	6	I've Done Everything for You	Rick Springfield	1981	14	32	181	361
+1378	18	Good Girls Don't	The Knack	1979	33	413	349	
+1379	5	Only the Good Die Young	Billy Joel	2001	21	272	371	
+1380	5	Love the One You're With	Crosby\, Stills & Nash	1980	21	410		
+1381	10	Share the Land	The Guess Who	1970	26	453	409	
+1382	11	Old Man - 2017 Remaster	Neil Young	1977	22	200		
+1383	2	The Whole of the Moon - 2004 Remaster	The Waterboys	1985	13	78		
+1384	13	Cry Love	John Hiatt	1995	61	20	46	213
+1385	5	Invisible Touch - 2007 Remaster	Genesis	1986	60	135		
+1386	9	Patio Lanterns	Kim Mitchell	1995	38	239	325	293
+1387	14	The Valley Road	Bruce Hornsby, The Range	1988	32	183		
+1388	13	I'm Always Here	Jimi Jamison	2003	49	325	328	204
+1389	17	Nobody's Fool (Theme from "Caddyshack II")	Kenny Loggins	1988	12	232	107	
+1390	10	Forever Young	Rod Stewart	1988	48	103		
+1391	3	St. Elmos Fire (Man in Motion)	John Parr	1985	54	326	346	25
+1392	19	Get Outta My Dreams, Get into My Car	Billy Ocean	1988	58	274	331	71
+1393	18	Agnes	Donnie Iris	2001	42	44		
+1394	1	Girls Talk	Dave Edmunds	2005	43	231		
+1395	17	Mony Mony	Billy Idol	2008	4	401	260	210
+1396	13	White Wedding - Pt. 1	Billy Idol	1982	52	422	347	
+1397	6	Twilight Zone	Golden Earring	2008	56	92	243	239
+1398	16	Na Na Hey Hey (Kiss Him Goodbye)	Bananarama	2017	12	190		
+1399	13	99 Red Balloons	Nena	1984	42	56	17	432
+1400	13	I Won't Let The Sun Go Down On Me	Nik Kershaw	2020	9	246	61	
+1401	17	Get Down	Gilbert O'Sullivan	1973	59	40	79	
+1402	21	Midnight Rider	Allman Brothers Band	1970	48	65	256	95
+1403	9	Midnight Special	Creedence Clearwater Revival	1969	31	368	413	114
+1404	19	Hey Tonight	Creedence Clearwater Revival	1970	2	286	346	
+1405	22	Bette Davis Eyes	Kim Carnes	1981	17	70	387	451
+1406	10	I Don't Feel Like Dancin'	Scissor Sisters	2006	52	360	35	
+1407	5	Free Ride	The Edgar Winter Group	1972	31	44	24	230
+1408	16	Rockin' All Over The World	Status Quo	2005	32	167		
+1409	7	Bang a Gong (Get It On) - 2003 Remaster	T. Rex	1971	51	145	65	
+1410	17	(I Can't Get No) Satisfaction - Mono Version	The Rolling Stones	1965	56	384	299	118
+1411	9	Hurts So Good	John Mellencamp	1982	8	49	270	
+1412	14	Authority Song	John Mellencamp	1983	22	46	405	453
+1413	18	Born To Be Wild - Single Version	Steppenwolf	1968	23	16		
+1414	8	Stuck In The Middle With You	Stealers Wheel	2009	49	276		
+1415	12	It's Still Rock and Roll to Me	Billy Joel	2001	34	172		
+1416	10	The Letter	The Box Tops	1967	10	80	81	
+1417	15	California Dreamin' - Single Version	The Mamas & The Papas	1966	39	100		
+1418	23	Wuthering Heights	Kate Bush	1978	13	47		
+1419	5	A Whiter Shade Of Pale	Procol Harum	1967	24	98	173	
+1420	20	When a Man Loves a Woman - 2000 Remaster	Percy Sledge	2010	54	243	71	
+1421	6	Bring It On Home to Me	Sam Cooke	2000	13	417		
+1422	18	Yesterday - Remastered 2009	The Beatles	1965	48	391	338	254
+1423	4	Maybe I'm Amazed	Paul McCartney	2001	5	470		
+1424	13	Ocean Man	Ween	1997	13	301		
+1425	12	Lake Shore Drive	Aliotta Haynes Jeremiah	1972	20	211		
+1426	7	End Of The Line	Traveling Wilburys	1988	9	189	421	253
+1427	7	Carry Me	Stampeders	1971	56	81	380	225
+1428	18	Turn! Turn! Turn! (To Everything There Is a Season)	The Byrds	1965	52	384	128	
+1429	17	96 Tears	? & The Mysterians	1966	42	51	259	
+1430	9	Black Is Black	Los Bravos	2000	9	222	341	
+1431	14	You Really Got Me - Mono Mix	The Kinks	1964	39	293	342	
+1432	3	I Fought the Law - Single Version	The Bobby Fuller Four	1998	26	429	370	158
+1433	21	Teenage Kicks	The Undertones	1979	44	275		
+1434	23	Dream A Little Dream Of Me - Album Version With Introduction	The Mamas & The Papas	1968	11	85		
+1435	22	(They Long To Be) Close To You	Carpenters	1970	4	319		
+1436	15	You Light Up My Life	Debby Boone	2006	54	361		
+1437	5	(You Make Me Feel Like) A Natural Woman	Aretha Franklin	1968	45	417	359	
+1438	17	This Will Be (An Everlasting Love)	Natalie Cole	2003	7	173		
+1439	11	Respect	Aretha Franklin	1967	46	177		
+1440	1	I Say a Little Prayer	Aretha Franklin	1968	38	293	417	
+1441	19	Endless Love - From "The Endless Love" Soundtrack	Lionel Richie, Diana Ross	2003	36	221	310	
+1442	19	Islands In The Stream	Kenny Rogers, Dolly Parton	2008	9	186	381	
+1443	1	We've Got Tonight	Kenny Rogers, Sheena Easton	1983	45	384		
+1444	6	Up Where We Belong	Joe Cocker, Jennifer Warnes	1993	30	473	53	91
+1445	10	(I've Had) The Time of My Life - From "Dirty Dancing" Soundtrack	Bill Medley, Jennifer Warnes	2004	33	81		
+1446	8	We Are The World	U.S.A. For Africa	1985	18	267		
+1447	7	Brohemian Rhapsody	blink-182	2016	43	459	427	
+1448	9	Somebody To Love - Remastered 2011	Queen	1976	58	85		
+1449	23	A Day In The Life - Remastered 2009	The Beatles	1967	25	229	364	132
+1450	4	Jungleland	Bruce Springsteen	1975	49	174	239	
+1451	5	2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale - Medley	Rush	1976	44	142		
+1452	9	Last Day of School	Boston	2013	32	107		
+1453	18	Bat Out of Hell	Meat Loaf	1977	15	185	378	409
+1454	14	Operation Ground and Pound	DragonForce	2006	52	34	395	300
+1455	4	Du hast	Rammstein	1997	26	282	465	
+1456	19	The Game (Triple H)	WWE, Motrhead	2011	4	150	60	139
+1457	5	Anastasia	Slash, Myles Kennedy And The Conspirators	2012	55	152	71	17
+1458	19	Love Song	Tesla	1989	41	39	411	73
+1459	13	Lady	Styx	1973	54	139		
+1460	1	Come Sail Away	Styx	1977	29	120	360	
+1461	4	Only Time Will Tell	Asia	1982	44	217	70	418
+1462	19	(Can't Live Without Your) Love And Affection - Remastered 2017	Nelson	1990	4	291	36	260
+1463	20	Magic Power	Triumph	2010	36	210	403	222
+1464	9	Somebody's out There	Triumph	2010	55	113	185	230
+1465	6	Miles Away	Winger	1990	8	28	116	441
+1466	8	Drops of Jupiter (Tell Me)	Train	2001	4	437	194	153
+1467	2	All Out of Love	Air Supply	1980	13	391	321	283
+1468	18	When I See You Smile	Bad English	1989	14	18	25	
+1469	20	Sister Christian	Night Ranger	1997	42	25	244	
+1470	21	The Flame	Cheap Trick	2004	22	18		
+1471	7	Babe	Styx	1979	8	207	314	313
+1472	21	Dream Weaver	Gary Wright	1975	10	113	317	
+1473	13	I'd Do Anything For Love (But I Won't Do That) - Single Edit	Meat Loaf	1993	16	60		
+1474	21	I Don't Want to Miss a Thing - From "Armageddon" Soundtrack	Aerosmith	1998	49	28	167	
+1475	5	Fox On The Run	Sweet	1993	44	258		
+1476	6	Little Willy	Sweet	2010	44	114		
+1477	9	Armageddon	Prism	1979	58	263	192	
+1478	22	Fly By Night	Rush	1975	56	267	249	454
+1479	1	Oh Sherrie	Steve Perry	1998	38	269		
+1480	7	Kyrie - Single Version	Mr. Mister	2001	54	309	126	
+1481	2	Thing of Beauty	Hothouse Flowers	1993	10	16	338	
+1482	12	She's A Beauty	The Tubes	1992	47	214		
+1483	6	Moneytalks	AC/DC	1990	59	276		
+1484	4	Battleship Chains	The Georgia Satellites	1986	16	326		
+1485	11	Summertime Girls - Studio Version	Y&T	1990	58	380	137	
+1486	1	Mighty Quinn	Gotthard	2004	8	324	139	320
+1487	22	Dance the Night Away - 2015 Remaster	Van Halen	1979	49	429	58	40
+1488	14	Pour Some Sugar On Me - Remastered 2017	Def Leppard	1987	23	461	65	283
+1489	6	Turn up the Radio	Autograph	1984	47	278	251	
+1490	22	I Need A Lover	John Mellencamp	1979	61	462	410	
+1491	15	Fool in the Rain - 1990 Remaster	Led Zeppelin	1979	6	446		
+1492	8	Beat It	Michael Jackson	1982	16	138		
+1493	6	You're The Best	Joe "Bean" Esposito	2010	32	72	416	111
+1494	12	Sweet Victory (As Heard on "SpongeBob SquarePants")	David Glen Eisley, Bob Kulick	2012	17	382	214	
+1495	20	Mov'in On	Missouri	1979	8	75		
+1496	3	Never Surrender	Corey Hart	1985	52	287		
+1497	4	Never Surrender (From Kickboxer)	Stan Bush	2015	35	408	26	
+1498	17	Five Long Years	Colin James	1988	11	53	377	322
+1499	19	You Angel You	Manfred Mann's Earth Band	1979	15	299		
+1500	8	I Can't Hold Back	Survivor	1984	17	337		
+1501	19	In My Dreams	REO Speedwagon	2004	3	299	180	99
+1502	18	Here I Go Again 87 - 2017 Remastered Version	Whitesnake	1987	15	163	139	
+1503	11	What About Me?	Moving Pictures	1981	55	225	165	
+1504	18	I Want to Know What Love Is - 1999 Remaster	Foreigner	1984	41	386		
+1505	4	(I Just) Died In Your Arms	Cutting Crew	1993	55	337		
+1506	21	Love Hurts	Nazareth	1975	3	214		
+1507	17	Santa Fe	Jon Bon Jovi	1990	55	389	85	
+1508	1	Heaven	Gotthard	2001	36	84	187	
+1509	3	Cool Change	Little River Band	2014	29	323	126	
+1510	6	Thunder Road	Bruce Springsteen	1975	61	201	291	247
+1511	5	Go Your Own Way - 2004 Remaster	Fleetwood Mac	1977	63	465		
+1512	4	White Room	Cream	1968	30	409	254	458
+1513	4	Layla	Derek & The Dominos	2007	56	226		
+1514	12	Baker Street	Gerry Rafferty	1978	59	208	461	
+1515	4	Took the Last Train	David Gates	1978	55	233	360	274
+1516	15	Paradise By the Dashboard Light	Meat Loaf	1977	26	67	297	398
+1517	7	Stone in Love (Re-Recorded)	Journey	2008	57	380	423	
+1518	18	Lights	Journey	1978	14	198	228	118
+1519	17	You Ain't Seen Nothing Yet	Bachman-Turner Overdrive	1993	47	48		
+1520	1	Piece Of My Heart	Sammy Hagar	1981	5	314		
+1521	12	Girls With Guns	Tommy Shaw	1984	54	336		
+1522	5	Go For Soda	Kim Mitchell	1984	17	431	338	275
+1523	15	Roll with the Changes	REO Speedwagon	1988	29	331	124	
+1524	20	Silver, Blue & Gold - 2017 Remaster	Bad Company	1976	4	362		
+1525	2	Touch of Grey	Grateful Dead	2003	51	202	343	
+1526	14	Jessica - Unedited Version	Allman Brothers Band	1973	36	233		
+1527	3	Skateaway	Dire Straits	1980	29	175		
+1528	17	Come On Eileen	Dexys Midnight Runners	1982	38	398		
+1529	4	Mr. Blue Sky	Electric Light Orchestra	1977	11	171	208	286
+1530	23	Goodbye Stranger - 2010 Remastered	Supertramp	1979	11	147	42	259
+1531	8	We Close Our Eyes - 1988 Boingo Alive Version	Oingo Boingo	1988	10	343	321	75
+1532	6	Blinded By The Light	Manfred Mann's Earth Band	1976	56	220	147	
+1533	18	Light Up The Night	The Protomen	2009	52	331		
+1534	11	Dancing with Myself - 2001 Remaster	Billy Idol, Generation X	2003	7	50	207	119
+1535	5	Won't Get Fooled Again - Original Album Version	The Who	1971	61	58	286	
+1536	23	Satellite	The Hooters	1985	18	317		
+1537	7	Karla With A K	The Hooters	1987	19	317	81	
+1538	15	Day By Day	The Hooters	1985	31	411	91	
+1539	20	Fat Bottomed Girls	Queen	1978	46	171	17	114
+1540	16	Smoke on the Water	Deep Purple	1972	3	380		
+1541	5	Hot Blooded	Foreigner	1978	30	95	123	
+1542	22	Ridin' the Storm Out	REO Speedwagon	1973	52	52	226	
+1543	15	Lonely Is The Night - Remastered	Billy Squier	1981	34	424		
+1544	14	In A Big Country	Big Country	1983	50	250	307	255
+1545	8	I Won't Back Down	Tom Petty and the Heartbreakers	2000	27	193	305	113
+1546	6	Small Town	John Mellencamp	1985	62	287	48	148
+1547	17	Pink Houses	John Mellencamp	1983	49	238	108	
+1548	14	Addicted To Love	Robert Palmer, Eric 'ET' Thorngren	1985	57	466	404	
+1549	5	Jack & Diane	John Mellencamp	1982	4	454	260	
+1550	17	Bad To The Bone	George Thorogood & The Destroyers	1982	63	405		
+1551	10	The Loco-Motion - Remastered 2002	Grand Funk Railroad	1974	24	257	183	400
+1552	11	I'll Stand by You	Pretenders, Bob Clearmountain	1994	59	143		
+1553	9	Goodbye to You (feat. Patty Smyth)	Scandal, Patty Smyth	1982	53	242	183	428
+1554	12	All Fired Up	Pat Benatar	1988	61	219		
+1555	16	Hold On	Wilson Phillips	1990	60	320	220	
+1556	1	Like a Prayer	Madonna	2009	52	247	252	464
+1557	19	Voices Carry - Single Mix	'Til Tuesday	1985	51	152	313	
+1558	9	Nothing Compares 2 U	Sinad O'Connor	1990	25	211	24	
+1559	6	Eternal Flame	The Bangles	2004	12	251	245	257
+1560	10	Fading Like A Flower (Every Time You Leave)	Roxette	1991	30	242	291	403
+1561	23	If You Were in Love	Boston	2013	31	382	97	
+1562	15	The Rose	Bette Midler	1979	29	255	358	
+1563	2	As I Lay Me Down	Sophie B. Hawkins	1994	29	281	60	
+1564	8	Angel	Sarah McLachlan	1997	43	301	289	439
+1565	2	When She Loved Me	Sarah McLachlan	2008	36	470	20	
+1566	13	I Will Remember You	Sarah McLachlan	2008	5	392	41	397
+1567	8	Ordinary Miracle	Sarah McLachlan	2008	46	111	256	405
+1568	17	Only Time	Enya	2000	41	162		
+1569	11	May It Be	Enya	2001	7	357	292	448
+1570	8	Angel Of The Morning	Juice Newton	1988	52	380		
+1571	23	Heaven Is A Place On Earth	Belinda Carlisle	1987	50	225		
+1572	7	It Must Have Been Love - From the Film "Pretty Woman"	Roxette	1995	34	334		
+1573	1	Could've Been	Tiffany, George Tobin, Bill Smith	1987	7	23	380	
+1574	12	The Winner Takes It All	ABBA	1980	11	166		
+1575	5	Hero	Mariah Carey	1993	32	383	93	
+1576	6	Greatest Love of All	Whitney Houston	1985	63	308	85	
+1577	19	My Heart Will Go On - Love Theme from "Titanic"	Cline Dion	1997	13	352	172	365
+1578	15	Time To Say Goodbye	Sarah Brightman, Andrea Bocelli	1996	27	239		
+1579	9	I Will Always Love You	Whitney Houston	1992	48	374	301	35
+1580	4	How Do I Live	LeAnn Rimes	2003	34	323		
+1581	7	Wind Beneath My Wings	Bette Midler	1988	47	436	77	233
+1582	1	Woman In Love	Barbra Streisand	2002	11	340		
+1583	9	You're so Vain	Carly Simon	1972	50	250		
+1584	10	Take My Breath Away	Berlin	1986	3	17	421	
+1585	21	Damn I Wish I Was Your Lover	Sophie B. Hawkins	1992	21	400		
+1586	13	Hello	Adele	2015	47	389		
+1587	5	Missing	Sophie B. Hawkins	2012	4	320	373	316
+1588	23	Foolish Beat	Debbie Gibson	1994	63	188		
+1589	6	Say You, Say Me	Lionel Richie	1986	2	216	408	31
+1590	21	Hello	Lionel Richie	1983	50	188		
+1591	5	Life on Mars? - 2015 Remaster	David Bowie	1971	4	415		
+1592	4	Two Out of Three Ain't Bad	Meat Loaf	1977	16	186	170	180
+1593	4	All By Myself	Eric Carmen	1975	31	357	70	
+1594	18	In The Air Tonight - 2015 Remastered	Phil Collins	1981	62	330	192	196
+1595	6	Let It Be - Remastered 2009	The Beatles	1970	43	280		
+1596	21	Candle In The Wind - Remastered 2014	Elton John	1973	15	182		
+1597	3	Don't Let The Sun Go Down On Me	Elton John	1974	54	340		
+1598	3	Nikita	Elton John	1985	11	224		
+1599	4	Your Song	Elton John	1970	48	242	100	
+1600	6	Can You Feel The Love Tonight - Remastered	Elton John	2017	13	256	440	
+1601	3	Against All Odds (Take a Look at Me Now) - 2016 Remaster	Phil Collins	2016	23	376	336	
+1602	5	I'm Not In Love	10cc	2002	4	401	208	
+1603	19	I'd Love You to Want Me	Lobo	1993	51	78		
+1604	22	Nassau/Baby I Love Your Way - Medley	Peter Frampton	2003	25	471		
+1605	4	Just the Way You Are	Billy Joel	1977	50	367		
+1606	7	The Lady In Red	Chris de Burgh	1986	40	470		
+1607	20	True - Single Edit	Spandau Ballet	2008	12	193	233	78
+1608	11	Another Day in Paradise - 2016 Remaster	Phil Collins	1989	36	178		
+1609	7	One More Night - 2016 Remaster	Phil Collins	1985	13	47	474	56
+1610	19	Sacrifice	Elton John	1989	33	36	279	226
+1611	17	That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)	Dionne Warwick, Elton John, Gladys Knight, Stevie Wonder	1989	2	177		
+1612	7	Right Here Waiting	Richard Marx	1989	13	222	216	97
+1613	18	Glory of Love	Peter Cetera	1986	36	360	446	451
+1614	7	Making Love Out of Nothing at All	Air Supply	2003	49	103		
+1615	8	Hard Habit to Break - 2006 Remaster	Chicago	1984	60	376		
+1616	8	Hard to Say I'm Sorry / Get Away - 2006 Remaster	Chicago	1982	53	60	289	69
+1617	14	Nothing's Gonna Change My Love for You	Glenn Medeiros	1987	27	326	124	
+1618	6	I Like Chopin	Gazebo	1994	36	346		
+1619	1	Valerie	Steve Winwood	1982	51	27	338	
+1620	23	You Are the Woman	Firefall	1976	63	299	268	
+1621	4	Dream Police	Cheap Trick	1979	4	133	403	113
+1622	8	When You're Gone	Avril Lavigne	2007	28	83	62	369
+1623	4	Superfantastic	Mr. Big	2000	40	311	220	
+1624	1	Wild World - 2009 Remastered Version	Mr. Big	1993	37	89	395	
+1625	12	I'll Never Let You Go	STEELHEART	1991	25	235	138	
+1626	14	The Ballad Of Jayne	L.A. Guns	1989	12	385		
+1627	19	Take It On the Run	REO Speedwagon	1980	19	432		
+1628	15	Can't Fight This Feeling	REO Speedwagon	1984	53	103		
+1629	15	Caught Up In You	38 Special	1982	38	108	22	215
+1630	23	Midnight Magic	38 Special	1988	33	332		
+1631	21	Like No Other Night	38 Special	2003	16	172		
+1632	19	If I'd Been The One	38 Special	2003	20	194	408	209
+1633	1	Change	John Waite	2019	42	129		
+1634	21	Rebecca	Pat McGee Band	2000	4	317	325	277
+1635	6	Take The Time	The Freddy Jones Band	1993	53	63		
+1636	12	If I Can't Change Your Mind	Sugar	1992	43	140	312	
+1637	6	Hollywood Nights	Bob Seger	1978	59	344		
+1638	12	Two Tickets to Paradise	Eddie Money	1977	60	140	166	177
+1639	3	The Breakup Song	The Greg Kihn Band	1981	8	80		
+1640	20	Try and Love Again - 2013 Remaster	Eagles	1976	9	466	24	
+1641	7	How Deep Is Your Love	Bee Gees	1979	10	258	432	
+1642	17	To Love Somebody	Bee Gees	1967	9	313	216	118
+1643	5	Wonderful Tonight	Eric Clapton	1977	57	51	353	
+1644	12	The Pretender	Jackson Browne	1977	47	401	330	
+1645	4	Always on My Mind - Remastered	Elvis Presley	2007	58	126	430	455
+1646	11	In the Ghetto	Elvis Presley	2020	50	297		
+1647	23	The Space Between	Dave Matthews Band	2001	54	231	164	131
+1648	1	Satellite	Dave Matthews Band	1994	31	456		
+1649	3	Stay (Wasting Time)	Dave Matthews Band	1998	9	279		
+1650	6	Two Step	Dave Matthews Band	1996	45	310	204	
+1651	2	What Is Life - Remastered 2014	George Harrison	1970	11	418		
+1652	9	Spirit in the Sky	Norman Greenbaum	1979	20	55	86	140
+1653	12	For What It's Worth	Buffalo Springfield	1966	63	149	115	183
+1654	2	Desperado - 2013 Remaster	Eagles	1973	20	434		
+1655	14	The Load Out	Jackson Browne	1977	3	219	346	
+1656	19	Stay - Live	Jackson Browne	1977	22	434	16	
+1657	21	Birdland	Weather Report	1996	28	410	105	
+1658	14	Werewolves of London - 2007 Remaster	Warren Zevon	1978	42	196		
+1659	20	Abracadabra	Steve Miller Band	1982	20	72		
+1660	17	Centerfold	The J. Geils Band	1981	19	289		
+1661	6	Since You Been Gone	Rainbow	1979	16	222	292	
+1662	16	Joy To The World	Three Dog Night	1970	48	446	76	
+1663	6	Over My Shoulder	Mike & The Mechanics	1995	39	423		
+1664	21	The Living Years	Mike & The Mechanics	1988	36	317		
+1665	2	In The House Of Stone And Light	Martin Page	1994	13	410		
+1666	2	Believe It or Not (Theme from "Greatest American Hero")	Joey Scarbury	1981	63	443	112	314
+1667	20	Holding Out for a Hero - From "Footloose" Soundtrack	Bonnie Tyler	1984	37	16	276	109
+1668	3	It's Raining Men	The Weather Girls	1982	35	423	18	
+1669	18	All I Need Is a Miracle	Mike & The Mechanics	1985	44	183		
+1670	16	Make Me Lose Control	Eric Carmen	1997	53	224		
+1671	4	Hungry Eyes - From "Dirty Dancing" Soundtrack	Eric Carmen	1997	36	116		
+1672	8	The One and Only	Chesney Hawkes	1991	51	474	221	147
+1673	22	Common People	Pulp	1995	8	50	253	38
+1674	21	Alive And Kicking	Simple Minds	1985	58	180	52	403
+1675	21	Don't You Want Me	The Human League	1981	8	160	352	
+1676	16	Everybody Have Fun Tonight	Wang Chung	1986	35	351	177	209
+1677	14	Wild Wild West	The Escape Club	2008	45	93		
+1678	21	Ghostbusters	Ray Parker Jr.	2000	36	469	187	
+1679	18	Stacy's Mom	Fountains Of Wayne	2003	20	306	178	
+1680	14	You Might Think	The Cars	1984	41	398	16	35
+1681	14	Good Thing	Fine Young Cannibals	1988	44	306	29	
+1682	1	Bad - 2012 Remaster	Michael Jackson	1987	59	171		
+1683	23	The King of Wishful Thinking	Go West	1992	3	244	447	
+1684	7	Faith - Remastered	George Michael	1987	30	83		
+1685	21	Seven Wonders - 2017 Remaster	Fleetwood Mac	1987	8	350		
+1686	15	Moonlight Shadow - Remastered	Mike Oldfield	1983	9	328	244	
+1687	21	Going Down to Liverpool	The Bangles	1984	18	215	416	131
+1688	12	Manic Monday	The Bangles	1986	51	342	48	209
+1689	11	Maniac	Michael Sembello	2006	6	358	455	211
+1690	13	Super Freak	Rick James	1981	17	89	397	211
+1691	22	U Can't Touch This	MC Hammer	1990	47	211		
+1692	6	Killer Queen - Remastered 2011	Queen	1974	55	22		
+1693	7	Yellow River	Christie	1970	29	164		
+1694	11	Hitchin' a Ride	Vanity Fare	2013	41	444	220	
+1695	3	Kiss The Bride - Remastered	Elton John	2017	28	325	437	
+1696	12	Mamma Mia	ABBA	1975	12	373		
+1697	11	I Do, I Do, I Do, I Do, I Do	ABBA	1975	11	334		
+1698	23	Gloria	Laura Branigan	1995	30	353	241	
+1699	13	The Power Of Love	Huey Lewis & The News	2006	4	360	358	189
+1700	11	Angel Of Harlem	U2	1988	48	466	189	
+1701	6	Angels	Robbie Williams	1997	15	120	213	
+1702	3	She's The One	Robbie Williams	1998	63	419	176	236
+1703	6	Rewind	Paolo Nutini	2007	9	152	158	25
+1704	13	You're Beautiful	James Blunt	2005	33	40		
+1705	12	Amazing	Alex Lloyd	2006	46	152		
+1706	19	Crash and Burn	Savage Garden	1999	33	80	306	86
+1707	13	I Knew I Loved You	Savage Garden	2005	19	391	58	
+1708	17	In Your Eyes - 2012 Remaster	Peter Gabriel	1986	39	72	378	401
+1709	9	Down to Earth - From "WALL-E"/Soundtrack Version	Peter Gabriel, Soweto Gospel Choir	2008	32	245		
+1710	21	The River of Dreams	Billy Joel	1993	55	104	20	109
+1711	20	They Live in You - From "The Lion King"/Original Broadway Cast Recording	Samuel E. Wright, Ensemble - The Lion King	1997	4	172	360	235
+1712	8	Circle of Life - From "The Lion King"/Soundtrack Version	Elton John	1994	29	76	249	
+1713	15	Confusion	Electric Light Orchestra	1979	23	184		
+1714	8	Land of Confusion - 2007 Remaster	Genesis	1986	37	431		
+1715	4	Wheel in the Sky	Journey	2001	45	69	212	
+1716	8	To Be Alive Again	Journey	2001	11	449		
+1717	7	Judy in Disguise (with Glasses)	John Fred and His Playboy Band	1967	61	244		
+1718	10	You May Be Right	Billy Joel	1980	56	107	284	
+1719	22	Rich Girl	Daryl Hall & John Oates	2005	25	228	311	
+1720	10	Leave Me Out of This	Dion Roy	2015	40	136		
+1721	21	Her Diamonds	Rob Thomas	2009	29	115		
+1722	1	Wish You Were Here	Avril Lavigne	2011	58	235	274	251
+1723	8	Complicated	Avril Lavigne	2002	17	419	471	343
+1724	23	Hot	Avril Lavigne	2007	28	20	251	152
+1725	22	Tonight Tonight	Hot Chelle Rae	2011	40	35		
+1726	18	Not Fuckin' Around	Big D and the Kids Table	2009	31	199	238	438
+1727	14	Lifestyles of the Rich & Famous	Good Charlotte	2002	22	211		
+1728	5	I Don't Wanna Be Sad	Simple Plan	2016	21	31	73	33
+1729	18	The Day That I Die	Good Charlotte	2002	14	255	204	
+1730	11	Waiting On the World to Change	John Mayer	2006	3	126		
+1731	9	Say	John Mayer	2006	51	357	181	
+1732	19	Best Day Of My Life	American Authors	2014	26	393	329	357
+1733	11	Young Volcanoes	Fall Out Boy	2013	5	312	461	
+1734	16	Alone Together	Fall Out Boy	2013	57	183		
+1735	22	Sugar, We're Goin Down	Fall Out Boy	2005	42	447	420	124
+1736	21	Pompeii	Bastille	2013	44	281	157	98
+1737	2	It's Time	Imagine Dragons	2012	35	35	26	306
+1738	23	Good Life	OneRepublic	2009	35	100		
+1739	12	Hey My Love	Dion Roy	2015	57	433	467	182
+1740	2	Breakeven	The Script	2008	15	44	321	222
+1741	8	Chasing Cars	Snow Patrol	2006	13	245	123	
+1742	14	Save Me	Unwritten Law	2005	46	448	253	25
+1743	10	You Found Me	The Fray	2009	12	64	428	155
+1744	18	All at Once	The Fray	2005	53	260	23	262
+1745	3	Getting Ready to Get Down	Josh Ritter	2015	9	468		
+1746	2	Don't Speak	No Doubt	1995	17	87		
+1747	21	867-5309 / Jenny	Tommy Tutone	1981	4	193	24	129
+1748	12	Runaway Train	Soul Asylum	1992	12	85	194	295
+1749	14	Name	The Goo Goo Dolls	1995	21	203	92	378
+1750	18	Into The Ocean	Blue October	2006	9	349	318	235
+1751	18	Congratulations	Blue October, Imogen Heap	2006	3	87	455	265
+1752	16	Ode To My Family	The Cranberries	1994	45	472		
+1753	6	Dreams	The Cranberries	1993	2	222		
+1754	9	Call To Arms	Angels & Airwaves	2007	63	195		
+1755	20	Pictures Of You	The Last Goodnight	2007	62	242		
+1756	11	Perfect Memory (I'll Remember You)	Remy Zero	2001	29	418	332	234
+1757	13	Light & Day / Reach For The Sun	The Polyphonic Spree	2002	8	392		
+1758	23	I Dug My Grave and Walked Away	Mass Undergoe	2011	19	308	103	351
+1759	19	Everything	Lifehouse	2000	47	48		
+1760	14	Everything	Buckcherry	2006	42	246		
+1761	6	Second Chance	Shinedown	2008	25	44		
+1762	3	Jumper - 1998 Edit	Third Eye Blind	1997	39	266		
+1763	21	Rise Above This	Seether	2013	62	259	408	388
+1764	10	Famous Last Words	My Chemical Romance	2006	36	87	133	
+1765	2	All Around The World - Remastered	Oasis	1997	30	299	304	29
+1766	9	Whatever - Remastered	Oasis	1994	20	350	425	41
+1767	23	Born Too Late	The Clarks	2000	25	390		
+1768	12	Einstein On The Beach (For An Eggman)	Counting Crows	2003	49	98	350	
+1769	19	Counting Blue Cars (Tell Me Your Thoughts On God)	Dishwalla	1995	30	360	456	167
+1770	10	Shattered [Turn The Car Around]	O.A.R.	2008	46	322	160	180
+1771	14	Clocks	Coldplay	2002	59	332		
+1772	1	Yellow	Coldplay	2000	59	457	50	
+1773	20	Fix You	Coldplay	2005	30	448		
+1774	20	Bright Lights	Matchbox Twenty	2013	37	280	72	364
+1775	8	The Scientist	Coldplay	2002	41	104		
+1776	2	Fall At Your Feet	Crowded House	1991	58	266	290	43
+1777	23	Narcotic - Radio Edit	Liquido	1998	14	313	125	
+1778	5	Right Here Right Now	Jesus Jones	1991	41	391	130	
+1779	1	Never Let You Go - 2008 Remaster	Third Eye Blind	1999	26	286	88	306
+1780	19	Wonderful	Everclear	2000	22	226	35	
+1781	18	One Headlight	The Wallflowers	1996	34	357	174	
+1782	12	With Arms Wide Open	Creed	1999	27	41	374	
+1783	16	The Older I Get	Skillet	2006	40	126	317	
+1784	21	Desperately Wanting	Better Than Ezra	1996	24	457	266	
+1785	15	Good	Better Than Ezra	1995	46	152	163	
+1786	9	If You're Gone	Matchbox Twenty	2000	54	192		
+1787	1	Real World	Matchbox Twenty	1996	47	359	176	
+1788	22	Long Day	Matchbox Twenty	1996	61	391	186	360
+1789	10	Slide	The Goo Goo Dolls	1998	35	107	454	27
+1790	4	Here Is Gone	The Goo Goo Dolls	2007	15	453		
+1791	10	Where Is My Mind?	Pixies	1988	53	235	431	71
+1792	22	Save It For A Rainy Day	The Jayhawks	2003	14	98	276	21
+1793	13	Stupid Boy	Gear Daddies	1990	6	35	61	
+1794	15	Free Loop	Daniel Powter	2005	25	460	39	399
+1795	9	Landed	Ben Folds	2005	6	298	425	405
+1796	23	Next Plane Home	Daniel Powter	2008	15	392	193	
+1797	21	A Thousand Miles	Vanessa Carlton	2002	22	413	233	
+1798	8	Scar	Missy Higgins	2004	21	460		
+1799	8	If It Makes You Happy	Sheryl Crow	1996	40	445		
+1800	6	Brass in Pocket	Pretenders	1987	49	265	464	197
+1801	16	Hand in My Pocket - 2015 Remaster	Alanis Morissette	1995	26	182	295	
+1802	2	Ironic	Alanis Morissette	1995	10	351		
+1803	13	Breathe (2 AM)	Anna Nalick	2005	59	295		
+1804	19	Luka	Suzanne Vega	1987	31	382	450	313
+1805	16	Torn	Natalie Imbruglia	1998	15	413		
+1806	11	Polyester Bride	Liz Phair	1998	46	182	364	
+1807	12	Unwritten	Natasha Bedingfield	2004	2	438		
+1808	13	Soak Up The Sun	Sheryl Crow	2002	61	445		
+1809	6	Brighter Than The Sun	Colbie Caillat	2011	54	232	221	364
+1810	12	Walking On Sunshine	Katrina & The Waves	1985	61	279		
+1811	5	Suddenly I See	KT Tunstall	2005	45	412		
+1812	1	Be My Yoko Ono	Barenaked Ladies	1992	36	172		
+1813	17	Just My Imagination	The Cranberries	1999	18	398		
+1814	3	Breakfast At Tiffany's	Deep Blue Something	1995	5	276		
+1815	20	I'll Be There for You - Theme From "Friends"	The Rembrandts	1995	27	46	138	323
+1816	23	Closer to Free	Bodeans	1993	4	177	21	
+1817	3	Am I Wrong	Love Spit Love	1994	24	365	412	
+1818	5	Only Wanna Be with You	Hootie & The Blowfish	1994	58	116		
+1819	9	Afternoons & Coffeespoons	Crash Test Dummies	1994	13	149		
+1820	3	Mmm Mmm Mmm Mmm	Crash Test Dummies	1994	23	289	447	44
+1821	18	God Shuffled His Feet	Crash Test Dummies	1994	54	416		
+1822	23	I Go Blind	Hootie & The Blowfish	1995	30	356	137	151
+1823	20	There She Goes	Sixpence None The Richer	1997	13	129	37	
+1824	23	She's so High	Tal Bachman	1999	34	443	45	
+1825	9	Radio	The Corrs	2000	16	304	287	106
+1826	23	Irresistible	The Corrs	2000	22	26	239	
+1827	11	Breathless	The Corrs	2000	13	65		
+1828	8	Wherever You Will Go	The Calling	2001	16	331	345	
+1829	21	If Only	Hanson	2000	37	444	466	435
+1830	17	Where's The Love	Hanson	1997	44	52		
+1831	6	Run-Around	Blues Traveler	2002	26	459	325	406
+1832	9	Hook	Blues Traveler	2002	38	126		
+1833	1	The Fixer	Pearl Jam	2009	21	455	247	413
+1834	8	Here It Goes Again	OK Go	2005	53	169	215	
+1835	19	Everybody Talks	Neon Trees	2012	42	473		
+1836	20	Motivation	Sum 41	2001	4	344		
+1837	2	In Too Deep	Sum 41	2001	36	37		
+1838	1	Walkie Talkie Man	Steriogram	2004	3	322		
+1839	23	Get Loose	The Salads	2003	9	302	436	
+1840	3	One Week	Barenaked Ladies	1998	47	332	447	
+1841	4	Little Miss Can't Be Wrong	Spin Doctors	1991	57	273	26	
+1842	19	All Star	Smash Mouth	1999	22	42	172	31
+1843	10	Promise	Eve 6	2000	45	376		
+1844	3	America	Razorlight	2006	15	41	178	277
+1845	16	Odds Are	Barenaked Ladies	2013	31	380		
+1846	12	I Can't Stay	The Killers	2008	11	62	53	
+1847	6	Smooth (feat. Rob Thomas)	Santana, Rob Thomas	1999	58	218		
+1848	11	Scotty Doesn't Know	Lustra	2006	55	344	211	
+1849	22	Mr. Brightside	The Killers	2004	33	365	404	380
+1850	18	Just Another Girl	The Killers	2013	25	35	270	
+1851	11	Sunday Morning	Maroon 5	2002	42	290	191	
+1852	21	This Love	Maroon 5	2002	30	19	220	
+1853	15	Accidentally In Love - From "Shrek 2" Soundtrack	Counting Crows	2003	37	387	279	
+1854	1	Rush	Big Audio Dynamite	1991	16	168	98	
+1855	22	The Globe	Big Audio Dynamite	1991	55	30	39	
+1856	5	Mother We Just Can't Get Enough	New Radicals	1998	59	53	368	176
+1857	8	Love Is All Around	Joan Jett & The Blackhearts	2017	43	95		
+1858	4	Right Now	SR-71	2000	60	441		
+1859	20	Become What You Hate	Midtown	2002	52	395	394	346
+1860	6	1985	Bowling For Soup	2004	48	121	399	
+1861	1	College Kids	Relient K	2003	5	155		
+1862	4	Spokesman	Goldfinger	2005	13	131	329	162
+1863	20	You	Bad Religion	1989	61	329		
+1864	21	Anthem	zebrahead	2006	55	246	37	399
+1865	5	Up All Night	Unwritten Law	2002	6	458		
+1866	18	Celebration Song	Unwritten Law	2005	42	350	315	456
+1867	5	Zombies Ate My Neighbors	Single File	2009	39	150	135	
+1868	14	Half Past Forever	Better Luck Next Time	2008	23	348	29	
+1869	16	Girl All the Bad Guys Want	Bowling For Soup	2015	59	249	226	
+1870	15	Girls & Boys	Good Charlotte	2002	44	60	196	
+1871	2	Big Casino	Jimmy Eat World	2007	42	454	100	
+1872	21	Sweetness	Jimmy Eat World	2001	10	248	452	334
+1873	18	Dammit	blink-182	1997	4	207		
+1874	19	One of My Lies	Green Day	1992	18	276	29	313
+1875	23	Sk8er Boi	Avril Lavigne	2002	20	244		
+1876	8	First Date	blink-182	2001	38	367		
+1877	16	Semi-Charmed Life	Third Eye Blind	1997	22	141		
+1878	17	I'm Just a Kid	Simple Plan	2018	61	432	273	437
+1879	13	My Own Worst Enemy	Lit	1999	59	51	213	
+1880	9	Manthem	The Bouncing Souls	2001	39	367	193	106
+1881	1	The Static Age	Green Day	2009	3	155	78	236
+1882	14	Thrash Unreal	Against Me!	2007	30	375	131	303
+1883	6	What the Hell	Avril Lavigne	2011	5	160		
+1884	2	Welcome to the Black Parade	My Chemical Romance	2006	36	426	161	
+1885	7	21st Century Breakdown	Green Day	2009	13	316		
+1886	4	Spare Me The Details	The Offspring	2003	35	405	102	
+1887	5	No Cigar	Millencolin	2000	47	38	144	397
+1888	6	May 16	Lagwagon	1998	26	32	70	
+1889	13	All My Best Friends Are Metalheads	Less Than Jake	1998	38	273	379	
+1890	14	The Impression That I Get	The Mighty Mighty Bosstones	1997	17	270		
+1891	5	Someday I Suppose	The Mighty Mighty Bosstones	1993	5	125	316	275
+1892	23	She Has a Girlfriend Now	Reel Big Fish	1996	50	424	358	293
+1893	17	Sell Out	Reel Big Fish	1996	60	302	345	
+1894	3	Feed Jake	Pirates Of The Mississippi	1990	6	171	296	
+1895	23	Please Come to Boston	Dave Loggins	1974	11	229	424	
+1896	11	Blackbird - Remastered 2009	The Beatles	1968	56	70	343	448
+1897	6	Rocky Mountain High	John Denver, Mike Taylor	1972	42	139		
+1898	21	Take Me Home, Country Roads	John Denver	1971	63	148	327	450
+1899	19	On the Road Again - Live	Willie Nelson	1975	16	123	287	
+1900	17	You've Got a Friend in Me - From "Toy Story"/Soundtrack Version	Randy Newman	1995	3	469	81	
+1901	7	Peaceful Easy Feeling - 2013 Remaster	Eagles	1972	53	234		
+1902	23	Take It Easy	Jackson Browne	2004	10	319		
+1903	15	Callin' Baton Rouge	New Grass Revival	1994	10	53		
+1904	18	Good Day For The Blues	Storyville	2008	29	188		
+1905	3	Step By Step	Eddie Rabbitt	1981	28	68		
+1906	23	I Love a Rainy Night	Eddie Rabbitt	1991	20	42	386	
+1907	5	Amie	Pure Prairie League	1999	32	112	176	
+1908	7	Chevy Van	Sammy Johns	2011	7	263		
+1909	9	Hasn't Hit Me Yet - Remastered 2012 version	Blue Rodeo	1993	55	126		
+1910	6	4th Of July / He Stopped Loving Her Today - Medley	Shooter Jennings, George Jones	2005	51	72	415	434
+1911	23	Drive Me Wild	Sawyer Brown	1999	58	259		
+1912	12	Your Man	Josh Turner	2006	20	87	164	
+1913	21	You Feel The Same Way Too	The Rankin Family	2009	28	135	316	283
+1914	18	9 to 5	Dolly Parton	1980	23	289	462	176
+1915	4	Queen Of Hearts	Juice Newton	1988	43	61		
+1916	6	Heard It in a Love Song	The Marshall Tucker Band	2006	26	230	269	53
+1917	11	Achy Breaky Heart	Billy Ray Cyrus	1992	4	218	24	
+1918	12	Flowers On The Wall	Eric Heatherly	2000	38	117		
+1919	3	Thank God I'm a Country Boy	John Denver	1974	62	178	335	83
+1920	21	Honey, I'm Good.	Andy Grammer	2014	13	223	441	403
+1921	20	To Be Young (Is to Be Sad, Is to Be High)	Ryan Adams	2000	59	388		
+1922	2	I'm Gonna Be Somebody - 2003 Remaster	Travis Tritt	2003	50	281	201	
+1923	12	Lodi	Creedence Clearwater Revival	1969	52	278		
+1924	11	Drift Away	Uncle Kracker	2002	30	75	98	
+1925	23	Four Walls	Randy Travis	2009	49	16	455	
+1926	2	Grown Men Don't Cry	Tim McGraw	2001	39	17	435	383
+1927	3	If I Die Young	The Band Perry	2010	24	377		
+1928	14	Just A Kiss	Lady A	2011	12	319		
+1929	19	Slow Down Sister	Lady A	2008	28	164		
+1930	4	Need You Now	Lady A	2010	43	377	201	
+1931	11	Wide Open Spaces	The Chicks	1998	41	434	212	
+1932	11	If I Had $1,000,000	Barenaked Ladies	1992	11	309	178	199
+1933	10	Boys Don't Cry - Single Version	The Cure	1979	57	36	208	
+1934	8	Too Bad	Doug and the Slugs	1980	33	133	472	339
+1935	4	Every Time I Think of You	The Babys	1978	45	365	224	250
+1936	7	How Do You Do?	Mouth & MacNeal	2014	36	446	432	190
+1937	15	I Think I Love You	The Partridge Family	2005	18	158	124	
+1938	10	Love Will Keep Us Together	Captain & Tennille	1975	33	349	409	66
+1939	11	Don't Pull Your Love	Hamilton, Reynold, Joe Frank	2013	11	281		
+1940	20	One Bad Apple	The Osmonds	1970	19	408	156	89
+1941	21	We Go Together - From Grease Soundtrack	John Travolta, Olivia Newton-John	2003	43	232		
+1942	7	Summer Nights - From Grease Soundtrack	John Travolta, Olivia Newton-John	2005	2	466		
+1943	13	You're The One That I Want - From Grease	John Travolta, Olivia Newton-John	2005	57	357	54	
+1944	9	Don't Go Breaking My Heart - Remastered	Elton John, Kiki Dee	2017	2	257	391	48
+1945	17	Waterloo	ABBA	1974	45	400	279	381
+1946	11	Money, Money, Money	ABBA	2008	24	247	58	
+1947	11	Changes - 2015 Remaster	David Bowie	1971	54	454	193	
+1948	20	Solsbury Hill - Remastered 2002	Peter Gabriel	2005	49	341		
+1949	3	I Don't Like Mondays	The Boomtown Rats	1979	52	258		
+1950	22	Monday Morning	Fleetwood Mac	1975	29	339	383	
+1951	5	Second Hand News - 2004 Remaster	Fleetwood Mac	1977	30	420		
+1952	5	You Can Call Me Al	Paul Simon	1986	63	432	83	
+1953	6	Me and Julio Down by the Schoolyard	Paul Simon	1972	23	17	278	
+1954	15	Gumboots (with Boyoyo Boys)	Paul Simon, Boyoyo Boys	1986	60	168	192	24
+1955	21	SOS	ABBA	2008	14	257	104	284
+1956	11	Flashdance...What A Feeling - From "Flashdance"	Irene Cara	2020	19	147	417	
+1957	11	Fame	Irene Cara	1980	9	329	401	
+1958	3	Life In One Day	Howard Jones	1985	10	31	248	188
+1959	9	Together Forever - Lover's Leap Remix	Rick Astley, Pete Hammond	1987	25	208	261	
+1960	12	Waiting for a Star to Fall	Boy Meets Girl	2010	13	282	465	
+1961	19	Always Something There to Remind Me	Naked Eyes	1983	39	259	457	300
+1962	5	Tell It to My Heart	Taylor Dayne	1988	15	99	426	
+1963	4	We Don't Talk Anymore - 2001 Remaster	Cliff Richard	1979	13	30		
+1964	17	No One Is to Blame - 2018 Remaster	Howard Jones	1986	38	306		
+1965	4	The Horses	Daryl Braithwaite	1990	9	400	420	
+1966	22	Back In The High Life Again	Steve Winwood	1986	43	342		
+1967	18	Life in a Northern Town	The Dream Academy	1985	41	188	351	
+1968	3	Video Killed The Radio Star	The Buggles	1980	41	267	268	404
+1969	19	All Night Long (All Night) - Single Version	Lionel Richie	2003	12	317		
+1970	19	I Think We're Alone Now	Tiffany	1987	41	361		
+1971	12	Vacation	The Go-Go's	1982	28	341	86	19
+1972	9	Kids In America	Kim Wilde	1993	49	136	137	422
+1973	12	Never Ending Story	Limahl	2009	20	42	306	
+1974	22	Nothing's Gonna Stop Us Now	Starship	1987	47	408	276	355
+1975	22	Drive	The Cars	1984	9	274		
+1976	20	Man in the Mirror - 2012 Remaster	Michael Jackson	1987	51	208	79	
+1977	9	The Promise	When In Rome	1988	54	122	20	432
+1978	21	Baby I Don't Care	Transvision Vamp	1989	8	327	71	471
+1979	14	Tarzan Boy	Baltimora	1985	32	219		
+1980	20	The Way You Make Me Feel - 2012 Remaster	Michael Jackson	1987	50	22	186	
+1981	22	Goodbye-Goodbye - Boingo Alive Version	Oingo Boingo	1991	42	180		
+1982	11	You Spin Me Round (Like a Record)	Dead Or Alive	2010	27	29		
+1983	10	Brand New Lover - Edit	Dead Or Alive	2010	40	144	216	
+1984	11	Crash	The Primitives	1988	32	249	74	375
+1985	18	Roam - Edit	The B-52's	1989	43	88	47	243
+1986	22	Deadbeat Club	The B-52's	1989	55	315	34	
+1987	2	Pop Goes The World - Re-Record	Men Without Hats	2012	63	86	346	
+1988	13	Stars	Simply Red	1991	18	273		
+1989	21	When Doves Cry	Prince	1984	24	403	92	186
+1990	10	I Can't Go for That (No Can Do)	Daryl Hall & John Oates	2001	32	126	418	
+1991	1	Ebony And Ivory	Paul McCartney	1987	35	419	47	
+1992	19	(Putting Up With) The Joneses	Spirit Of The West	1990	59	451	99	90
+1993	16	Steal My Sunshine	LEN	1999	30	155		
+1994	22	Bouncing Around the Room	Phish	1990	28	35	31	
+1995	19	What Is Love	Haddaway	2011	58	220		
+1996	8	Scatman's World	Scatman John	1995	5	91	120	388
+1997	8	Scatman (ski-ba-bop-ba-dop-bop)	Scatman John	1995	6	335	264	330
+1998	5	Boom, Boom, Boom, Boom!!	Vengaboys	2000	23	436		
+1999	14	We like to Party! (The Vengabus)	Vengaboys	2000	35	142	40	
+2000	14	Space Jam	Quad City DJ's	1996	3	69	72	168
+2001	11	All Together Now	The Farm	1991	32	267	66	420
+2002	15	That's the Way It Is	Cline Dion	1999	60	232	29	198
+2003	1	It's My Life	Dr. Alban	1992	37	294	418	174
+2004	13	The Rhythm of the Night	Corona	1994	58	424	171	
+2005	17	The Power	SNAP!	1990	19	433	30	25
+2006	6	Hung Up	Madonna	2005	37	369	358	
+2007	1	Can't Get You out of My Head	Kylie Minogue	2001	26	194		
+2008	2	Believe	Cher	1998	17	257	172	
+2009	17	Wannabe	Spice Girls	1996	38	332		
+2010	17	Barbie Girl	Aqua	1997	53	279	468	346
+2011	12	Dragostea Din Tei - Original Italian Version	O-Zone	2004	59	165	372	
+2012	15	I'm Too Sexy	Right Said Fred	1992	61	84	114	
+2013	2	Who Let The Dogs Out	Baha Men	2000	56	96	352	
+2014	15	MMMBop - Single Version	Hanson	2006	63	134	186	173
+2015	23	Back for Good - Radio Mix	Take That	1995	4	324	364	
+2016	1	Half The World Away - Remastered	Oasis	1994	41	465		
+2017	15	Nightswimming	R.E.M.	1992	25	148		
+2018	4	Fields Of Gold	Sting	1993	61	425	375	
+2019	8	Waiting For My Real Life To Begin	Colin Hay	2000	19	409	380	80
+2020	5	Overkill - Acoustic Version	Colin Hay	2003	41	312	367	
+2021	6	Thank You	Dido	1999	41	288	328	
+2022	8	Superman (It's Not Easy)	Five For Fighting	2000	54	217	210	
+2023	2	The Riddle	Five For Fighting	2006	25	42	223	404
+2024	15	100 Years	Five For Fighting	2004	56	132	258	326
+2025	2	She Says	Howie Day	2015	35	362		
+2026	5	Bad Day	Daniel Powter	2005	25	399		
+2027	14	She Will Be Loved	Maroon 5	2002	42	403		
+2028	19	Absolutely (Story of a Girl) - Radio Mix	Nine Days	2000	12	221	284	457
+2029	8	Oops!...I Did It Again	Britney Spears	2000	24	274	19	
+2030	16	Lucky	Britney Spears	2000	11	334		
+2031	20	As Long as You Love Me	Backstreet Boys	1997	34	102	269	233
+2032	17	I Want It That Way	Backstreet Boys	2001	40	37	136	379
+2033	12	Bye Bye Bye	*NSYNC	2000	28	390	303	360
+2034	14	It's Gonna Be Me	*NSYNC	2000	34	209	55	59
+2035	16	This I Promise You	*NSYNC	2000	30	116	411	
+2036	6	When You Say Nothing At All	Ronan Keating	2004	29	412	84	106
+2037	23	When You Look Me in the Eyes	Jonas Brothers	2007	51	94		
+2038	10	Come on over Baby (All I Want Is You) - Radio Version	Christina Aguilera	1999	46	155	157	315
+2039	18	Lady Marmalade - From "Moulin Rouge" Soundtrack	Christina Aguilera, Lil' Kim, Ma, P!nk	2001	61	319	133	
+2040	5	Independent Women, Pt. 1	Destiny's Child	2001	28	268		
+2041	18	Single Ladies (Put a Ring on It)	Beyonc	2008	28	302		
+2042	2	Stupid Girls	P!nk	2006	22	19	234	294
+2043	14	U + Ur Hand	P!nk	2006	61	74		
+2044	17	Just Like a Pill	P!nk	2001	19	126		
+2045	9	Don't Let Me Get Me - Radio Edit	P!nk	2001	35	307	375	128
+2046	11	Mr. Know It All	Kelly Clarkson	2011	61	184		
+2047	10	Stronger (What Doesn't Kill You)	Kelly Clarkson	2011	12	449	315	
+2048	3	Never Leave You (Uh Oooh, Uh Oooh)	Lumidee	2003	44	196		
+2049	6	Viva La Vida	Coldplay	2008	42	142		
+2050	19	I Gotta Feeling	Black Eyed Peas	2009	32	125		
+2051	18	Dynamite	Taio Cruz	2010	49	30		
+2052	21	Big Girl (You Are Beautiful)	MIKA	2007	28	84	367	
+2053	5	Grace Kelly	MIKA	2007	40	106		
+2054	18	Call On Me - Radio Edit	Eric Prydz	2004	42	328	167	
+2055	5	Call Me Maybe	Carly Rae Jepsen	2012	20	439		
+2056	21	Crazy	Gnarls Barkley	2006	26	266		
+2057	11	Shake It	Metro Station	2007	38	341	267	
+2058	4	Mambo No. 5 (a Little Bit of...)	Lou Bega	1999	16	35		
+2059	21	Havana (feat. Young Thug)	Camila Cabello, Young Thug	2018	35	167	389	326
+2060	10	El Fusilado	Chumbawamba	2008	21	287		
+2061	4	The Most Beautiful Song	Lunik	2004	61	74	227	
+2062	20	Hey, Soul Sister	Train	2009	31	425	219	
+2063	14	I'm Alive	Cline Dion	2002	42	204	61	317
+2064	19	Energy	The Apples In Stereo	2007	29	361	190	256
+2065	17	Fireflies	Owl City	2009	48	230	173	229
+2066	16	Hello Seattle	Owl City	2009	59	74		
+2067	8	Shooting Star	Owl City	2012	21	75		
+2068	12	Royals	Lorde	2013	53	55	192	
+2069	10	Chandelier	Sia	2015	5	258	433	
+2070	17	Fire Meet Gasoline	Sia	2015	56	180		
+2071	2	Dance with Me Tonight	Olly Murs	2011	29	369	203	206
+2072	17	Somebody That I Used To Know	Gotye, Kimbra	2011	36	414		
+2073	22	Pumped Up Kicks	Foster The People	2011	9	41	138	250
+2074	18	Happy	C2C, Derek Martin	2012	33	331	26	
+2075	17	Party Rock Anthem	LMFAO, Lauren Bennett, GoonRock	2011	16	386	210	234
+2076	3	Forget You	CeeLo Green	2010	54	411	396	
+2077	4	Where the Night Goes	Josh Ritter	2015	24	218	373	315
+2078	17	One More Night	Maroon 5	2012	31	443	96	
+2079	1	Payphone	Maroon 5, Wiz Khalifa	2012	14	54	341	
+2080	3	Mirrors	Justin Timberlake	2013	42	334	147	
+2081	15	Misery	Maroon 5	2010	2	332	336	
+2082	8	Moves Like Jagger - Studio Recording From The Voice Performance	Maroon 5, Christina Aguilera	2010	37	333		
+2083	8	Daylight	Maroon 5	2012	62	214	469	
+2084	22	Marry You	Bruno Mars	2010	20	437	267	
+2085	6	We Are Young (feat. Janelle Mone)	fun., Janelle Mone	2012	50	464	216	142
+2086	2	We Got the World	Icona Pop	2013	44	95		
+2087	22	Feel So Close - Radio Edit	Calvin Harris	2012	39	110		
+2088	16	We Found Love	Rihanna, Calvin Harris	2011	2	232		
+2089	11	The Edge Of Glory	Lady Gaga	2011	11	425		
+2090	13	22	Taylor Swift	2012	22	338		
+2091	8	Last Friday Night (T.G.I.F.)	Katy Perry	2012	7	445		
+2092	21	Party In The U.S.A.	Miley Cyrus	2009	13	466	401	
+2093	3	Want U Back	Cher Lloyd	2012	15	85	409	
+2094	20	Starships	Nicki Minaj	2012	40	22	450	408
+2095	21	Raise Your Glass	P!nk	2010	4	197	459	
+2096	1	Domino	Jessie J	2011	51	289	36	
+2097	11	Price Tag	Jessie J, B.o.B	2011	10	299	189	129
+2098	22	Hello - Single Edit	Martin Solveig, Dragonette	2010	16	16		
+2099	20	Roses	The Chainsmokers, ROZES	2015	53	141	50	
+2100	19	I Love It (feat. Charli XCX)	Icona Pop, Charli XCX	2013	12	402		
+2101	21	Brave	Sara Bareilles	2013	22	125	172	
+2102	18	Roar	Katy Perry	2013	47	135		
+2103	9	Set Fire to the Rain	Adele	2011	53	405	44	319
+2104	12	Blank Space	Taylor Swift	2014	62	32	473	
+2105	3	Hollow	Tori Kelly, Big Sean	2015	10	93	242	
+2106	2	Just the Way You Are	Bruno Mars	2010	2	470	123	
+2107	14	Rolling in the Deep	Adele	2011	6	433	319	
+2108	8	Call off Your Dogs	Lake Street Dive	2016	36	164	377	434
+2109	8	I Knew You Were Trouble.	Taylor Swift	2012	39	131		
+2110	4	Ain't It Fun	Paramore	2013	10	145	310	
+2111	11	Still into You	Paramore	2013	43	130	328	
+2112	15	Satellite	Lena	2010	5	447	49	222
+2113	12	All About That Bass	Meghan Trainor	2015	39	345	79	117
+2114	12	Sugar	Maroon 5	2014	50	335		
+2115	19	True Love	P!nk, Lily Allen	2012	10	105		
+2116	8	The Wrong Direction	Passenger	2012	51	144	371	84
+2117	14	Holes	Passenger	2012	32	143	137	
+2118	1	The Sound Of Sunshine	Michael Franti & Spearhead	2010	16	358	89	
+2119	11	With A Spirit	009 Sound System	2010	46	307	312	
+2120	1	Midnight City	M83	2011	26	336	167	
+2121	13	One More Time	Daft Punk	2001	3	473	348	
+2122	12	Digital Love	Daft Punk	2001	45	376		
+2123	5	Harder, Better, Faster, Stronger	Daft Punk	2001	17	84	469	
+2124	5	Levels - Radio Edit	Avicii	2011	57	157		
+2125	4	Redemption Song	Bob Marley & The Wailers	1980	63	148		
+2126	22	Could You Be Loved	Bob Marley & The Wailers	1980	8	90	460	372
+2127	10	Is This Love	Bob Marley & The Wailers	1978	7	414	468	296
+2128	15	Jamming	Bob Marley & The Wailers	1977	32	367		
+2129	7	No Woman, No Cry - Live At The Lyceum, London/1975	Bob Marley & The Wailers	2002	39	137		
+2130	8	Three Little Birds	Bob Marley & The Wailers	1977	22	382	335	256
+2131	5	Red Red Wine	UB40	2000	44	473		
+2132	7	Kingston Town	UB40	1989	59	135	349	48
+2133	12	The Sign	Ace of Base	1993	49	131		
+2134	20	The Tide Is High - Edit	Blondie	1980	5	436		
+2135	16	Rude	MAGIC!	2013	37	440	93	
+2136	17	Sweat (A La La La La Long)	Inner Circle	2010	21	377		
+2137	10	Let's Do It Again	J Boog	2011	31	267	250	
+2138	10	Boombastic - Sting Remix	Shaggy	2002	35	434		
+2139	1	It Wasn't Me	Shaggy, Rik Rok	2008	28	76	222	
+2140	21	Angel	Shaggy, Rayvon	2000	11	19	316	251
+2141	20	I'm Yours	Jason Mraz	2008	42	464	69	
+2142	7	The Lazy Song	Bruno Mars	2010	61	261	167	
+2143	15	Why Can't We Be Friends?	War	1975	24	110	406	
+2144	13	Romancing The Stone	Eddy Grant	2008	26	34	282	104
+2145	23	I Like To Move It (feat. The Mad Stuntman) - Erick "More" Album Mix	Reel 2 Real, The Mad Stuntman, Erick Morillo	1994	57	78	116	138
+2146	21	Cheerleader - Felix Jaehn Remix Radio Edit	OMI	2015	51	283	416	
+2147	21	Alexander Hamilton	Leslie Odom Jr., Anthony Ramos, Daveed Diggs, Okieriete Onaodowan, Lin-Manuel Miranda, Phillipa Soo, Original Broadway Cast of Hamilton	2015	62	179	99	
+2148	9	My Shot	Lin-Manuel Miranda, Anthony Ramos, Daveed Diggs, Okieriete Onaodowan, Leslie Odom Jr., Original Broadway Cast of Hamilton	2015	59	308	161	373
+2149	16	Changes	2Pac, Talent	1998	51	438	249	263
+2150	17	Express Yourself	N.W.A.	1988	19	340		
+2151	13	Ice Ice Baby	Vanilla Ice	2008	32	404	326	
+2152	4	Bow Wow (That's My Name) (feat. Snoop Dogg)	Bow Wow, Snoop Dogg	2000	26	263	372	
+2153	6	Rapper's Delight	The Sugarhill Gang	2005	15	128	86	421
+2154	2	I'll Be Missing You (feat. 112)	Diddy, Faith Evans, 112	2004	5	226	214	140
+2155	20	Hypnotize - 2014 Remaster	The Notorious B.I.G.	1997	53	337	96	
+2156	20	Gangsta's Paradise	Coolio, L.V.	1995	62	298	113	
+2157	15	Hard Knock Life (Ghetto Anthem)	JAY-Z	1998	34	306		
+2158	3	Empire State Of Mind	JAY-Z, Alicia Keys	2009	38	278		
+2159	20	In Da Club	50 Cent	2003	10	134	355	462
+2160	9	X Gon' Give It To Ya	DMX	2010	25	356	202	397
+2161	3	The Real Slim Shady	Eminem	2000	32	285		
+2162	11	Lose Yourself - From "8 Mile" Soundtrack	Eminem	2005	52	287	325	
+2163	5	Sing For The Moment	Eminem	2002	61	39	62	
+2164	5	Bills	LunchMoney Lewis	2015	45	264	306	139
+2165	9	Yeah! (feat. Lil Jon & Ludacris)	Usher, Lil Jon, Ludacris	2004	13	181	253	327
+2166	23	Please Don't Go - Single Version	KC & The Sunshine Band	1979	49	234		
+2167	20	I Just Called To Say I Love You	Stevie Wonder	1999	7	113		
+2168	1	Let's Stay Together	Al Green	1972	3	314	158	370
+2169	12	Ain't No Mountain High Enough	Marvin Gaye, Tammi Terrell	1967	48	160	60	
+2170	7	Lovely Day	Bill Withers	1994	62	224	160	
+2171	20	Isn't She Lovely	Stevie Wonder	1976	45	439		
+2172	4	High	Lighthouse Family	1997	27	273		
+2173	14	You Gotta Be	Des'ree	1994	21	228		
+2174	10	Family Affair	Mary J. Blige	2001	59	92	236	25
+2175	6	We Belong Together	Mariah Carey	2005	52	122	27	70
+2176	21	Survivor	Destiny's Child	2001	28	354		
+2177	21	No One	Alicia Keys	2007	23	306	418	
+2178	11	Always Be My Baby	Mariah Carey	1995	5	119		
+2179	5	Beautiful	Christina Aguilera	2002	3	431	326	462
+2180	19	Happy Ending	MIKA	2007	19	428	356	
+2181	1	Sleepy Maggie	Ashley MacIsaac	1995	36	182	387	
+2182	1	Pure Shores	All Saints	2000	30	176		
+2183	11	I Try	Macy Gray	1999	31	104		
+2184	16	Waterfalls	TLC	1994	42	276	158	
+2185	5	Killing Me Softly With His Song	Fugees, Ms. Lauryn Hill	1996	38	88		
+2186	3	Dance With My Father	Luther Vandross	2003	58	320	224	
+2187	11	You Are Not Alone	Michael Jackson	1995	15	105		
+2188	10	I Swear	All-4-One	2005	53	233		
+2189	4	Kiss from a Rose	Seal	1994	29	94	116	384
+2190	4	I Believe I Can Fly	R. Kelly	1998	5	407		
+2191	19	Un-Break My Heart	Toni Braxton	1996	24	150	176	
+2192	11	All My Life	K-Ci & JoJo	1997	50	178	177	
+2193	6	One Sweet Day	Mariah Carey, Boyz II Men	1995	2	251		
+2194	20	Because You Loved Me (Theme from "Up Close and Personal")	Cline Dion	1992	60	33	49	
+2195	22	I Turn to You	Christina Aguilera	1999	14	364	224	91
+2196	10	Life	Des'ree	1998	35	439	466	271
+2197	1	With You	Chris Brown	2007	24	385	151	
+2198	4	Where Is The Love?	Black Eyed Peas	2003	51	23		
+2199	20	Umbrella	Rihanna, JAY-Z	2008	23	57	450	185
+2200	10	Symphonies	Dan Black, Kid Cudi	2010	10	131	308	
+2201	18	Thank You For The Music	ABBA	1977	24	117	37	
+2202	19	Pon de Replay	Rihanna	2005	49	127	227	183
+2203	21	SOS	Rihanna	2006	5	87		
+2204	3	Disturbia	Rihanna	2008	33	412		
+2205	23	Rude Boy	Rihanna	2009	36	291	396	
+2206	1	Only Girl (In The World)	Rihanna	2010	9	187	44	
+2207	3	Diamonds	Rihanna	2012	52	421	177	347
+2208	5	Needed Me	Rihanna	2016	11	325	227	
+2209	16	Higher	Rihanna	2016	62	193	156	
+2210	20	Vision of Love	Mariah Carey	1990	39	228	196	
+2211	19	Emotions	Mariah Carey	1991	49	80		
+2212	7	Without You	Mariah Carey	1993	11	295	161	159
+2213	7	All I Want for Christmas Is You	Mariah Carey	1994	54	376	311	388
+2214	18	Fantasy	Mariah Carey	1995	29	270	62	
+2215	23	Honey	Mariah Carey	1997	25	58		
+2216	14	Heartbreaker (feat. Jay-Z)	Mariah Carey, JAY-Z	1999	47	143	238	
+2217	20	Let's Spend the Night Together - 2013 Remaster	David Bowie	1973	39	339	113	
+2218	7	Golden Years - 2016 Remaster	David Bowie	1976	27	456		
+2219	9	Always Crashing in the Same Car - 1999 Remaster	David Bowie	1977	51	297	277	
+2220	10	Heroes - 1999 Remaster	David Bowie	1977	51	400	283	
+2221	13	I Can't Give Everything Away	David Bowie	2016	30	64		
+2222	12	Ben - Single Version	Michael Jackson	1972	27	201	253	
+2223	9	Get on the Floor	Michael Jackson	1979	22	66		
+2224	13	Smooth Criminal - 2012 Remaster	Michael Jackson	1987	46	96		
+2225	9	Black or White	Michael Jackson	1991	48	151	324	348
+2226	13	I Wanna Be Your Lover	Prince	1979	15	397	81	
+2227	1	Dirty Mind	Prince	1980	10	352		
+2228	17	Do Me, Baby	Prince	1981	42	38	249	
+2229	16	Little Red Corvette	Prince	1982	49	207	391	376
+2230	1	Delirious	Prince	1982	50	141	382	
+2231	12	Let's Go Crazy	Prince	1984	25	351	110	270
+2232	7	I Would Die 4 U	Prince	1984	38	144	134	249
+2233	7	Raspberry Beret	Prince	1985	28	455	54	362
+2234	16	The Ballad of Dorothy Parker	Prince	1987	25	446		
+2235	5	Adore	Prince	1987	17	207	169	266
+2236	16	How Will I Know	Whitney Houston	1985	13	168	228	
+2237	10	So Emotional	Whitney Houston	1987	29	338		
+2238	9	I'm Your Baby Tonight	Whitney Houston	1990	31	262	104	
+2239	15	I'm Every Woman	Whitney Houston	1992	42	330	196	165
+2240	21	It's Not Right But It's Okay	Whitney Houston	1998	3	31	392	
+2241	21	Try It On My Own	Whitney Houston	2002	38	318	363	
+2242	5	The Star Spangled Banner (feat. The Florida Orchestra) - Live from Super Bowl XXV	Whitney Houston, Florida Orchestra	2014	26	374	440	
+2243	19	Love To Love You Baby	Donna Summer	1975	27	79	119	349
+2244	16	Spring Affair	Donna Summer	1976	41	236	49	
+2245	17	Could It Be Magic	Donna Summer	1976	31	60	337	111
+2246	11	I Feel Love - 12" Version	Donna Summer	1979	4	379	322	
+2247	1	Hot Stuff - 12" Version	Donna Summer	1979	35	268	248	
+2248	10	On The Radio	Donna Summer	1979	9	377		
+2249	4	The Wanderer	Donna Summer	1980	9	293	245	
+2250	7	She Works Hard For The Money	Donna Summer	1983	19	310		
+2251	17	This Time I Know It's for Real	Donna Summer	1989	28	210	320	174
+2252	22	Uptight (Everything's Alright)	Stevie Wonder	1966	38	73	180	
+2253	8	A Place In The Sun	Stevie Wonder	1966	32	55	472	71
+2254	3	My Cherie Amour	Stevie Wonder	1969	51	366	237	300
+2255	14	Superwoman	Stevie Wonder	1972	27	17		
+2256	17	I Wish	Stevie Wonder	1976	34	250	397	276
+2257	13	Send One Your Love	Stevie Wonder	1979	29	48		
+2258	8	Happy Birthday	Stevie Wonder	1980	35	108	30	
+2259	21	I Loves You Porgy	Nina Simone	1958	16	158	466	
+2260	21	Trouble In Mind - Live In New York/1965	Nina Simone	1965	14	465		
+2261	19	I Put A Spell On You	Nina Simone	1965	58	338		
+2262	12	Strange Fruit	Nina Simone	2015	32	121		
+2263	1	Sinnerman	Nina Simone	2015	30	469		
+2264	18	I Wish I Knew How It Would Feel to Be Free	Nina Simone	1967	53	230		
+2265	13	Mississippi Goddam - Live In New York/1964	Nina Simone	1964	57	173	376	
+2266	19	To Be Young, Gifted And Black	Nina Simone	2006	8	303	85	393
+2267	5	Four Women	Nina Simone	1966	63	405	35	297
+2268	14	Here Comes the Sun	Nina Simone	1971	50	122	125	
+2269	3	It Should've Been Me	Ray Charles	2017	10	31		
+2270	2	I've Got a Woman	Ray Charles	1957	39	28	221	
+2271	15	Greenbacks - 2016 Mono Remaster	Ray Charles	2016	55	420	281	426
+2272	3	Drown in My Own Tears	Ray Charles	1957	36	279	277	307
+2273	21	Hallelujah, I Love Her So	Ray Charles	1957	57	217		
+2274	21	Georgia on My Mind	Ray Charles	2014	63	285	374	256
+2275	15	It Had to Be You	Ray Charles	1959	61	260	27	
+2276	4	Let the Good Times Roll	Ray Charles	1959	47	425	431	
+2277	2	I'm A Lonesome Fugitive - Remastered	Merle Haggard & The Strangers	2001	48	468	353	264
+2278	7	Poncho & Lefty	Townes Van Zandt	1972	25	80	374	
+2279	17	Cocaine Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968	Johnny Cash	1968	48	150	429	
+2280	15	Are You Sure Hank Done It This Way	Waylon Jennings	2007	6	190	87	
+2281	4	Why Me	Kris Kristofferson	1972	33	40	452	310
+2282	1	I'm Not Lisa	Jessi Colter	1995	29	218		
+2283	16	Red Headed Stranger	Willie Nelson	1975	37	72		
+2284	1	Follow Your Arrow	Kacey Musgraves	2013	22	293	134	25
+2285	6	I'm Gettin' Stoned	Eric Church	2011	33	21	91	
+2286	16	Texas (When I Die)	Tanya Tucker	2000	9	129		
+2287	21	Salt Peanuts	Charlie Parker, Dizzy Gillespie, Bud Powell, Max Roach, Charles Mingus	2012	7	67	278	
+2288	21	A Night In Tunisia - Rudy Van Gelder Edition / Remastered 1998	Bud Powell	2001	23	246		
+2289	12	Oh Lady Be Good	Ella Fitzgerald	2017	16	92	412	
+2290	14	Ruby, My Dear	Thelonious Monk, John Coltrane	1961	26	450	245	441
+2291	6	Lady Bird	Fats Navarro, Tadd Dameron Sextet	1951	28	126		
+2292	11	Get Happy	Clifford Brown	2016	43	336	114	35
+2293	11	After Hours	Dizzy Gillespie, Sonny Rollins, Sonny Stitt	1957	13	426	118	200
+2294	8	Yardbird Suite	Max Roach	2016	16	333	128	330
+2295	4	Society Red	Dexter Gordon	1961	38	188	436	210
+2296	22	Wig Wise - Remastered	Duke Ellington	2002	29	385	241	179
+2297	2	Wham Bam Thank You Ma'am	Charles Mingus	1962	25	265	341	183
+2298	15	A Love Supreme, Pt. I  Acknowledgement	John Coltrane	1965	6	470	156	
+2299	5	Concierto de Aranjuez: Adagio	Miles Davis	1960	60	289	259	
+2300	16	Maiden Voyage - Remastered	Herbie Hancock	1965	51	359	449	
+2301	16	Cross Breeding	Ornette Coleman	2005	26	122		
+2302	10	The Wizard	Albert Ayler	2015	15	189		
+2303	17	Wave	Antnio Carlos Jobim	1967	48	464	241	130
+2304	11	The Creator Has A Master Plan	Pharoah Sanders	1969	56	16		
+2305	21	Tapestry From An Asteroid	Sun Ra	1961	24	48	101	
+2306	9	Emergency	The Tony Williams Lifetime	1969	26	147	31	
+2307	9	Down Through the Night - Live, 2007 Remaster	Hawkwind	1973	6	382	54	301
+2308	8	Oscillations	Silver Apples	1968	10	125		
+2309	20	Alone Again Or - 2015 Remaster	Love	1967	2	336		
+2310	18	Mr. Spaceman	The Byrds	1966	55	265	144	40
+2311	18	Baby	Os Mutantes	1968	60	413	469	
+2312	11	Octopus	Syd Barrett	2016	29	119		
+2313	4	White Rabbit	Jefferson Airplane	1967	31	80		
+2314	3	Tomorrow Never Knows - Remastered 2009	The Beatles	1966	32	295	61	32
+2315	16	White Light/White Heat	The Velvet Underground	1968	49	127		
+2316	19	Trash	New York Dolls	1973	6	450	113	
+2317	12	Gloria: In Excelsis Deo	Patti Smith	1975	44	103	260	
+2318	8	Marquee Moon	Television	1977	44	201	266	
+2319	12	Identity	X-Ray Spex	2001	6	230		
+2320	3	Search and Destroy - Iggy Pop Mix	The Stooges	1973	16	247	189	45
+2321	5	So Tough	The Slits	1979	36	430	448	
+2322	16	Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version	Buzzcocks	1978	53	429	350	
+2323	7	Love Will Tear Us Apart - 2010 Remaster	Joy Division	2010	38	462	290	57
+2324	12	Damaged Goods	Gang Of Four	1979	38	124	197	
+2325	13	Map Ref 41 Degrees N 93 Degrees W - 2006 Remastered Version	Wire	1979	36	274	382	468
+2326	23	Modern Dance	Pere Ubu	2015	58	258		
+2327	6	Age of Consent - 2015 Remaster	New Order	1983	7	362	77	140
+2328	5	Too Many Creeps	Bush Tetras	1995	61	358	286	
+2329	14	That's How I Escaped My Certain Fate	Mission Of Burma	1982	31	42		
+2330	19	Poptones	Public Image Ltd.	1979	42	133	284	123
+2331	17	Suburban Relapse	Siouxsie and the Banshees	1978	49	364	106	
+2332	18	No Side to Fall In	The Raincoats	1979	33	33		
+2333	22	Wonderful World, Beautiful People - Single Version	Jimmy Cliff	2004	30	472		
+2334	16	People Funny Boy	Lee "Scratch" Perry	2002	54	394	422	189
+2335	18	Picture On the Wall	Phyllis Dillon	2004	33	70	272	
+2336	23	Do The Reggay	Toots & The Maytals	1996	62	450		
+2337	8	Bush Doctor - 2002 Remaster	Peter Tosh	1988	5	456	208	142
+2338	5	One Draw	Rita Marley	2005	38	101		
+2339	20	It's A Pity	Tanya Stephens	2009	23	345		
+2340	21	Bam Bam	Sister Nancy	2002	62	383		
+2341	20	Sycamore Tree	Lady Saw	1997	53	65		
+2342	3	California	Joni Mitchell	1971	13	205		
+2343	15	Diamonds And Rust	Joan Baez	1975	19	86		
+2344	16	Across the Great Divide	Kate Wolf	1982	44	95		
+2345	13	Freight train	Elizabeth Cotten	1989	38	199	315	
+2346	3	Arrow	Cheryl Wheeler	1990	44	324	206	
+2347	13	If I Had a Hammer (Hammer Song)	Pete Seeger	1956	29	351		
+2348	15	This Land is Your Land	Woody Guthrie	1997	24	79	75	422
+2349	19	Let the Mystery Be	Iris DeMent	1993	43	364		
+2350	6	Gracias A La Vida	Mercedes Sosa	1987	25	119	34	294
+2351	4	It'll Take A Long Time	Sandy Denny	1972	42	107		
+2352	23	Then He Kissed Me	The Crystals	2011	53	168		
+2353	5	(Love Is Like A) Heat Wave	Martha Reeves & The Vandellas	1963	33	351	357	403
+2354	3	He's So Fine - Remastered 2000	The Chiffons	2004	50	117	35	
+2355	18	My Boyfriend's Back	The Angels	1998	20	439		
+2356	9	Leader Of The Pack	The Shangri-Las	1998	6	124	307	
+2357	1	Please Mr. Postman - Single Version / Mono	The Marvelettes	2009	17	171	386	390
+2358	5	The - Maybe	The Chantels	2015	60	335	461	
+2359	4	How I Got Over - Live	Mahalia Jackson	2004	33	78		
+2360	15	Moanin'	Sarah Vaughan	1992	59	199	373	146
+2361	19	I Surrender All	CeCe Winans	2010	35	147	216	107
+2362	19	Strange Things Happening Every Day	Sister Rosetta Tharpe	1995	12	404	244	
+2363	11	God Specializes	The Roberta Martin Singers	1958	49	83	377	374
+2364	11	Wholy Holy	Aretha Franklin	2007	39	238	320	
+2365	3	Bad Situation	5 Spiritual Tones	2006	60	157	114	
+2366	3	Yes God Is Real	Gospel Comforters	2010	56	224		
+2367	5	I Smile	Kirk Franklin	2011	31	372		
+2368	13	It'll All Be Over	Supreme Jubilees	2013	8	134		
+2369	3	Mushroom - 2011 Remastered	CAN	1971	11	378	46	426
+2370	2	Krautrock - 2006 Digital Remaster	Faust	2006	60	422	115	404
+2371	19	Hallogallo	NEU!	1972	40	127	407	339
+2372	15	Birth of Liquid Plejades	Tangerine Dream	1972	9	274		
+2373	1	Kyrie	Popol Vuh	2004	14	211		
+2374	21	You Don't Know What's Happening	Embryo	1970	21	173	274	316
+2375	23	Archangel Thunderbird	Amon Dl II	2006	19	299		
+2376	8	Galactic Joke (C)	Cosmic Jokers	1974	33	381	75	68
+2377	10	Stone In	Guru Guru	1970	61	386		
+2378	9	Bayreuth Return	Klaus Schulze	1975	10	144		
+2379	11	The Advent of Panurge - Steven Wilson Mix	Gentle Giant, Steven Wilson	2015	21	389	98	
+2380	8	Tarkus (i. Eruption / ii. Stones of Years / iii. Iconoclast / iv. Mass / v. Manticore / vi. Battlefield / vii. Aquatarkus) [2012 Remastered Version]	Keith Emerson	1971	10	20		
+2381	13	Moon In June	Soft Machine	1970	6	111	428	
+2382	5	Lady Fantasy	Camel	1993	11	61	349	
+2383	7	Supper's Ready - New Stereo Mix	Genesis	1972	16	445	331	213
+2384	22	Siberian Khatru - 2003 Remaster	Yes	1972	8	69	454	
+2385	17	In The Land Of Grey & Pink	Caravan	1971	36	96	273	
+2386	17	Locomotive Breath	Jethro Tull	1971	16	96	42	44
+2387	20	It's Your Thing	The Isley Brothers	1999	4	336	189	115
+2388	3	Family Affair - Single Version	Sly & The Family Stone	1971	15	75	132	156
+2389	15	Flash Light	Parliament	1977	21	21	393	
+2390	11	Bootzilla	Bootsy Collins	1994	49	273	291	
+2391	19	Hit It and Quit It	Funkadelic	1971	6	27	412	
+2392	19	The Payback	James Brown	1973	54	165	340	267
+2393	3	They Say I'm Different	Betty Davis	1974	51	193	161	58
+2394	6	I Don't Believe You Want To Get Up And Dance (Oops Up Side Your Head)	The Gap Band	1979	48	147	177	275
+2395	3	Pleasure Principle	Parlet	1978	32	453		
+2396	2	Boogie Wonderland	Earth\, Wind & Fire, The Emotions	1979	11	302	40	326
+2397	23	I'm Every Woman	Chaka Khan	1996	7	454	72	176
+2398	11	He's the Greatest Dancer	Sister Sledge	2007	38	378	51	
+2399	22	Got to Be Real	Cheryl Lynn	1978	25	401	39	295
+2400	13	Jump (For My Love)	The Pointer Sisters	1989	14	324	286	
+2401	6	Get Up and Boogie (That's Right) - Radio Mix	Silver Convention	1976	28	260		
+2402	21	Best of My Love	The Emotions	1996	25	247		
+2403	11	Is It All Over My Face? - (Female Vocal) [2012 - Remaster]	Loose Joints	1999	39	204	446	
+2404	20	Can't Hold Back - Your Loving	Kano	1981	45	124	417	81
+2405	13	I'm a Man	Macho	2009	37	110		
+2406	15	Void Vision	Cyber People	2016	60	207	19	
+2407	3	Son Of My Father (New Edit Mix)	Casco	2006	37	56	182	
+2408	14	A Lover's Holiday	Change	2005	12	134		
+2409	13	Take A Chance - Original Mix	Mr. Flagio	2015	3	389	464	47
+2410	21	Come Easy	Laura Bitto	2014	5	420	306	403
+2411	16	Get Closer	Valerie Dore	2008	6	227		
+2412	23	Flor De Coca	Number One Ensemble	1979	16	194	75	
+2413	16	Bite the Apple	Rainbow Team	1982	7	336	58	
+2414	1	The Plateaux Of Mirror - 2004 Digital Remaster	Harold Budd, Brian Eno	1980	49	438	206	28
+2415	3	Sun & Ice	The Field	2007	21	303	306	
+2416	3	Ageispolis	Aphex Twin	1992	15	266	424	304
+2417	11	An Eagle In Your Mind	Boards of Canada	1998	6	272	155	
+2418	23	Replica	Oneohtrix Point Never	2011	37	355	322	381
+2419	16	Asylum	The Orb	1997	50	22		
+2420	6	The Unquestioned Answer	Laurie Spiegel	2012	14	436	58	370
+2421	19	Chimeras	Tim Hecker	2006	49	163	241	
+2422	12	Pop 1	GAS	2000	2	359		
+2423	3	Infinite Shore	Steve Roach	1996	48	231	350	451
+2424	4	Joi & Karen	Jhann Jhannsson	2002	3	413	373	397
+2425	20	Drumming:, Pt. I	Steve Reich	2005	35	120		
+2426	13	In a Landscape (1948)	John Cage, Stephen Drury	1994	13	355	442	216
+2427	17	Part 1	Philip Glass, Philip Glass Ensemble	2013	42	340		
+2428	5	Sym. No. 1, Movement 1	Glenn Branca	1981	33	425	21	
+2429	18	Railroad (Travel Song)	Meredith Monk, Conrad Tao	2017	40	45	244	
+2430	18	G Song	Terry Riley, Kronos Quartet	2015	39	290	199	
+2431	8	Gay Guerrilla	Julius Eastman, Frank Ferko, Patricia Martin, Janet Kattas	2005	30	64	29	
+2432	13	The Twins - Prague	Max Richter	2002	42	464	98	
+2433	10	Aural Shoehorning: Plainsong	Barbara Benary, Downtown Ensemble	2006	11	319	247	
+2434	20	I Keep Forgettin' (Every Time You're Near)	Michael McDonald	1982	31	284		
+2435	3	Gypsy	Fleetwood Mac	1988	46	433		
+2436	7	At Seventeen	Janis Ian	1975	58	381	77	
+2437	21	Walking in Memphis	Cher	1995	52	379	156	
+2438	16	Superstar	Carpenters	1971	2	36		
+2439	2	Sailing	Christopher Cross	1979	11	64		
+2440	20	I Honestly Love You	Olivia Newton-John	1996	29	295		
+2441	17	Mi Primera Rumba	LA INDIA	1992	37	359	353	58
+2442	20	Quimbara	Celia Cruz, Johnny Pacheco	1974	57	118		
+2443	1	Ahora Quien - Salsa Version	Marc Anthony	2004	24	183	315	
+2444	18	Ella Fue (She Was The One)	Fania All Stars	1977	15	83		
+2445	16	Buscando Guayaba	Rubn Blades	2009	25	347	255	
+2446	11	Ven Rumbero	Bobby Valentin	1970	61	160	161	317
+2447	11	Wabble-Cha	Joe Cuba	2009	4	469	330	232
+2448	11	UnDia Bonito	Eddie palmieri & Friends Feat. Lalo Rodriguez	1973	10	327	387	84
+2449	10	Sabes	Luis Enrique	2011	38	422	319	
+2450	3	Escucha El Ritmo	Spanish Harlem Orchestra, Rubn Blades	2014	55	217	218	
+2451	18	Tropiclia - Remastered 2006	Caetano Veloso	1967	42	218		
+2452	14	Vai (Menina Amanh de Manh)	Tom Z	2007	57	204		
+2453	12	Lindonia	Nara Leo	1999	12	350		
+2454	17	Serrado	Djavan	1978	63	221	314	
+2455	11	Vou Recomear	Gal Costa	1969	4	40		
+2456	22	Domingo no Parque	Gilberto Gil	1968	44	453	39	111
+2457	21	Calma	Rita Lee	1970	37	249	157	457
+2458	11	Palmitos Park	El Guincho	2008	7	23	261	196
+2459	11	Cancao Para Ingles Ver/Chiquita Bacana	Rogrio Duprat, Os Mutantes	1999	31	62	118	432
+2460	5	Mistrio do Planeta	Novos Baianos	1972	47	87	189	
+2461	4	Manteca	Dizzy Gillespie	1995	51	407		
+2462	20	A Gozar Timbero	Tito Puente & His Orchestra	2009	61	40	273	
+2463	14	Agua De Beber	Astrud Gilberto, Antnio Carlos Jobim	1965	11	328	451	
+2464	16	Congo Mulence - 2000 Remaster	Machito	2000	8	326		
+2465	14	Dulce Amor	Poncho Sanchez	2004	32	77	117	460
+2466	5	Perfidia	Xavier Cugat	2005	26	54	248	
+2467	10	Vera Cruz	Annette A. Aguilar & String Beans	2005	12	329	386	25
+2468	16	Azucar	Eddie Palmieri	1965	32	247	232	244
+2469	6	El Watusi	Ray Barretto	2012	61	346	164	
+2470	2	Chega De Saudade	Eliane Elias	1997	45	171	35	
+2471	21	Walking Shoes	Gerry Mulligan Quartet	1994	61	72	115	220
+2472	21	Take Five	The Dave Brubeck Quartet	1959	57	111		
+2473	15	Change of the Guard	Kamasi Washington	2015	4	287		
+2474	22	With You	Terrace Martin	2016	47	203	61	
+2475	19	Abraham	Miles Mosley	2017	24	272	227	318
+2476	18	Getting There	Flying Lotus, Niki Randa	2012	25	182		
+2477	7	Heartbreaks + Setbacks	Thundercat	2013	3	432	203	185
+2478	17	Distant Land	Madlib	2003	6	171	444	99
+2479	21	Planetary Prince	Cameron Graves	2017	4	62	171	349
+2480	22	Drum Battle	Kneebody & Daedelus	2015	37	187	19	
+2481	20	The Thrill Is Gone	B.B. King, Tracy Chapman	1997	15	208	300	28
+2482	21	Got My Mojo Working	Muddy Waters	1989	28	259	268	
+2483	13	Mustang Sally	Buddy Guy	1991	45	418	61	260
+2484	18	Ball And Biscuit	The White Stripes	2003	43	381	102	397
+2485	7	Magical Colors	The Jon Spencer Blues Explosion	2010	43	50	224	
+2486	19	Spoonful	Howlin' Wolf	1962	11	126	35	216
+2487	16	Who Do You Love	Bo Diddley	1987	35	400		
+2488	20	Catfish Blues - Live	Gary Clark Jr.	2014	21	194	380	381
+2489	12	Night Moves	Bob Seger	1976	20	224	55	283
+2490	20	Run Dusty Run	The Long Ryders	1984	46	398	366	465
+2491	12	Away	Kathleen Edwards	2005	56	36		
+2492	1	Ooh Las Vegas - 2003 Remaster	Emmylou Harris	1975	53	21		
+2493	1	Medicine	Grace Potter & The Nocturnals	2010	6	202		
+2494	4	Something To Talk About	Bonnie Raitt	1991	25	95	170	
+2495	19	Hold On	Alabama Shakes	2012	51	222	227	397
+2496	13	Letter From An Occupant	The New Pornographers	2001	60	412	384	
+2497	22	Money City Maniacs	Sloan	1998	60	350	329	
+2498	23	My Best Friend's Girl	The Cars	1978	32	87	179	
+2499	20	Cruel To Be Kind	Nick Lowe	1989	39	466	469	30
+2500	4	Girls Like Me	Bonnie Hayes With The Wild Combo	1982	28	469	185	
+2501	8	Starry Eyes	The Records	1988	37	204	443	193
+2502	3	I Can't Stop Smiling	Velocity Girl	1994	21	198	71	230
+2503	17	Hero Takes a Fall - Single Remix	The Bangles	1984	60	331	392	
+2504	23	Pulling Mussels (From The Shell)	Squeeze	1980	20	289		
+2505	1	Enjoy the Silence - 2006 Remaster	Depeche Mode	1990	50	166	390	
+2506	1	Our Lips Are Sealed - Single Version	The Go-Go's	1981	18	123		
+2507	19	Union of the Snake	Duran Duran	1998	16	426	214	249
+2508	15	Shout	Tears For Fears	1985	35	469	105	168
+2509	22	Back on the Chain Gang - 2007 Remaster	Pretenders	1984	3	322	16	216
+2510	19	Relax	Frankie Goes To Hollywood	1984	58	282		
+2511	19	Whip It	DEVO	1980	14	134	191	
+2512	3	It's a Sin - 2001 Remaster	Pet Shop Boys	1987	18	280		
+2513	17	Chains of Love	Erasure	1988	51	270	197	
+2514	22	Say Hello, Wave Goodbye - 7" Single Version	Soft Cell	1981	37	221		
+2515	8	The Word Girl	Scritti Politti	1985	4	46		
+2516	18	Heartbeat	Annie	2004	42	411	199	96
+2517	11	Lights & Music	Cut Copy	2008	16	404		
+2518	5	Call Your Girlfriend	Robyn	2010	47	379	24	416
+2519	18	Sleazy Come Easy Go	L.A. Guns	1989	32	57		
+2520	6	Into the Fire	Dokken	1984	13	23	83	
+2521	16	Youth Gone Wild	Skid Row	1989	58	385	391	270
+2522	13	Edge Of A Broken Heart	Vixen	1988	6	323	422	
+2523	16	Madhouse	Anthrax	1985	47	224	141	
+2524	22	Raining Blood	Slayer	1986	39	348	70	
+2525	4	Peace Sells - Remastered	Megadeth	1986	52	440	283	216
+2526	12	The Toxic Waltz	Exodus	1989	34	62	437	151
+2527	16	The Ultra-Violence	Death Angel	1987	35	317		
+2528	20	Darkness Descends	Dark Angel	1986	55	22	186	229
+2529	17	Pleasure to Kill	Kreator	1986	17	185	393	
+2530	1	Stranded in Hell	Nuclear Assault	1986	48	84	89	260
+2531	7	Elimination	Overkill	1989	50	456	185	
+2532	2	Electric Machine	Acid King	1999	33	219		
+2533	8	Greenthumb	Bongzilla	2002	25	169		
+2534	15	Space Cadet	Kyuss	1994	50	79		
+2535	9	Sweet Leaf - 2014 Remaster	Black Sabbath	1971	16	335	132	
+2536	5	Forest Clouds	Windhand	2015	63	295	107	
+2537	18	Wizard Fight	Weedeater	2007	13	123	255	413
+2538	20	White Witch of Rose Hall	Coven	1969	17	201	216	247
+2539	17	Funeralopolis	Electric Wizard	2000	21	378		
+2540	13	Despair Is a Siren	SubRosa	2016	34	44	109	
+2541	22	Dopesmoker	Sleep	2003	23	90	117	
+2542	19	TV Party	Black Flag	1981	57	119	261	160
+2543	5	Take a Stand	Youth Of Today	1986	11	212	110	284
+2544	10	Saturday Morning	Meat Puppets	1982	52	38	265	
+2545	3	Sailin' On	Bad Brains	1982	29	108	31	
+2546	17	Waiting Room	Fugazi	1989	57	177		
+2547	22	History Lesson Part 2	Minutemen	1984	17	44	80	
+2548	14	Far Away Friends	7 Seconds	1988	9	150		
+2549	23	Future Police	Downtown Boys	2015	45	282	244	455
+2550	20	New Day Rising	Hsker D	1985	62	159		
+2551	1	The Other Shoe	Fucked Up	2011	32	322		
+2552	17	Closer	Nine Inch Nails	1994	56	427	270	
+2553	11	Stigmata - Update Mix	Ministry	1988	12	351	125	
+2554	3	Hey Man, Nice Shot - Remastered Version	Filter	1995	33	416	254	
+2555	13	Hot on the Heels of Love - Remastered	Throbbing Gristle	1980	20	409		
+2556	10	Ich Bin Ein Auslander	Pop Will Eat Itself	1994	17	31	189	
+2557	17	Fun With Drugs	Velvet Acid Christ	1999	24	101		
+2558	7	Our Darkness	Anne Clark	1990	62	216	310	384
+2559	7	Kerosene	Big Black	1985	11	454		
+2560	22	Sensoria - 7'' Version	Cabaret Voltaire	2014	62	452		
+2561	16	Metal Machine Music, Pt. 1	Lou Reed	1975	45	429	228	
+2562	22	(circle)	Boredoms	2000	25	158	93	
+2563	16	Spiral Blast	Merzbow	1996	23	74	444	
+2564	16	Dracula Mountain	Lightning Bolt	2003	57	443		
+2565	18	Monkey Trick	The Jesus Lizard	1991	44	60	287	268
+2566	5	Death Valley '69 (W/ Lydia Lunch)	Sonic Youth	1985	63	361	419	157
+2567	12	Panda Panda Panda	Deerhoof	2003	46	45	33	315
+2568	16	Candy Gun	Melt-Banana	2013	54	344		
+2569	7	Body Betrays Itself	Pharmakon	2014	59	361	18	175
+2570	6	Leper War	Wolf Eyes	2006	45	103		
+2571	16	Contort Yourself	james chance, The Contortions	2014	24	309	318	55
+2572	16	Rooster	Alice In Chains	1992	55	331	199	61
+2573	21	Touch Me I'm Sick	Mudhoney	1988	63	146	272	110
+2574	19	Swallow My Pride	Green River	1990	50	57		
+2575	7	Bound For The Floor	Local H	1996	35	360		
+2576	19	Crown Of Thorns	Mother Love Bone	1992	29	74	23	
+2577	10	Nearly Lost You	Screaming Trees	1992	55	306		
+2578	21	Orinoco Flow	Enya	1988	5	221	96	
+2579	19	Tamarack Pines	George Winston	1994	50	382	449	46
+2580	22	Lueena Coast	Iasos	1975	16	175	430	328
+2581	12	Prayer	JD Emmanuel	2015	23	293	449	139
+2582	21	Li Sun	Judith Tripp	2013	51	208	62	335
+2583	16	Formless Presence	Constance Demby	2001	20	251	69	345
+2584	21	Wedding Rain	Liz Story	2003	22	346	299	48
+2585	11	Forever... - Excerpt From Reflecting Light	Suzanne Doucet	2005	20	336		
+2586	15	Sargasso Sea	Suzanne Ciani	2005	51	351	368	
+2587	1	Lifting Off	Joanna Brouk	2013	55	196	431	
+2588	8	Get Me Away from Here, Im Dying	Belle & Sebastian	1996	41	273	419	
+2589	8	Three Star Compartment	Heavenly	1994	28	134		
+2590	9	This Love Is Not Wrong	The Field Mice	1989	40	106	350	
+2591	11	My Year In Lists	Los Campesinos!	2008	62	453		
+2592	23	Beatnik Boy	Talulah Gosh	1996	46	226	420	
+2593	10	Nothing To Be Done	The Pastels	1993	4	121	400	453
+2594	9	Supreme Nothing	Tiger Trap	1993	18	371	280	
+2595	21	Part Time Punks	Television Personalities	1999	12	190	358	
+2596	21	Young Adult Friction	The Pains Of Being Pure At Heart	2009	5	415		
+2597	13	Our Secret	Beat Happening	1985	29	185		
+2598	23	Pressure	Paramore	2005	13	415	130	282
+2599	3	Swing, Swing	The All-American Rejects	2002	61	408		
+2600	7	Paranoia Cha Cha Cha!	The Soviettes	2005	4	434	177	385
+2601	11	The Art Of Losing	American Hi-Fi	2003	43	335	164	142
+2602	18	The Best Of Me	The Starting Line	2002	15	32		
+2603	21	Duel	Swervedriver	1993	43	210	297	
+2604	23	Catch The Breeze	Slowdive	1991	31	127	79	312
+2605	12	When You Sleep	my bloody valentine	1991	26	250		
+2606	7	Vapour Trail - 2001 Remaster	Ride	1990	11	371	427	
+2607	9	For Love	Lush	1992	52	90		
+2608	3	Breather	Chapterhouse	1990	3	427	387	
+2609	5	Heaven Or Las Vegas	Cocteau Twins	1990	30	470	380	344
+2610	18	Just Like Honey	The Jesus and Mary Chain	1985	37	346	236	
+2611	5	There Is No Such Thing as Black Orchids	Lilys	2017	11	290	83	
+2612	11	Don't Bring Me Down	Moose	1992	7	394		
+2613	16	Parklife - 2012 Remaster	Blur	1994	17	400	101	
+2614	22	She Bangs the Drums - Remastered	The Stone Roses	1989	63	129	464	
+2615	6	Connection	Elastica	1995	33	428		
+2616	3	Late In The Day	Supergrass	1997	54	189	235	
+2617	22	Something 4 the Weekend - U.S. Version / 2016 Remaster	Super Furry Animals	1996	35	101	473	323
+2618	10	Going For Gold	Shed Seven	1999	38	236	76	230
+2619	1	Good Enough	Dodgy	1998	15	77	214	351
+2620	18	Game Of Pricks	Guided By Voices	2003	32	411	367	206
+2621	3	Car	Built To Spill	1994	13	185	350	371
+2622	2	A Good Idea	Sugar	1992	52	303	359	294
+2623	2	Autumn Sweater	Yo La Tengo	1997	38	107	449	
+2624	7	Cannonball	The Breeders	1993	36	451		
+2625	4	Web in Front	Archers Of Loaf	1993	7	331	303	
+2626	22	Fade Into You	Mazzy Star	1993	17	398	185	
+2627	18	Metal Heart	Cat Power	1998	31	277		
+2628	9	Gloria	Mineral	1997	25	241	235	
+2629	15	Fuck and Run	Liz Phair	1993	47	186	431	
+2630	6	Teardrop	Massive Attack	1998	45	387		
+2631	3	Hell Is Round The Corner	Tricky	1995	36	374		
+2632	9	Sour Times	Portishead	1994	24	119	187	293
+2633	21	Somedays	Neneh Cherry	1992	24	23		
+2634	10	The Sea	Morcheeba	1998	21	377	316	
+2635	8	Closer	Lamb	1996	14	360		
+2636	21	Ragga	Martina Topley-Bird	2003	11	266		
+2637	16	6 Underground	Sneaker Pimps	1996	21	366	160	
+2638	14	Lonely Soul	UNKLE, Richard Ashcroft	1998	55	418		
+2639	8	Wednesday's Child	Emilana Torrini	2010	56	99	75	
+2640	2	Don't Walk Away	Jade	1992	7	171	468	356
+2641	20	My Prerogative	Bobby Brown	1988	2	397	165	
+2642	7	Romantic	Karyn White	1991	31	141	303	70
+2643	17	I Wanna Sex You Up - Single Mix	Color Me Badd	1991	60	391	376	338
+2644	23	Ain't 2 Proud 2 Beg	TLC	1992	50	66		
+2645	15	I Want Her	Keith Sweat	2004	20	22	192	298
+2646	2	Rhythm Nation	Janet Jackson	1989	45	329	333	
+2647	9	Feels Good	Tony! Toni! Ton!	1990	54	31	113	
+2648	1	If It Isn't Love	New Edition	1988	43	270	117	265
+2649	3	You Remind Me	Mary J. Blige	1992	12	92		
+2650	9	The Boy Is Mine	Brandy, Monica	1998	30	273		
+2651	9	Caught Out There	Kelis	1999	51	201	68	
+2652	9	No Ordinary Love	Sade	1992	3	148	186	467
+2653	6	No Diggity	Blackstreet, Dr. Dre, Queen Pen	1996	39	88		
+2654	12	Pony	Ginuwine	1999	29	264	355	
+2655	7	Understanding	Xscape	1993	14	463		
+2656	14	Say My Name	Destiny's Child	1999	11	238	299	
+2657	14	You're Makin' Me High	Toni Braxton	1996	63	160		
+2658	4	Free Your Mind	En Vogue	1992	53	119	58	
+2659	15	Freak Like Me	Adina Howard	1995	32	53	207	338
+2660	5	On & On	Erykah Badu	1997	62	399	26	
+2661	21	Brown Sugar	D'Angelo	1995	27	451		
+2662	12	He Loves Me (Lyzel in E Flat)	Jill Scott	2000	13	249	410	
+2663	16	Video	India.Arie	2001	61	389		
+2664	5	Nothing Even Matters	Ms. Lauryn Hill, D'Angelo	1998	39	74		
+2665	11	Wish I Didn't Miss You	Angie Stone	2001	5	243	285	
+2666	19	Sometimes	Bilal	2001	30	108		
+2667	20	Still Ray	Raphael Saadiq	2002	22	426	462	
+2668	6	Ascension (Don't Ever Wonder) - Remastered 2021	Maxwell	1996	51	24		
+2669	14	...Baby One More Time	Britney Spears	1999	22	227	266	422
+2670	8	Genie in a Bottle	Christina Aguilera	1999	56	336	191	403
+2671	19	Candy	Mandy Moore	2004	34	100		
+2672	2	I Wanna Love You Forever	Jessica Simpson	1999	15	171	329	459
+2673	18	Tell Me Something I Don't Know	Selena Gomez	2008	10	106	269	420
+2674	14	Baby	Justin Bieber, Ludacris	2010	32	118	461	310
+2675	5	Get Back	Demi Lovato	2008	29	142	309	
+2676	14	S.O.S.	Jonas Brothers	2007	61	50	97	
+2677	23	Fancy	Reba McEntire	2006	25	19	284	
+2678	8	Lucille - 2006 Digital Remaster	Kenny Rogers	2006	60	292		
+2679	20	You're Still The One	Shania Twain	1997	32	296	423	191
+2680	9	This Kiss	Faith Hill	1998	17	97	108	444
+2681	8	Independence Day	Martina McBride	1993	3	179		
+2682	15	Blue	LeAnn Rimes	1996	49	354	131	
+2683	2	I Hope You Dance	Lee Ann Womack	2000	29	302	405	
+2684	5	Jesus, Take the Wheel	Carrie Underwood	2005	55	279	319	92
+2685	17	Just To See You Smile	Tim McGraw	1997	12	470	364	
+2686	17	Has It Come to This?	The Streets	2002	36	270	317	380
+2687	3	Sincere - Re-Cue'D	MJ Cole, Nova Caspar, Jay Dee	2011	42	444	225	231
+2688	20	Moving Too Fast - Radio Edit	Artful Dodger, Romina Johnson	2012	6	18		
+2689	10	Why?	Mis-Teeq	2005	29	151	244	
+2690	17	Triplets	Sticky	2011	3	316		
+2691	8	Battle - mixed	Wookie, Lain	2013	62	320		
+2692	12	My Forbidden Lover - Inner Massive 2 Step	Romina Johnson	2015	16	202		
+2693	11	RIP Groove - Radio Edit	Double 99	1997	16	16	37	123
+2694	6	Dreams - Tough Love Remix	Smokin Beats, Tough Love	2015	13	169	388	285
+2695	17	Closer Than Close (Mentor Original Mix)	Rosie Gaines	1997	42	345		
+2696	11	The Geography of Nowhere	William Tyler	2013	44	356	37	
+2697	4	Requiem For Molly - Pt. 1	John Fahey	1967	44	232	260	
+2698	11	A Snapshot of Mom, Scotland, 1957	Glenn Jones	2011	54	352		
+2699	13	The Falconer's Arm - Instrumental	Robbie Basho	2001	27	283		
+2700	17	In Waves	Marisa Anderson	2016	28	411		
+2701	16	Cheshire Hotel	Mary Halvorson	2015	14	221		
+2702	21	Wine and Peanuts	Daniel Bachman	2016	2	298	198	99
+2703	9	Lucy	Cian Nugent	2016	12	101	426	
+2704	2	Imaginational Anthem	Max Ochs	2008	30	157	194	82
+2705	9	Night After Sidewalk	Kaki King	2003	17	133	234	55
+2706	3	Huntin', Fishin' And Lovin' Every Day	Luke Bryan	2015	49	311		
+2707	7	Leave The Night On	Sam Hunt	2014	14	72	364	368
+2708	13	Ticks	Brad Paisley	2007	56	99	36	
+2709	13	Dirt Road Anthem	Jason Aldean	2010	36	155		
+2710	14	This Is How We Roll	Florida Georgia Line, Luke Bryan	2013	62	282	410	189
+2711	20	I'm Comin' Over	Chris Young	2015	8	411	376	245
+2712	22	How Country Feels	Randy Houser	2013	57	178	98	137
+2713	2	Ready Set Roll	Chase Rice	2014	58	412	190	
+2714	17	Boys 'Round Here (feat. Pistol Annies & Friends)	Blake Shelton, Pistol Annies	2013	29	128		
+2715	19	Girl In A Country Song	Maddie & Tae	2015	53	237		
+2716	16	COME BACK HOME	2NE1	2014	42	221		
+2717	7	CALL ME BABY	EXO	2015	42	419	60	407
+2718	8	I GOT A BOY	Girls' Generation	2013	51	306	164	
+2719	1	? ??? (Rum Pum Pum Pum)	f(x)	2013	16	340	326	
+2720	23	I NEED U	BTS	2015	11	74	95	67
+2721	6	Something	TVXQ!	2014	17	374		
+2722	22	??? (BULLSHIT)	G-DRAGON	2017	53	239	108	
+2723	16	Rough	GFRIEND	2016	62	214	244	228
+2724	4	Oh NaNa (Hidden. HUR YOUNG JI)	KARD	2016	16	465		
+2725	11	Pretty U	SEVENTEEN	2016	62	89	279	46
+2726	22	King of Rock	RunD.M.C.	1985	39	379	18	362
+2727	2	Fallin'	Teenage Fanclub, De La Soul	1993	33	184	464	
+2728	13	Numb / Encore	JAY-Z, Linkin Park	2004	60	305		
+2729	18	Butterfly	Crazy Town	1999	29	257	325	241
+2730	19	Bring The Noise	Public Enemy	1988	49	372	458	340
+2731	14	Insane in the Brain	Cypress Hill	1993	2	91	371	
+2732	9	Me, Myself & My Microphone	Living Colour, RunD.M.C.	1993	23	293		
+2733	4	Sabotage	Beastie Boys	1994	49	228	34	52
+2734	14	Chicken Hearted	Roy Orbison	2012	43	407		
+2735	20	Matchbox	Carl Perkins	2012	26	161	249	147
+2736	16	No Matter Who's To Blame	Barbara Pittman	2010	48	87		
+2737	3	Beggin My Baby	Little Milton	2012	20	311		
+2738	5	Baker Shop Boogie	Willie Nix	2012	42	161	259	
+2739	23	Great Balls of Fire	Jerry Lee Lewis	2013	32	253	242	
+2740	4	Right Behind You Baby	Ray Smith	2000	49	202		
+2741	8	Drinkin' Wine	Jumpin' Gene Simmons	2012	15	473	314	
+2742	16	We Wanna Boogie	Sonny Burgess	2010	38	296	153	
+2743	19	Easy to Love	Mack Self	2012	31	287	320	
+2744	13	Green Onions	Booker T. & the M.G.'s	1962	27	440	321	174
+2745	13	Walk On By	Isaac Hayes	1991	11	119	358	
+2746	4	Respect Yourself	The Staple Singers	2007	29	37		
+2747	22	Soul Finger	The Bar-Kays	1992	7	413	456	280
+2748	10	I'll Run Your Hurt Away	Ruby Johnson	1991	29	342	228	
+2749	9	As Long As I've Got You	The Charmels	1991	30	254		
+2750	7	After Laughter (Comes Tears)	Wendy Rene	2005	61	307	261	
+2751	8	Don't Let Her Be Your Baby	Del-Rays	2007	13	150	22	375
+2752	15	Woman To Woman	Shirley Brown	1974	62	235	46	131
+2753	18	My Guy	Mary Wells	1964	39	47	187	
+2754	9	I Heard It Through The Grapevine	Gladys Knight & The Pips	1967	28	292	288	
+2755	11	Dancing In The Street - Stereo	Martha Reeves & The Vandellas	1998	30	302		
+2756	17	Ain't That Peculiar - Single Version	Marvin Gaye	1966	38	158		
+2757	23	Just To Be Close To You	Commodores	2009	53	338	148	246
+2758	1	Cruisin'	Smokey Robinson	2004	15	298	429	84
+2759	21	In My House	Mary Jane Girls	2008	47	62	397	180
+2760	11	A Milli	Lil Wayne	2008	25	467	164	
+2761	4	Back That Azz Up	JUVENILE, Lil Wayne, Mannie Fresh	1998	54	307	178	
+2762	21	Marvins Room	Drake	2011	26	254		
+2763	10	Stick & Move	Hot Boys, Big Tymers, Lac	2003	41	115	164	
+2764	23	I'm On One	DJ Khaled, Drake, Rick Ross, Lil Wayne	2011	40	469	467	430
+2765	8	Down	Jay Sean, Lil Wayne	2009	2	401		
+2766	23	Bling Bling	B!G	2007	50	192	326	
+2767	22	Real Big	Mannie Fresh	2004	2	351	225	
+2768	12	Stuntin' Like My Daddy - Street	Birdman, Lil Wayne	2006	43	83	411	434
+2769	9	Rack City	Tyga	2012	41	205	389	
+2770	7	TSOP (The Sound of Philadelphia) (feat. The Three Degrees)	MFSB, The Three Degrees	1977	41	442	300	
+2771	21	La-La Means I Love You	The Delfonics	2005	26	234		
+2772	5	It's A Shame	The Spinners	1973	50	307	352	
+2773	20	Love Train	The O'Jays	1972	39	411		
+2774	2	If You Don't Know Me by Now (feat. Teddy Pendergrass)	Harold Melvin & The Blue Notes, Teddy Pendergrass	1976	62	66	27	
+2775	3	And If I Had	Teddy Pendergrass	1977	45	413	86	245
+2776	22	I Sold My Heart To The Junkman	Patti Labelle & The Bluebelles	1993	62	389	316	
+2777	5	(We'll Be) United	The Intruders	2011	31	273		
+2778	2	Drowning In The Sea Of Love	Joe Simon	1972	57	174	192	
+2779	8	Betcha By Golly, Wow	The Stylistics	2005	23	129	212	
+2780	4	Your Love	Frankie Knuckles	1998	47	26	309	410
+2781	4	Liquid Love	Ron Hardy	2009	8	393	305	411
+2782	20	Jack Your Body - Original Club Mix	Steve "Silk" Hurley	2011	63	106		
+2783	23	You Can't Hide from Your Bud	DJ Sneak	2009	33	66	231	388
+2784	22	Can't Get Enough	Liz Torres	2002	38	137	116	36
+2785	15	No Way Back	Adonis	2007	19	252	462	
+2786	6	Acid Tracks	Phuture	2003	58	126	57	
+2787	9	Mortal Trance - Original Mix	Boo Williams	2013	25	343		
+2788	5	Work It	dj funk	2014	49	152	251	
+2789	2	You Used To Hold Me	Ralphi Rosario, Xavier Gold	2002	58	395		
+2790	13	The Pace	Robert Hood	2009	24	325		
+2791	10	Nude Photo	Derrick May	2008	21	214		
+2792	15	Techno City	Cybotron	1983	44	78	209	332
+2793	1	Circus Act - Original	Stacey Pullen	2012	40	446		
+2794	14	Our Luv	Blake Baxter	1997	35	200		
+2795	4	The Chase - Smooth Mix	Model 500	2008	56	184	398	129
+2796	4	I Can't Kick This Feeling When It Hits	Moodymann	1997	6	401	384	385
+2797	17	Big Fun	Inner City	1989	31	89	325	
+2798	3	Nannytown	Underground Resistance	1998	63	388	22	185
+2799	2	Sweet Sticky	Theo Parrish	1998	36	337	170	
+2800	15	Straight Outta Compton	N.W.A.	1988	11	284	39	271
+2801	19	m.A.A.d city	Kendrick Lamar, MC Eiht	2012	4	272	80	253
+2802	8	It Was A Good Day	Ice Cube	1992	33	355	273	
+2803	12	Born and Raised In Compton	DJ Quik	1991	31	288	337	
+2804	21	Gin And Juice (feat. Dat Nigga Daz)	Snoop Dogg, Daz Dillinger	1993	49	376	352	401
+2805	9	To Live & Die In L.A.	2Pac	1998	18	374	235	399
+2806	7	Drop	The Pharcyde	1995	6	457	171	417
+2807	2	Bicken Back Being Bool	YG	2014	41	99	93	431
+2808	11	We Can Freak It	Kurupt	1998	55	85	21	
+2809	19	Wool (feat. Vince Staples)	Earl Sweatshirt, Vince Staples	2015	22	114	192	
+2810	7	N.Y. State of Mind	Nas	2014	22	325	192	183
+2811	7	Ain't No Half-Steppin'	Big Daddy Kane	1988	38	287	388	
+2812	9	Shook Ones, Pt. II	Mobb Deep	1995	3	105	282	
+2813	11	Paper Thin	MC Lyte	1988	10	67	265	443
+2814	12	Ruff Ryders' Anthem - Re-Recorded	DMX	2011	39	215		
+2815	16	South Bronx	Boogie Down Productions	1987	44	271	331	
+2816	12	The Message (feat. Melle Mel & Duke Bootee)	Grandmaster Flash & The Furious Five, Grandmaster Melle Mel, Duke Bootee	1982	57	147	352	
+2817	21	Ante Up (Robbin Hoodz Theory)	M.O.P.	2000	8	108	118	371
+2818	13	Juicy - 2005 Remaster	The Notorious B.I.G.	1994	11	49	369	377
+2819	18	I'll Be	Foxy Brown, JAY-Z	1996	10	412	172	401
+2820	15	I Seen a Man Die	Scarface	1994	20	301	380	328
+2821	5	My Mind Went Blank	DJ Screw, Point Blank	1995	43	312	94	281
+2822	4	Game Over	Lil' Flip	2004	6	229	367	
+2823	2	Smokers Anthem	Z-Ro	2000	26	103		
+2824	20	3 Kings	Slim Thug, Bun B, T.I.	2005	18	445	380	
+2825	9	Damn It Feels Good to Be a Gangsta	Geto Boys	1992	12	446		
+2826	8	Doobie Ashtray	Devin The Dude	2013	47	146		
+2827	16	Diamonds & Wood	UGK	2003	40	319	207	
+2828	19	Southside	Lil Keke	1998	48	271	172	380
+2829	19	Still Tippin' (feat. Slim Thug and Paul Wall)	Mike Jones, Paul Wall, Slim Thug	2005	23	388	411	
+2830	12	Elevators (Me & You)	Outkast	1996	10	117		
+2831	8	Bad and Boujee (feat. Lil Uzi Vert)	Migos, Lil Uzi Vert	2017	58	51	432	
+2832	2	Same Damn Time	Future	2012	38	29	457	217
+2833	13	Still On It	Jeezy	2006	49	137	169	67
+2834	21	Icy	Gucci Mane	2005	28	214		
+2835	17	Cell Therapy	Goodie Mob	1995	12	436	59	
+2836	15	Get Low	Ying Yang Twins, Lil Jon & The East Side Boyz	2002	43	330		
+2837	5	What You Know	T.I.	2006	52	333	341	
+2838	3	Rollout (My Business)	Ludacris	2001	23	181	339	89
+2839	12	Hard in Da Paint	Waka Flocka Flame	2010	11	171		
+2840	8	Choices (Yup)	E-40	2014	19	262		
+2841	23	Fellin' Myself	Mac Dre	2004	25	165	407	351
+2842	16	Blow the Whistle	Too $hort	2006	42	463	196	181
+2843	3	93 'Til Infinity	Souls Of Mischief	1993	47	378		
+2844	20	Freaks Of The Industry	Digital Underground	1990	60	258	30	234
+2845	16	Vans	The Pack	2006	23	202	55	136
+2846	5	Gas Pedal	Sage The Gemini, Iamsu!	2014	43	89	334	
+2847	18	Super Hyphy - ( Original )	Keak Da Sneak	2007	25	353	158	
+2848	6	We Roll Deep	The Conscious Daughters	1993	30	208	85	333
+2849	4	1 Thing	Amerie	2005	57	355		
+2850	9	All I Wanna Do	Sheryl Crow	1993	22	58	53	
+2851	1	House Of Jealous Lovers	The Rapture	2003	5	62	460	
+2852	23	How Does It Feel	Kamaiyah	2016	44	143	243	
+2853	2	Get Ur Freak On	Missy Elliott	2001	4	294	393	
+2854	19	Crazy On You	Heart	1975	54	398	419	
+2855	11	Paper Planes	M.I.A.	2007	15	113		
+2856	9	Tightrope (feat. Big Boi) - Big Boi Vocal Edit	Janelle Mone, Big Boi	2010	3	284	474	151
+2857	14	Crush on You	Lil' Kim	1996	52	227		
+2858	2	Countdown	Beyonc	2011	19	236	102	
+2859	6	Anthems For A Seventeen Year-Old Girl	Broken Social Scene	2003	8	95		
+2860	12	A Stone	Okkervil River	2005	49	117	204	
+2861	15	what's normal anyway	Miguel	2015	6	216		
+2862	3	Without You - Remastered	Harry Nilsson	1971	41	246		
+2863	3	Your Love is Killing Me	Sharon Van Etten	2014	44	49	116	
+2864	17	Soothing	Laura Marling	2017	8	404	454	255
+2865	22	Skinny Love	Bon Iver	2008	48	228	106	
+2866	19	Come Pick Me Up	Ryan Adams	2000	57	343	418	
+2867	12	A Song for You	Donny Hathaway	1971	40	444		
+2868	7	Reagan	Killer Mike	2012	55	207	186	
+2869	10	Political Science	Randy Newman	2016	2	76	185	156
+2870	19	Police & Thieves	Junior Murvin	1977	3	342		
+2871	17	Military Madness	Graham Nash	1971	48	286	88	96
+2872	15	The Words That Maketh Murder	PJ Harvey	2011	33	433		
+2873	21	Drone Bomb Me	ANOHNI	2016	56	115	132	
+2874	19	Wake up Everybody (feat. Common & Melanie Fiona)	John Legend, The Roots, Common, Melanie Fiona	2010	30	421	169	
+2875	11	That Man I Shot	Drive-By Truckers	2008	18	448	168	62
+2876	21	O Superman (For Massenet) - Remastered	Laurie Anderson	2000	37	143		
+2877	5	Peace Train	Yusuf / Cat Stevens	1971	36	261	241	397
+2878	18	(What's So Funny 'Bout) Peace, Love And Understanding	Elvis Costello & The Attractions	1979	11	324		
+2879	18	We Got to Have Peace	Curtis Mayfield	1971	26	95	417	455
+2880	5	Last Night I Had the Strangest Dream	Simon & Garfunkel	1964	39	473	99	
+2881	7	Long Way Home	Tom Waits	2006	36	334	31	
+2882	10	Into the Mystic - 2013 Remaster	Van Morrison	1970	54	371	99	
+2883	18	Give Peace A Chance - Remastered 2010	The Plastic Ono Band	2010	31	134		
+2884	12	Bowl Of Oranges	Bright Eyes	2002	38	354		
+2885	14	The Mariner's Revenge Song	The Decemberists	2005	7	286	355	
+2886	5	Roman's Revenge	Nicki Minaj, Lil Wayne	2011	63	69	135	48
+2887	21	Back Like That	Ghostface Killah, Ne-Yo	2006	9	360	16	
+2888	9	Fuck You	CeeLo Green	2010	55	248	35	
+2889	11	Cry Me a River	Justin Timberlake	2002	32	53	325	232
+2890	8	Better Than Revenge	Taylor Swift	2010	48	40	414	150
+2891	22	Smile	Lily Allen	2006	51	326		
+2892	14	I Feel So Good	Richard Thompson	1991	50	45	426	
+2893	9	Kerosene	Miranda Lambert	2005	21	451	187	
+2894	16	My Sweet Lord - Remastered 2014	George Harrison	1970	11	439	56	
+2895	23	Jesus Walks	Kanye West	2004	19	95		
+2896	23	Bad Religion	Frank Ocean	2012	42	352	375	
+2897	14	Take Me to Church	Hozier	2014	58	451	399	
+2898	23	Jesus Is Just Alright with Me - 2007 Remaster	The Doobie Brothers	1976	26	147	415	
+2899	9	Blessings (feat. Jamila Woods)	Chance the Rapper, Jamila Woods	2016	50	464	447	
+2900	3	God - 2015 Remaster	Tori Amos	1994	9	99	294	
+2901	15	Running Up That Hill (A Deal With God)	Kate Bush	1985	45	156	369	
+2902	6	Big Church [megszentsgtelenthetetlensgeskedseitekrt]	Sunn 0)))	2009	7	149	291	402
+2903	14	Knockin' On Heaven's Door	Bob Dylan	1973	33	395	20	129
+2904	7	Monkey Gone to Heaven	Pixies	1989	56	448	433	
+2905	18	Tha Crossroads	Bone Thugs-N-Harmony	1995	10	210	298	
+2906	14	The House That Heaven Built	Japandroids	2012	14	310	251	410
+2907	6	My Blue Heaven - 78rpm Version	Frank Sinatra	1993	46	94	115	344
+2908	16	Heaven Is a Truck	Pavement	1994	18	278	344	471
+2909	16	Heaven	Warrant	1989	53	152	179	
+2910	19	Take The Devil Out Of Me	George Jones	1959	23	346	315	
+2911	15	Hell's Winter	Earth	2011	12	462	73	290
+2912	2	Hotter Than Hell - Live/1975	KISS	1975	29	66	30	
+2913	23	Me and the Devil Blues	Robert Johnson	1937	30	213	317	
+2914	9	Friend of the Devil	Grateful Dead	1970	39	105	212	
+2915	3	Whiskey You're the Devil	The Pogues	1984	21	302	159	
+2916	21	Hell on Heels	Pistol Annies	2011	27	360	48	
+2917	22	Welcome To Hell	Venom	1981	59	374	118	83
+2918	11	Bugatti	Ace Hood, Future, Rick Ross	2013	6	436		
+2919	2	Dance to Dance	Gino Soccio	1979	50	30	285	229
+2920	17	You Should Be Dancing - Edit / From "Saturday Night Fever" Soundtrack	Bee Gees	1976	35	17	247	
+2921	13	Turn the Beat Around - 7" Single Edit	Vicki Sue Robinson	1976	52	183	150	293
+2922	20	Get Lucky (feat. Pharrell Williams & Nile Rodgers)	Daft Punk, Pharrell Williams, Nile Rodgers	2013	25	301	342	320
+2923	16	Cheap Thrills	Sia	2016	55	302		
+2924	22	Party Hard	Andrew W.K.	2001	61	336	404	
+2925	14	Pon De Floor	Major Lazer, Vybz Kartel	2009	19	314		
+2926	15	I Bet You Look Good On The Dancefloor	Arctic Monkeys	2006	58	123		
+2927	20	Interesting Drug - 2010 Remaster	Morrissey	1990	60	269	212	
+2928	14	Smokin & Drinkin	Danny Brown	2013	59	89	441	
+2929	2	Sippin On Some Syrup (feat. UGK (Underground Kingz) & Project Pat)	Three 6 Mafia, UGK, Project Pat	2000	33	240	227	
+2930	8	Can't Feel My Face	The Weeknd	2015	55	32	234	
+2931	2	Grindin'	Clipse	2002	3	90	279	
+2932	7	Weed Instead of Roses	Ashley Monroe	2013	32	146		
+2933	4	Space Song	Beach House	2015	63	77		
+2934	19	Ladies and Gentlemen We Are Floating in Space	Spiritualized	1997	3	329	156	
+2935	5	Space Travel Is Boring	Modest Mouse	1996	18	113		
+2936	19	There's a Moon in the Sky (Called the Moon)	The B-52's	1979	8	358	51	300
+2937	15	Aliens	Dr. Octagon, Kool Keith	2007	13	102	136	207
+2938	3	Walking On The Moon - Remastered 2003	The Police	1979	55	23		
+2939	3	Space Truckin'	Deep Purple	1972	24	155		
+2940	12	Yoshimi Battles the Pink Robots, Pt. 1	The Flaming Lips	2002	5	314	177	
+2941	1	I Turn My Camera On	Spoon	2005	11	256	367	
+2942	12	The Picture	Loudon Wainwright III	1992	34	112	348	381
+2943	18	Photograph	Ringo Starr	2007	5	226	345	
+2944	1	Birth of Serpents	The Mountain Goats	2011	10	84	274	119
+2945	8	Picture Book - Stereo Mix	The Kinks	1968	63	326	175	
+2946	9	Take a Picture	Filter	1999	33	228		
+2947	13	Kodachrome	Paul Simon	2007	15	161	232	
+2948	22	Paparazzi	Xzibit	2011	53	380		
+2949	12	Girls on Film - 2010 Remaster	Duran Duran	1981	38	216		
+2950	1	One Polaroid A Day	Ted Leo and the Pharmacists	2010	45	43		
+2951	8	Answering Machine	The Replacements	1984	49	188	413	
+2952	13	Telephone	Lady Gaga, Beyonc	2009	7	173	304	58
+2953	23	Telephone Line	Electric Light Orchestra	1976	20	461	397	
+2954	10	Mr. Telephone Man	New Edition	1984	55	223	137	
+2955	8	Kiss Me Thru The Phone	Soulja Boy, Sammie	2008	45	228		
+2956	11	Down In the DM	Yo Gotti	2016	57	421	150	453
+2957	21	2 Phones	Kevin Gates	2016	13	387		
+2958	10	The Telephone Song	Charles Bradley, Menahan Street Band	2011	29	68	169	441
+2959	8	Call Me (Come Back Home)	Al Green	1973	45	123		
+2960	21	Pull Up To The Bumper	Grace Jones	1981	60	266	293	268
+2961	2	Mercedes Benz	Janis Joplin	1971	13	196	348	
+2962	13	Low Rider	War	1975	48	237	176	
+2963	14	Car Wheels On A Gravel Road	Lucinda Williams	2006	37	56	106	133
+2964	3	Freeway of Love - Single Mix	Aretha Franklin	2012	58	119		
+2965	15	You Can Sleep While I Drive	Melissa Etheridge	1989	61	54	196	369
+2966	5	Pink Cadillac	Natalie Cole	1991	9	389	418	
+2967	19	Winters Love	Animal Collective	2004	19	62	159	
+2968	10	After the Gold Rush	Neil Young	1970	27	129	407	
+2969	20	Staring at the Sun	TV On The Radio	2003	28	82	388	
+2970	14	Electricity	Captain Beefheart & His Magic Band	1967	51	117		
+2971	8	Take Me to the River - 2005 Remaster	Talking Heads	1978	24	48	200	
+2972	7	Rain and Shine at the Lotus Pond	Julianna Barwick, Ikue Mori	2011	53	171	396	
+2973	17	Fire	Lizzy Mercier Descloux	2006	61	445	313	342
+2974	23	Only Happy When It Rains	Garbage	2007	44	312	37	
+2975	8	Here Comes the Rain Again - Remastered Version	Eurythmics, Annie Lennox, Dave Stewart	1983	34	252		
+2976	21	Gloomy Sunday (with Teddy Wilson & His Orchestra) - Take 1	Billie Holiday, Teddy Wilson	1933	61	273	403	24
+2977	15	Jesus Wants Me For A Sunbeam	The Vaselines	2009	55	278		
+2978	16	Doll Parts	Hole	1994	4	280		
+2979	11	Let Me In	R.E.M.	1994	27	443	243	82
+2980	23	Where Did You Sleep Last Night	Lead Belly	2000	40	18	36	158
+2981	21	Sleeps with Angels	Neil Young, Crazy Horse	1994	25	93		
+2982	11	Here She Comes Now	The Velvet Underground	1968	43	469	336	390
+2983	4	N.I.T.A.	Young Marble Giants	1980	14	297	243	
+2984	20	Sex Bomb	Flipper	1981	30	379	205	323
+2985	19	Honey Bucket	Melvins	1993	29	165	266	
+2986	21	The Logical Song - Remastered 2010	Supertramp	1979	18	261	241	
+2987	16	Deacon Blues	Steely Dan	1977	39	333	95	
+2988	18	Run Away With Me	Carly Rae Jepsen	2015	36	51		
+2989	17	Problem	Ariana Grande, Iggy Azalea	2014	12	27	394	95
+2990	19	Danger Zone - From "Top Gun" Original Soundtrack	Kenny Loggins	1997	47	469	185	
+2991	5	Smooth Operator - Remastered	Sade	2011	13	159		
+2992	6	Urgent	Foreigner	1981	60	246		
+2993	22	The National Anthem	Radiohead	2000	34	233		
+2994	9	Miss Misery (Early Version)	Elliott Smith	2007	61	394	226	210
+2995	5	Born Slippy (Nuxx)	Underworld	2014	19	455	463	
+2996	6	Raindrops Keep Falling on My Head	B.J. Thomas	2015	62	38	85	
+2997	18	Save Me	Aimee Mann	1999	49	203	286	
+2998	13	The Way We Were	Barbra Streisand	1974	38	159	210	345
+2999	18	Stay	Lisa Loeb & Nine Stories	1995	26	125	147	
+3000	3	Down To The River To Pray - From O Brother, Where Art Thou Soundtrack	Alison Krauss	2000	43	317	412	202
+3001	15	Regulate	Warren G, Nate Dogg	1994	19	170		
+3002	7	When a Man Loves a Woman	Percy Sledge	1966	46	388	158	
+3003	7	All Is Full of Love	Bjrk	1997	33	363		
+3004	10	I Fell in Love	The Roches	1982	19	237		
+3005	18	Computer Love - 2009 Remaster	Kraftwerk	1981	52	455	325	
+3006	18	Love Hangover - Single Version	Diana Ross	1976	10	198		
+3007	12	What's Love Got to Do with It	Tina Turner	1993	55	186		
+3008	10	Love Is A Losing Game	Amy Winehouse	2006	2	144	81	307
+3009	15	Will You Love Me Tomorrow?	Carole King	1971	50	174	248	
+3010	2	Genius of Love	Tom Tom Club	1981	17	133	188	
+3011	22	Hate It Or Love It	The Game, 50 Cent	2005	24	350		
+3012	2	I Hate I Walked Away	Syl Johnson	2014	47	301	238	470
+3013	14	Hate Bein' Sober	Chief Keef, 50 Cent, Wiz Khalifa	2012	10	55	124	81
+3014	20	Hateful - Remastered	The Clash	1979	35	219	287	110
+3015	6	Hate It Here	Wilco	2007	48	277	308	320
+3016	21	I Hate Rock N Roll	The Jesus and Mary Chain	1998	15	283	128	
+3017	7	You Hate Me and I Hate You	GG Allin	1995	22	129		
+3018	21	I Hate Sports - Remastered 2006	7 Seconds	2017	5	419		
+3019	15	I Hate Everything	George Strait	2011	63	379	290	
+3020	6	I Want Your Sex - Pts. 1 & 2 Remastered	George Michael	1987	15	352	96	
+3021	14	Da Ya Think I'm Sexy?	Rod Stewart	1978	18	262	53	
+3022	23	Sex Intelligent	The-Dream	2010	28	396	217	
+3023	14	Birthday Sex	Jeremih	2009	19	162		
+3024	4	Let's Talk About Sex	Salt-N-Pepa	1990	13	91	216	
+3025	14	I Invented Sex (feat. Drake)	Trey Songz, Drake	2009	4	314	362	61
+3026	8	Sex	The 1975	2013	6	219	244	23
+3027	14	SexyBack (feat. Timbaland)	Justin Timberlake, Timbaland	2006	6	130	297	
+3028	20	Safe Sex Pay Checks	Rae Sremmurd	2015	11	303	18	
+3029	21	Cherry Pie	Warrant	1990	57	369	225	
+3030	12	Laffy Taffy	D4L	2005	61	250	453	
+3031	22	I Want Candy	Bow Wow Wow	1996	19	186		
+3032	15	Candy Shop	50 Cent, Olivia	2005	12	81	294	
+3033	19	Milkshake - Radio Mix	Kelis	2003	61	57	219	
+3034	5	Hoe Cakes	MF DOOM	2004	48	99	444	255
+3035	16	Caramel	Suzanne Vega	1996	27	171	267	
+3036	22	Peaches & Cream	Beck	1999	26	352	288	375
+3037	22	Cherry Red	ZZ Top	1994	28	46	96	
+3038	18	Cake By The Ocean	DNCE	2016	40	432	91	
+3039	9	Thirteen	Big Star	1972	23	428	193	202
+3040	14	N.O. Bounce	Big Freedia	2014	40	381	324	208
+3041	22	Shine Blockas	Big Boi, Gucci Mane	2010	40	78	159	
+3042	12	Paul	Big Thief	2016	41	70	473	
+3043	21	Bittersweet	Big Head Todd and The Monsters	1993	17	53		
+3044	23	All Going Out Together	Big Dipper	2008	10	192		
+3045	14	Better Man	Little Big Town	2017	2	217	101	
+3046	6	The Dream Shatterer - Capital Punishment Mix	Big Pun	1998	14	374	452	
+3047	17	Save a Horse (Ride a Cowboy)	Big & Rich	2004	58	71	299	64
+3048	22	Country Sh*t	Big K.R.I.T.	2010	28	142	72	329
+3049	13	Kool & The Gang	Kool & The Gang	1970	54	50		
+3050	12	Titus Andronicus	Titus Andronicus	2008	9	257		
+3051	12	Method Man	Wu-Tang Clan	1993	24	203	253	198
+3052	17	Bad Company - 2015 Remaster	Bad Company	1974	59	18	313	423
+3053	20	Meat Puppets	Meat Puppets	1982	33	200	239	
+3054	15	Minor Threat	Minor Threat	1984	40	55		
+3055	11	Talk Talk - 1997 Remaster	Talk Talk	1982	37	103	398	
+3056	19	Motrhead	Motrhead	1977	63	378		
+3057	21	Iron Maiden - 1998 Remastered Version	Iron Maiden	1981	50	127	314	97
+3058	5	Night Ranger	Night Ranger	1982	55	23		
+3059	21	Debbie Harry	Family Fodder	1998	45	301	126	
+3060	4	MC Hammer	Rick Ross, Gucci Mane	2010	55	368		
+3061	23	Shabba (feat. A$AP Rocky)	A$AP Ferg, A$AP Rocky	2013	12	194	252	
+3062	7	Wolfman Jack	Todd Rundgren	1972	13	48	426	
+3063	8	Alex Chilton - 2008 Remaster	The Replacements	1987	19	420	254	46
+3064	22	Pablo Picasso	The Modern Lovers	1976	19	69	442	
+3065	22	Clint Eastwood	Gorillaz	2001	16	170	372	19
+3066	4	I Wanna Be Your Joey Ramone	Sleater-Kinney	1996	28	180	117	
+3067	13	John Wayne Gacy, Jr.	Sufjan Stevens	2005	23	185		
+3068	15	Baby Got Back	Sir Mix-A-Lot	2013	42	58	462	
+3069	22	Heads Will Roll	Yeah Yeah Yeahs	2009	2	392	242	
+3070	13	Protect Ya Neck	Wu-Tang Clan	1993	2	328	307	129
+3071	23	Hips Don't Lie (feat. Wyclef Jean)	Shakira, Wyclef Jean	2005	41	239	311	
+3072	5	Dark Eyes	Geri Allen	1997	13	397	414	
+3073	18	My Head Hurts	Wavves	2015	21	444	218	373
+3074	8	Country Boy (You Got Your Feet In L.A.)	Glen Campbell	1975	6	28		
+3075	3	Slow Hands	Interpol	2004	35	401	288	
+3076	21	Flava in Ya Ear (feat. Notorious B.I.G. and Rampage) - Greatest Hits Version	Craig Mack, The Notorious B.I.G., Rampage	1998	8	405	55	
+3077	14	At Last	Etta James	1960	6	237	48	387
+3078	19	I Still Haven't Found What I'm Looking For - Remastered 2007	U2	1987	62	358	250	
+3079	6	End Of The Road	Boyz II Men	1991	13	434	361	
+3080	5	A Movie Script Ending	Death Cab for Cutie	2001	29	294	438	
+3081	20	Bitters End	Roxy Music	1972	14	244		
+3082	21	Never Ending Circles	CHVRCHES	2015	53	47	367	297
+3083	10	The End of the World	Skeeter Davis	1994	32	28	348	
+3084	2	The End Has No End	The Strokes	2003	2	197	393	
+3085	19	Death Is Not the End - 2011 Remastered Version	Nick Cave & The Bad Seeds	1996	10	339		
